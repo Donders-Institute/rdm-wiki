@@ -6,4 +6,3 @@ Research Data Management (RDM) aims to improve the research efficiency and trans
 * Data preservation for internal reuse
 * Research documentation for increasing reusability and reproducibility
 * Data sharing with the external scientific community
-
