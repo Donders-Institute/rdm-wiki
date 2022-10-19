@@ -13,6 +13,7 @@ Table of Contents
    :maxdepth: 2
 
    RDM in a nutshell <docs/index.rst>
+   Brain Imaging Data Structure <docs/bids.rst>
 
 .. extra tables and indices
     Indices and tables
