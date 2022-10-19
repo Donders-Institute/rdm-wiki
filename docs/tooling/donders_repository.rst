@@ -1,5 +1,5 @@
-RDM tooling
-***********
+Donders Repository
+******************
 
 The idea is to have Cyberduck and repocli as generic data transfer tools (not having specific DCCN purpose). The Stager and Uploader are tools with DCCN datastructure and use cases in mind.
 
