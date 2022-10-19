@@ -12,7 +12,7 @@ Table of Contents
 .. toctree::
    :maxdepth: 2
 
-   Research Data Management <docs/index.rst>
+   Research Data Management <docs/intro.rst>
    RDM in practice <docs/rdm_practice.rst>
    RDM tooling <docs/tooling/index.rst>
    Brain Imaging Data Structure <docs/bids.rst>
