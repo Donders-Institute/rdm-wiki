@@ -14,7 +14,7 @@ Table of Contents
 
    Research Data Management <docs/index.rst>
    RDM in practice <docs/rdm_practice.rst>
-   RDM tooling <docs/rdm_tooling.rst>
+   RDM tooling <docs/tooling/index.rst>
    Brain Imaging Data Structure <docs/bids.rst>
 
 .. extra tables and indices
