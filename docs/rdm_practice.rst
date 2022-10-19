@@ -24,7 +24,7 @@ Working centralized
 The idea is to encourage researchers to use central facility for research data, and to prevent data loss.  At DCCN it is linked to the storage facility offered for projects, and the Donders Repository.
 
 .. figure:: images/Storage-layers-dccn.png
-    :figwidth: 60%
+    :figwidth: 100%
     :align: center
 
     Figure: DCCN storage layers
