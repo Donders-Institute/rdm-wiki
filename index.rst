@@ -10,11 +10,14 @@ Table of Contents
 =================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
    Research Data Management <docs/intro.rst>
    RDM in practice <docs/rdm_practice.rst>
-   RDM tooling <docs/tooling/index.rst>
+   Project Storage <docs/project_storage.rst>
+   Donders Repository <docs/donders_repository.rst>
+   CastorEDC <docs/castoredc.rst>
+   Git Facility <docs/git.rst>
    Brain Imaging Data Structure <docs/bids.rst>
 
 .. extra tables and indices
