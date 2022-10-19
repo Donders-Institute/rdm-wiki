@@ -10,7 +10,7 @@ Table of Contents
 =================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    Research Data Management <docs/intro.rst>
    RDM in practice <docs/rdm_practice.rst>
