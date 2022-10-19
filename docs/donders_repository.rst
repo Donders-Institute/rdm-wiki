@@ -28,8 +28,3 @@ Idea is to provide some example script to efficiently compare the downloaded Man
 
 * result from `sha256sum` (useful for downloaded dataset from the DR)
 * resolve files not yet uploaded in the repository (supplement information to detect whether data has been uploaded completely)
-
-CastorEDC
-=========
-
-Useful for certain type of data.
