@@ -8,3 +8,4 @@ A list of RDM tools described in separate pages.
 
    Project Storage <project_storage.rst>
    Donders Repository <donders_repository.rst>
+   Git Facilities <git.rst>
