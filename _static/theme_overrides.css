@@ -12,6 +12,12 @@
    }
 }
 
+/* make page wider */
+@media screen and (min-width: 1280px) {
+   .wy--nav-content {
+    max-width: 1000px !important;
+}
+
 .kbd {
   -moz-border-radius:3px;
   -moz-box-shadow:0 1px 0 rgba(0,0,0,0.2),0 0 0 2px #fff inset;
