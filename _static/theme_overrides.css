@@ -12,11 +12,9 @@
    }
 }
 
-/* make page wider */
-@media screen and (min-width: 1280px) {
-   .wy-nav-content {
-      max-width: 1000px !important;
-   }
+/* remove content width limit */
+.wy-nav-content {
+   max-width: None !important;
 }
 
 .kbd {
