@@ -14,8 +14,9 @@
 
 /* make page wider */
 @media screen and (min-width: 1280px) {
-   .wy--nav-content {
-    max-width: 1000px !important;
+   .wy-nav-content {
+      max-width: 1000px !important;
+   }
 }
 
 .kbd {
