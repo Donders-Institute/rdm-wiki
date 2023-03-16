@@ -6,6 +6,8 @@ Data management plan
 
 Main question to be answered by the plan: which data is stored at where and why and who has access to the data.
 
+But the first question is what it means to question at all.
+
 We could show some examples and templates.
 
 Good documentation
