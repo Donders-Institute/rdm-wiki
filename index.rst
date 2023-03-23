@@ -12,13 +12,15 @@ Table of Contents
 .. toctree::
    :maxdepth: 2
 
-   Research Data Management <docs/intro.rst>
-   RDM in practice <docs/rdm_practice.rst>
-   Project Storage <docs/project_storage.rst>
-   Donders Repository <docs/donders_repository.rst>
-   CastorEDC <docs/castoredc.rst>
-   Git Facility <docs/git.rst>
-   Brain Imaging Data Structure <docs/bids.rst>
+   Introduction to Research Data Management <docs/1_intro.rst>
+   Research Data Life Cycle <docs/2_lifecycle.rst>
+   Data Storage Facilities <docs/3_storage.rst>
+   Data Transfer Tools <docs/4_tools.rst>
+   HPC Cluster <docs/5_hpc.rst>
+   Research Initiation <docs/6_initiation.rst>
+   Data Acquisition <docs/7_acquisition.rst>
+   Data Analysis and Documentation <docs/8_analysis.rst>
+   Data Sharing <docs/9_sharing.rst>
 
 .. extra tables and indices
     Indices and tables
