@@ -27,6 +27,7 @@ The FAIR Acronym
 
 **What Practices Promote FAIR Science?**
 =======
+
 Utilizing BIDS Format
 -----------
 BIDS (or Brain Imaging Data Structure) is the standard directory structure for brain imaging data. This structure is shown below.
