@@ -13,8 +13,8 @@ Table of Contents
    :maxdepth: 2
 
    Introduction to Research Data Management <docs/1_intro.rst>
-   Research Data Life Cycle <docs/2_lifecycle.rst>
-   Data Storage Facilities <docs/3_storage.rst>
+   Data Storage Facilities <docs/2_storage.rst>
+   Research Data Life Cycle <docs/3_lifecycle.rst>
    Data Transfer Tools <docs/4_tools.rst>
    HPC Cluster <docs/5_hpc.rst>
    Research Initiation <docs/6_initiation.rst>

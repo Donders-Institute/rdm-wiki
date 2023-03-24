@@ -1,12 +1,16 @@
 An Introduction to Research Data Management
 *****************
 
-Research Data Management (RDM) 
+This is an introduction to the purpose, importance, and benefits of proper Research Data Management. 
+There are few specific instructions about how to properly manage Research Data on this page. 
+Therefore, for those familiar with BIDS and the standards of providing metadata, this page can be skipped over. 
+
+Research Data Management 
 =======
 
 * Defined as the practice of storing, organizing, and maintaining data collected for research purposes
 
-* RDM aims to improve the research efficiency and transparency, and to fulfill the requirements of the university, funders, and legislation.
+* Research Data Management aims to improve the research efficiency and transparency, and to fulfill the requirements of the university, funders, and legislation.
 
 * Academic research should be FAIR
 
@@ -49,13 +53,27 @@ Providing answers to these questions in the metadata will enable other researche
 Archiving Datasets to Public Repositories
 -----------
 
-When it is possible, you should make your data publicly available. For all Donderians, you will be archiving to <http://public.data.donders.ru.nl>
+When it is possible, you should make your data publicly available. For all Donderians, you will be archiving to http://public.data.donders.ru.nl
 
 What Problems does Proper Research Data Managment Mitigate?
 =======
 
-* Risk of Losing Data
-* Limited Storage Space
-* Privacy Violations
-* The one-time use of data
-* Inefficient Analysis Practices
+Risk of Losing Data
+-----------
+Proper data management practices involve backing data up so that if local copies are lost, the data can still be retrieved
+
+Limited Storage Space
+-----------
+Proper data management practices ensure that there is the necessary space on local memory
+
+Privacy Violations
+-----------
+Proper data management practices protect the privacy and anonymity of research participants
+
+Non-Reusability
+-----------
+Proper data management practices enable data to be reused by future researchers
+
+Inefficienct Analysis Practices
+-----------
+Proper data managmenent practices free researchers up to do research better, faster, and smarter!
