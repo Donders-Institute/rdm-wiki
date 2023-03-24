@@ -26,13 +26,13 @@ We also explain how the life cycle of research data should be explained in a dat
    +-------------------+-----------------------------+-----------------------------+-----------------------------+-----------------------------+
    | *Ends With*       | Project Proposal Approval   | Final Subject               | Article is Accepted         | Data is FAIR                |
    +-------------------+-----------------------------+-----------------------------+-----------------------------+-----------------------------+
-   | *Tasks*           | Designing Experiment      | | Recruiting Subjects       | | Preprocessing Data        | | Make data FAIR            | |
-   |                   | Running Simulations       | | Collecting Data           | | Analyzing Data            | | Anonymize Data            | |
-   |                   | Analyzing Existing Data   | |                           | | Writing Results           | |                           | |
+   | *Tasks*           | | Designing Experiment      | | Recruiting Subjects       | | Preprocessing Data        | | Make data FAIR            |
+   |                   | | Running Simulations       | | Collecting Data           | | Analyzing Data            | | Anonymize Data            |
+   |                   | | Analyzing Existing Data   | |                           | | Writing Results           | |                           |
    +-------------------+-----------------------------+-----------------------------+-----------------------------+-----------------------------+
-   | *Data*            | Analysis Scripts          | | Raw Data Files            | | Processed Data Files      | | Analysis Scripts          | |
-   |                   | Existing Datasets         | | Metadata                  | | Analysis Scripts          | | Processed Data Files      | |
-   |                   | Experiment Script         | | Surveys                   | | Figures                   | | Metadata                  | |
+   | *Data*            | | Analysis Scripts          | | Raw Data Files            | | Processed Data Files      | | Analysis Scripts          |
+   |                   | | Existing Datasets         | | Metadata                  | | Analysis Scripts          | | Processed Data Files      |
+   |                   | | Experiment Script         | | Surveys                   | | Figures                   | | Metadata                  |
    +-------------------+-----------------------------+-----------------------------+-----------------------------+-----------------------------+
 
 
