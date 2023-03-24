@@ -5,7 +5,7 @@ This is an overview of the storage facilities of the DCCN.
 This documentation is given primarily for new users of the DCCN who do not have experience with the system. 
 However, for experienced users, this will be redundant and can be skipped. 
 
-Local Storage
+**Local Storage**
 =================================
 
 Using local storage is highly risky. 
@@ -40,7 +40,7 @@ Personal Computer
 -----------
 Under no circumstances can your personal computer be connected to the Trigon Network.
 
-Central Storage
+**Central Storage**
 =================================
 
 Central Storage is accessible via the Trigon Network or the High Performance Computing (HPC) Cluster. 
@@ -83,7 +83,7 @@ The Group directory enables passive data sharing between members of a laboratory
 All lab group members have read-write access, meaning that they can read, create, delete, move, copy, and edit files located in the group directory. 
 Your home directory will be located at ``G:/groupname/`` on Windows PCs connected to the Trigon and the ``\group\groupname\`` on the HPC Cluster. 
 
-Donders Repository
+**Donders Repository**
 =================================
 
 The Donders Repository is a data repository for researchers of the the Donders Institute to archive and/or publish their research data. 
@@ -148,6 +148,9 @@ Data Managegment Workflow with the Donders Repository
     :align: center
 
     Figure: Data Managegment Workflow with the Donders Repository
+
+
+The pdf version of this image (with active hyperlinks) can be found at: https://data.donders.ru.nl/doc/help/helppages/dr-nutshell.html?27
 
 ----
 
