@@ -48,7 +48,7 @@ These SOPs were developed for data sets which fall under the blanket ethical app
 Read more about the SOPs for Research Data Managment here:
   https://intranet.donders.ru.nl/fileadmin/user_upload/DCCN/Research/Standard_Operating_Procedures/RDM_compliance_monitoring_SOP_20180621.pdf
  
-and the SOPs for Preventing Data Leaks here:
+and the SOPs for Preventing Data Leaks here: 
   https://intranet.donders.ru.nl/fileadmin/user_upload/DCCN/Research/CMO_Ethics_2016/NewTemplates_SOP/DataLeakage_SOP_DCCN_version_1_0_Sept_2016_newtemplate_01.pdf
 
 If your study does not fall under the blanket ethical approval, you should contact the Data Steward for the DCCN: steven.ligthert@donders.ru.nl

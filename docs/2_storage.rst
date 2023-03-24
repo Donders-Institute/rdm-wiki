@@ -98,7 +98,7 @@ Access must be granted by the Manager of the collection: usually, this is the PI
 Data Acquisition Collections
 -----------
 Data Acquisition Collections contain raw data. 
-Its purpose is to ensure that data are archived without any manipultions which limit the potential for future.
+Its purpose is to ensure that data are archived without any manipultions which limit the potential for future research.
 Additionally, it ensures that in the event of accidental deletion of data in the project folder, this data is not lost. 
 Consequently, it enables researchers to delete the raw files of data in the project folder after these files are processed. 
 Researchers may wish to delete the raw files in the project folder to ensure that they stay under their storage quota.
