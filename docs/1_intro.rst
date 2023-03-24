@@ -53,7 +53,6 @@ Providing answers to these questions in the metadata will enable other researche
 
 Archiving Datasets to Public Repositories
 -----------
-
 When it is possible, you should make your data publicly available. For all Donderians, you will be archiving to http://public.data.donders.ru.nl
 
 **What Problems does Proper Research Data Managment Mitigate?**

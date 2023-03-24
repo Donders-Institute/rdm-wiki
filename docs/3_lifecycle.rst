@@ -55,7 +55,6 @@ If your study does not fall under the blanket ethical approval, you should conta
 
 Storage
 ---------
-
 Moving data between storage facilities intuitively follows the researcher's needs and objectives at each point in the Research Life Cycle. 
 
 .. figure:: images/Storage-layers-dccn.png

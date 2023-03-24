@@ -112,7 +112,6 @@ Here DAC refers to Data Acquisition Collection, 1234567.89 refers to the Project
 
 Research Documentation Collections
 -----------
-
 Research Documentation Collections contain documents. 
 Its purpose is to memorandize the process by which raw data came to lead to your published results. 
 You must request a Research Documentation Collection for your project.
@@ -126,7 +125,6 @@ These are not the same random digits as those in the Data Acquistion Collection 
 
 Data Sharing Collections
 -----------
-
 Data Sharing Collections contain processed data and analysis scripts. 
 Its purpose is to enable researchers to reanalyze the data with new methods and/or address new research questions with this data. 
 There are two kinds of Data Sharing Collections: private and public. 
