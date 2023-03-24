@@ -12,10 +12,14 @@ Research Data Management (RDM)
 
 The FAIR Acronym
 -----------
-**F**indable
-**A**ccessible
-**I**nteroperable
-**R**eusable
+**F** indable
+
+**A** ccessible
+
+**I** nteroperable
+
+**R** eusable
+
 
 What Practices Promote FAIR Science?
 =======
@@ -32,7 +36,7 @@ Providing Metadata
 
 Your dataset should provide the information necessary to understand and use it: this is called metadata.
 
-The metadata you provide should answer the 5 **W**s:
+The metadata you provide should answer the 5 **W** s:
 
 1. Who - Who comprised your sample?
 2. What - What measures did you use?
@@ -52,6 +56,6 @@ What Problems does Proper Research Data Managment Mitigate?
 
 * Risk of Losing Data
 * Limited Storage Space
-* Privacy Concerns
-* Replication Crisis
+* Privacy Violations
+* The one-time use of data
 * Inefficient Analysis Practices
