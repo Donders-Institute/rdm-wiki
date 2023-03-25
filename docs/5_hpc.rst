@@ -9,6 +9,7 @@ For those who have already followed the HPC Workshop, this part should be skippe
 ===============================
 
 The HPC Cluster is comprised of two groups of computers:
+
 1. Access Nodes - these allow you to login and access the compute nodes
 2. Compute Nodes - these are a pool of powerful computers which can run *jobs* (some kind of computation task) in parallel
 
@@ -24,7 +25,7 @@ The HPC Cluster is comprised of two groups of computers:
 **Which storage facilities can I interact with on the HPC Cluster?**
 ===============================
 
-While on the HPC Cluster,you have access to Central Storage, meaning that you have read-write access to files in the Project, Home,and Group Directories.
+While on the HPC Cluster,you have access to Central Storage, meaning that you have read-write access to files in the Project, Home, and Group Directories.
 
 **Why should I use the HPC Cluster?**
 ===============================
@@ -56,32 +57,32 @@ If you have other preferences, you should deviate from these instructions.
 2. Establish a VPN connection to Trigon. 
 
 * Open eduVPN and login. 
-* After your login has been approved but before you establish the VPN connection, select `RU Donders Institute Trigon (Full Access)` in the dropdown menu. 
+* After your login has been approved but before you establish the VPN connection, select ``RU Donders Institute Trigon (Full Access)`` in the dropdown menu. 
 * Now, click the slider to connect. 
 
 3. Start a VNC session
 
 * Open PuTTY
-* In the `Host Name(or IP address)` field, type `mentat001.dccn.nl`
-* In the `Port` field, type `22`
-* Click `Open`
+* In the ``Host Name(or IP address)`` field, type ``mentat001.dccn.nl``
+* In the ``Port`` field, type ``22``
+* Click ``Open``
 * Insert your DCCN credentials (the username for a person with Firstname Lastname is firlas)
-* Type `vncmanager` into the terminal
-* Type `4` to go to `Set my VNC password` and push `enter` to proceed
-* Set your password ( it can be anything you want but you MUST remember it), push `enter` to proceed, verify the password, push `enter` to proceed, type `n` to skip setting a read-only password, and push `enter` to proceed
-* Type `2` to go to `Start a (VirtualGL) VNC server` and push `enter` to proceed
-* Push `enter` on the first host on the list to start your VNC server at the least occupied access node
-* Push `enter` to select the default screen resolution for your computer
-* Push `y` to prevent VNC from overlapping the Windows toolbar then `enter` to procee
-* Push `1 ` to select the `xfce - Lightweight XForm CE WIndow Manager`
+* Type ``vncmanager`` into the terminal
+* Type ``4`` to go to ``Set my VNC password`` and push ``enter`` to proceed
+* Set your password ( it can be anything you want but you MUST remember it), push ``enter`` to proceed, verify the password, push ``enter`` to proceed, type ``n`` to skip setting a read-only password, and push ``enter`` to proceed
+* Type ``2`` to go to ``Start a (VirtualGL) VNC server`` and push ``enter`` to proceed
+* Push ``enter`` on the first host on the list to start your VNC server at the least occupied access node
+* Push ``enter`` to select the default screen resolution for your computer
+* Push ``y`` to prevent VNC from overlapping the Windows toolbar then ``enter`` to procee
+* Push ``1`` to select the ``xfce - Lightweight XForm CE WIndow Manager``
 * Type in your DCCN password (NOT the VNC password you just set)
-* You should now be looking at a screen which says `You have the following VNC servers running`: if you do not, go to the start screen of the vncmanager and push `1` to go to `List my running VNC servers` and push `enter`
+* You should now be looking at a screen which says ``You have the following VNC servers running``: if you do not, go to the start screen of the vncmanager and push ``1`` to go to ``List my running VNC servers`` and push ``enter``
 
 4. Open up the VNC GUI
 
 * Open TigerVNC side-by-side PuTTY
-* In the `VNC server:` of TigerVNC, type the name of the VNC server which is listed in PuTTY and then push `enter`
-* Insert the VNC password you just set in the previous step and then push `enter`
+* In the ``VNC server:`` of TigerVNC, type the name of the VNC server which is listed in PuTTY and then push ``enter``
+* Insert the VNC password you just set in the previous step and then push ``enter``
 * You have now opened the VNC GUI - it should look similar to your Desktop with a few differences
 
 **Where can I learn more about the HPC Cluster?**
