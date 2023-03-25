@@ -73,7 +73,7 @@ If you have other preferences, you should deviate from these instructions.
 * Type ``2`` to go to ``Start a (VirtualGL) VNC server`` and push ``enter`` to proceed
 * Push ``enter`` on the first host on the list to start your VNC server at the least occupied access node
 * Push ``enter`` to select the default screen resolution for your computer
-* Push ``y`` to prevent VNC from overlapping the Windows toolbar then ``enter`` to procee
+* Push ``y`` to prevent VNC from overlapping the Windows toolbar then ``enter`` to proceed
 * Push ``1`` to select the ``xfce - Lightweight XForm CE WIndow Manager``
 * Type in your DCCN password (NOT the VNC password you just set)
 * You should now be looking at a screen which says ``You have the following VNC servers running``: if you do not, go to the start screen of the vncmanager and push ``1`` to go to ``List my running VNC servers`` and push ``enter``
