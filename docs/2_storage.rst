@@ -92,8 +92,6 @@ Therefore, it serves the purpose of backing up data so that, in the case of acci
 Additionally, it serves the purpose of improving research documentation for better reproducibility. 
 Finally, it also serves the purpose of hosting data after the completion of the project. 
 It is hosted at https://data.donders.ru.nl/. 
-Importantly, you do not get access to any of the three collections by default - even if you have access to the Project Folder. 
-Access must be granted by the Manager of the collection: usually, this is the PI.
 
 Data Acquisition Collections
 -----------
