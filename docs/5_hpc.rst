@@ -1,7 +1,6 @@
-What is BIDS?
-*************
-
-* Advantage of using BIDS
-* BIDS-like raw data structure of DCCN dataflow
-* BIDS structure convertor/generator
-* BIDS validator
+V.	HPC Cluster
+A.	What is the HPC Cluster?
+B.	Which storage facilities can I interact with on the HPC Cluster?
+C.	Why should I use the HPC Cluster?
+D.	How do I access the HPC Cluster?
+1.	Exercise 1 – How to start a VNC Session

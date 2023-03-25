@@ -16,26 +16,32 @@ We also explain how the life cycle of research data should be explained in a dat
 
 
 
+.. _Initiation: docs/6_initiation.rst
+.. _Data Acquisition: docs/7_acquisition.rst
+.. _Analysis and Documentation: docs/8_analysis.rst
+.. _Sharing: docs/9_sharing.rst
 .. table::
    :widths: auto
 
-   +-------------------+-----------------------------+-----------------------------+-----------------------------+-----------------------------+
-   |                   | Initiation                  | Data Acquisition            | Analysis and Documentation  | Sharing                     |
-   +===================+=============================+=============================+=============================+=============================+
-   | *Starts With*     | Research Question           | Project Proposal Approval   | Final Subject               | Article is Accepted         |
-   +-------------------+-----------------------------+-----------------------------+-----------------------------+-----------------------------+
-   | *Ends With*       | Project Proposal Approval   | Final Subject               | Article is Accepted         | Data is FAIR                |
-   +-------------------+-----------------------------+-----------------------------+-----------------------------+-----------------------------+
-   | *Tasks*           | | Designing Experiment      | | Recruiting Subjects       | | Preprocessing Data        | | Make data FAIR            |
-   |                   | | Running Simulations       | | Collecting Data           | | Analyzing Data            | | Anonymize Data            |
-   |                   | | Analyzing Existing Data   | |                           | | Writing Results           | |                           |
-   +-------------------+-----------------------------+-----------------------------+-----------------------------+-----------------------------+
-   | *Data*            | | Analysis Scripts          | | Raw Data Files            | | Processed Data Files      | | Analysis Scripts          |
-   |                   | | Existing Datasets         | | Metadata                  | | Analysis Scripts          | | Processed Data Files      |
-   |                   | | Experiment Script         | | Surveys                   | | Figures                   | | Metadata                  |
-   +-------------------+-----------------------------+-----------------------------+-----------------------------+-----------------------------+
+   +-------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
+   |                   | `Initiation`_               | `Data Acquisition`_         | `Analysis and Documentation`_ | `Sharing`_                  |
+   +===================+=============================+=============================+===============================+=============================+
+   | *Starts With*     | Research Question           | Project Proposal Approval   | Final Subject                 | Article is Accepted         |
+   +-------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
+   | *Ends With*       | Project Proposal Approval   | Final Subject               | Article is Accepted           | Data is FAIR                |
+   +-------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
+   | *Tasks*           | | Designing Experiment      | | Recruiting Subjects       | | Preprocessing Data          | | Make data FAIR            |
+   |                   | | Running Simulations       | | Collecting Data           | | Analyzing Data              | | Anonymize Data            |
+   |                   | | Analyzing Existing Data   | |                           | | Writing Results             | |                           |
+   +-------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
+   | *Data*            | | Analysis Scripts          | | Raw Data Files            | | Processed Data Files        | | Analysis Scripts          |
+   |                   | | Existing Datasets         | | Metadata                  | | Analysis Scripts            | | Processed Data Files      |
+   |                   | | Experiment Script         | | Surveys                   | | Figures                     | | Metadata                  |
+   +-------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
 
 
+In this course, we will have exercises which will give you practice with transferring data. 
+Specifically, these exercises will be structured based on your research data management needs during each of these steps in the research cycle. 
 
 **Data Management Plan**
 ====================
