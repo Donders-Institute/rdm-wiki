@@ -16,10 +16,10 @@ We also explain how the life cycle of research data should be explained in a dat
 
 
 
-.. _Initiation: https://rdm.dccn.nl/6_initiation.html
-.. _Data Acquisition: https://rdm.dccn.nl/7_acquisition.html
-.. _Analysis and Documentation: https://rdm.dccn.nl/8_analysis.html
-.. _Sharing: https://rdm.dccn.nl/9_sharing.html
+.. _Initiation: https://rdm.dccn.nl/docs/6_initiation.html
+.. _Data Acquisition: https://rdm.dccn.nl/docs/7_acquisition.html
+.. _Analysis and Documentation: https://rdm.dccn.nl/docs/8_analysis.html
+.. _Sharing: https://rdm.dccn.nl/docs/9_sharing.html
 .. table::
    :widths: auto
 
