@@ -57,7 +57,7 @@ We will practice downloading this DSC onto your Home Drive (replace groupname wi
 * Open TigerVNC
 * Open the terminal application
 * Type ``repocli shell`` and then push ``enter``
-* Type ``repocli login`` and then push ``enter``
+* Type ``login`` and then push ``enter``
 * Enter your RU username (u1234567@ru.nl) and then push ``enter``
 * Enter your RU password and then push ``enter``
 * Push ``y`` and then push ``enter``
@@ -151,3 +151,32 @@ How can I move files from my home drive into my (newly issued) Project folder?
 ==============================================================================
 
 This is as simple as dragging and dropping files (or however you usually move files around locally)
+
+Test Your Understanding
+=======================
+
+Scroll slowly: Answers are right below questions.
+
+Q: Why don't we recommend Uploader to move files from our local storage to the Project Storage and DAC?
+-------------------------------------------------------------------------------------------------------
+
+A: Uploader can upload to both Project Storage and the DAC automatically.
+However, we discourage using this for anything other than experimental data because it automatically formats these files like raw data.
+Therefore, transferring these files separately helps reduce confusion and prevent these files from being lost.
+
+Q: I have uploaded my data to *either* my newly created Project folder or my newly created DAC. What is the easiest way to move this data between the Project folder and the Donders Repository?
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A: Stager. 
+Stager is designed to move files between the Project Folder and Donders Repository. 
+You can upload files from the Project folder to the Repository and download files from the Repository to the Project folder. 
+
+Q: When is Repocli a better tool than Cyberduck for transferring files?
+-----------------------------------------------------------------------
+
+A: Repocli can do everything that Cyberduck can do. 
+It requires fewer steps to use Repocli than it does with Cyberduck. 
+However, many users will prefer Cyberduck because it has a graphical, rather than command line, interface. 
+Repocli is always better than Cyberduck if you can script in BASH. 
+Repocli enables users to download data more efficiently, more specifically, and faster when using scripting. 
+Therefore, Repocli is better whenever it is faster and more reliable for you to script than to simply point-and-click. 
