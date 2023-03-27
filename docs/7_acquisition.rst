@@ -2,6 +2,8 @@
 Data Acquisition
 ****************
 
+This offers some examples of research data management practices which should be followed during data acquisiton.
+
 How and when is data automatically transferred?
 ===============================================
 

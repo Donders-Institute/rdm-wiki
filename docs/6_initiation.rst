@@ -107,6 +107,8 @@ Let's try using Repocli to selectively download a subset of data files from one 
 Exercise 6: Download a subset of data from OpenNeuro Using Repocli
 ------------------------------------------------------------------
 
+{}
+
 How should I move files from my local computer into my (newly issued) Project folder?
 =====================================================================================
 
