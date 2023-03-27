@@ -27,7 +27,7 @@ Since you are a member of the Donders Institute, you can request access to priva
 Exercise 2: Creating a Donders Repository Account
 -------------------------------------------------
 
-In order to access any Donders Repository Collections, you must create a Donders Repository account.
+1. Create a Donders Repository account.
 
 * Open your internet browser of choice
 * Go to https://data.donders.ru.nl
@@ -54,6 +54,8 @@ We will practice downloading this DSC onto your Home Drive (replace groupname wi
 
 *Requires a VNC and VPN Connection*
 
+1. Login to the Donders Repostiory
+
 * Open TigerVNC
 * Open the terminal application
 * Type ``repocli shell`` and then push ``enter``
@@ -61,6 +63,9 @@ We will practice downloading this DSC onto your Home Drive (replace groupname wi
 * Enter your RU username (u1234567@ru.nl) and then push ``enter``
 * Enter your RU password and then push ``enter``
 * Push ``y`` and then push ``enter``
+
+2. Download the Data Sharing Collection to Your Home Directory
+
 * Type ``get dccn/DSC_3010000.05_519 /home/groupname/firlas``
 
 Exercise 4: Download data from a DSC you have not been added to with Cyberduck
@@ -68,11 +73,16 @@ Exercise 4: Download data from a DSC you have not been added to with Cyberduck
 
 *Does not require a VNC or VPN Connection*
 
+1. Login to the Donders Repository
+
 * Open Cyberduck
 * Click ``Open Connection`` at the top left of the window
 * Click on the dropdown menu (which defaults to ``File Transfer Protocol (FTP)``) and select ``WebDAV (HTTPS)`` 
 * At the ``Server:`` field type in ``public.data.donders.ru.nl``
 * Click the box next to ``Anonymous Login`` and then click ``Connect`` at the bottom right side of the window
+
+2. Download the Data Sharing Collection to Your Folder of Choice
+
 * Double click on the ``dccn`` directory 
 * Single click on the ``DSC_3010000.11_518_v1`` directory 
 * Locate and click on ``Action`` at the top of the window and then select ``Download To`` on the dropdown menu
@@ -113,18 +123,27 @@ Exercise 7: Uploading analysis files to my new DAC from my local computer with C
 
 *Does not require a VNC or VPN Connection*
 
+1. Login to the Donders Repository
+
 * Open Cyberduck
 * Click ``Open Connection`` at the top left of the window
 * Click on the dropdown menu (which defaults to ``File Transfer Protocol (FTP)``) and select ``WebDAV (HTTPS)`` 
 * At the ``Server:`` field type in ``webdav.data.donders.ru.nl``
 * Enter your RU username (u1234567@ru.nl) and password and then click ``Connect`` at the bottom right side of the window
+
+2. Create an Upload Directory
+
 * Double click on the ``dccn`` directory 
 * Double click on the ``DAC_3010000.05_873`` directory 
 * Double click on the ``scripts`` directory
 * Locate and click on ``Action`` at the top of the window and then select ``New Folder`` on the dropdown menu
 * Type your DCCN username (firlas) in the Field and push ``Create``
+
+3. Upload your files 
+
 * You should be in the folder just created: if not navigate to that folder and select ``Upload`` at the top center of the window
-* Navigate to the ``Downloads`` folder in your local drive, select the **unzipped** ``RDM_Workshop Materials`` directory and push ``choose``
+* Navigate to the ``Downloads`` folder in your local drive and double click on the **unzipped** ``RDM_Workshop Materials`` directory
+* Control-Click each file in this directory push ``choose``
 * Select the disconnect button at the top right of the window
 
 Exercise 8: Uploading analysis files to the Project Folder from my local computer with Cyberduck
@@ -132,19 +151,28 @@ Exercise 8: Uploading analysis files to the Project Folder from my local compute
 
 *Does require a VPN Connection*
 
+1. Connect to an Access Node
+
 * Open Cyberduck
 * Click ``Open Connection`` at the top left of the window
 * Click on the dropdown menu (which defaults to ``File Transfer Protocol (FTP)``) and select ``SSH File Transfer Protocol (SFTP)`` 
 * At the ``Server:`` field type in ``mentat001.dccn.nl``
 * Enter your DCCN username (firlas@dccn.nl) and password and then click ``Connect`` at the bottom right side of the window
+
+2. Create an Upload Directory
+
 * Click on the directory field which should say ``/home/groupname/firlas`` and select ``/``
 * Double click on the ``project`` directory 
 * Double click on the ``3010000.05`` directory 
 * Double click on the ``scripts`` directory
 * Locate and click on ``Action`` at the top of the window and then select ``New Folder`` on the dropdown menu
 * Type your DCCN username (firlas) in the Field and push ``Create``
-* You should be in the folder just created: if not navigate to that folder and then select ``Upload`` at the top center of the window
-* Navigate to the ``Downloads`` folder in your local drive, select the **unzipped** ``RDM_Workshop Materials`` directory and push ``choose``
+
+3. Upload your files 
+
+* You should be in the folder just created: if not navigate to that folder and select ``Upload`` at the top center of the window
+* Navigate to the ``Downloads`` folder in your local drive and double click on the **unzipped** ``RDM_Workshop Materials`` directory
+* Control-Click each file in this directory push ``choose``
 * Select the disconnect button at the top right of the window
 
 How can I move files from my home drive into my (newly issued) Project folder?
