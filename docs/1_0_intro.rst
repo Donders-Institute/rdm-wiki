@@ -8,7 +8,7 @@ Therefore, for those familiar with BIDS and the standards of providing metadata,
 Section Overview
 =================
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    Defining Research Data Management <docs/1_1.rst>
    Achieving FAIR Science <docs/1_2.rst>
