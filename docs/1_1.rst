@@ -22,4 +22,6 @@ Further Reading
 
 Radboud University Research Data Managment: https://ru.nl/rdm/
 
-Fair Principles: https://www.nature.com/articles/sdata201618#:~:text=FAIR%E2%80%94Findable%2C%20Accessible%2C%20Interoperable%2C%20Reusable
+Radboud University Checklist for Research Data Managment: https://rdm/vm/checklist-rdm
+
+FAIR Principles: https://www.nature.com/articles/sdata201618#:~:text=FAIR%E2%80%94Findable%2C%20Accessible%2C%20Interoperable%2C%20Reusable
