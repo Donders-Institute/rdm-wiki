@@ -11,7 +11,7 @@ In This Section
 .. toctree::
    :maxdepth: 2
 
-   Research Data Management <docs/1_introduction/1_1.rst>
-   Achieving FAIR Science <docs/1_introduction/1_2.rst>
-   Benefits of Proper Research Data Management <docs/1_introduction/1_3.rst>
+   Research Data Management <1_1.rst>
+   Achieving FAIR Science <1_2.rst>
+   Benefits of Proper Research Data Management <1_3.rst>
    
