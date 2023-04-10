@@ -1,0 +1,25 @@
+Research Data Management
+*****************
+
+* Defined as the practice of storing, organizing, and maintaining data collected for research purposes
+
+* Research Data Management aims to improve the research efficiency and transparency, and to fulfill the requirements of the university, funders, and legislation.
+
+* Academic research should be FAIR
+
+The FAIR Acronym
+================
+**Findable** - data collections are assigned an *ETERNALLY* perisistent identifer (DOI), described with rich metadata, and are registered in a searchable resource (i.e. a repository)
+
+**Accessible** - data collections are retrievable by their identifier, the protocol for access is open and free, and the protocol allows for authentication and authorization when necessary
+
+**Interoperable** - data collections use appropriate formal shared language and include qualified references to other data collections
+
+**Reusable** - data collections have accurate and relevant attributes, clear and accesible data usage license, and meet domain-relevant community standards
+
+Further Reading
+===============
+
+Radboud University Research Data Managment: https://ru.nl/rdm/
+
+Fair Principles: https://www.nature.com/articles/sdata201618#:~:text=FAIR%E2%80%94Findable%2C%20Accessible%2C%20Interoperable%2C%20Reusable

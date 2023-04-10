@@ -12,7 +12,7 @@ Table of Contents
 .. toctree::
    :maxdepth: 2
 
-   Introduction to Research Data Management <docs/1_intro.rst>
+   Introduction to Research Data Management <docs/1_0_intro.rst>
    Data Storage Facilities <docs/2_storage.rst>
    Research Data Life Cycle <docs/3_lifecycle.rst>
    Data Transfer Tools <docs/4_tools.rst>
