@@ -7,7 +7,7 @@ Therefore, for those familiar with BIDS and the standards of providing metadata,
 
 Section Overview
 =================
-
+.. toctree::
    :maxdepth: 1
 
    Defining Research Data Management <docs/1_1.rst>
