@@ -10,10 +10,10 @@ Table of Contents
 =================
 
 .. toctree::
-   :maxdepth: 2
+   :numbered:
 
    Introduction to Research Data Management <docs/1_0_intro.rst>
-   Data Storage Facilities <docs/2_storage.rst>
+   Data Storage Facilities <docs/2_0_storage.rst>
    Research Data Life Cycle <docs/3_lifecycle.rst>
    Data Transfer Tools <docs/4_tools.rst>
    HPC Cluster <docs/5_hpc.rst>
@@ -22,10 +22,3 @@ Table of Contents
    Data Analysis and Documentation <docs/8_analysis.rst>
    Data Sharing <docs/9_sharing.rst>
 
-.. extra tables and indices
-    Indices and tables
-    ==================
-
-    * :ref:`genindex`
-    * :ref:`modindex`
-    * :ref:`search`
