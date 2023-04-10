@@ -1,4 +1,4 @@
-**What Problems does Proper Research Data Managment Mitigate?**
+What Problems does Proper Research Data Managment Mitigate?
 **************
 
 Risk of Losing Data

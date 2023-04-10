@@ -1,4 +1,4 @@
-Research Data Management
+What is Research Data Management?
 *****************
 
 * Defined as the practice of storing, organizing, and maintaining data collected for research purposes
