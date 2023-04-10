@@ -13,6 +13,9 @@ Table of Contents
    :numbered:
 
    Introduction to Research Data Management <docs/1_0_intro.rst>
+      Research Data Management <docs/1_1.rst>
+      Achieving FAIR Science <docs/1_2.rst>
+      Benefits of Proper Research Data Management <docs/1_3.rst>
    Data Storage Facilities <docs/2_0_storage.rst>
    Research Data Life Cycle <docs/3_lifecycle.rst>
    Data Transfer Tools <docs/4_tools.rst>
