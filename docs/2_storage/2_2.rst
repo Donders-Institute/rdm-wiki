@@ -1,0 +1,46 @@
+Central Storage
+******************************
+
+Central Storage is accessible via hardwired connections the Trigon Network or the High Performance Computing (HPC) Cluster. 
+Central Storage is sometimes referred to as High Performance Storage. 
+There are three Drives/Directories on the Central Storage which are relevant for Research Data Management. 
+
+Project
+==========
+For Windows PCs connected to the Trigon Network, this is the ``P:\`` drive (look under "Network" in File Explorer). 
+For VNC Sessions on the HPC Cluster, this is the ``/project/`` folder. 
+
+Research at DCCN is organized by projects. 
+Projects are assigned numbers after the Project Proposal Form is completed and approved.
+
+Project numbers are given in the format ``1234567.89``. 
+Your project's data will be located at ``P:\1234567.89\`` on Windows PCs connected to the Trigon and the ``/project/1234567.89/`` on the HPC Cluster.
+
+Based on the storage you request in the Project Proposal Form, you will be given a quota of storage which cannot be exceeded in your project's folder.
+Each research project, once approved, will be provided with a quota on the DCCN central storage allowing researchers to store and process the research data related to the project. 
+
+Further Reading:
+
+- https://intranet.donders.ru.nl/index.php?id=projectstorage
+- https://intranet.donders.ru.nl/index.php?id=quota
+- https://hpc.dccn.nl/docs/project_storage/access_management.html
+
+Home
+=============
+For Windows PCs connected to the Trigon Network, this is the ``H:\`` drive (look under "Network" in File Explorer) which is also the ``M:\`` drive. 
+For VNC Sessions on the HPC Cluster, this is the ``/home/`` or ``/my/`` folder. 
+
+After you have signed in at the DCCN, you will be given 5 GB of storage space on in your home directory. 
+Your home directory is located within your laboratory group's directory under your DCCN username (Firstname Lastname is firlas).
+Your home directory will be located at ``H:\groupname\firlas\`` or ``M:\\`` on Windows PCs connected to the Trigon and ``/home/groupname/firlas/`` or ``/my/`` on the HPC Cluster. 
+
+Groupshare
+============
+For Windows PCs connected to the Trigon Network, this is the ``G:\`` drive (look under "Network" in File Explorer). 
+For VNC Sessions on the HPC Cluster, this is the ``/group/`` folder. 
+
+The Group directory enables passive data sharing between members of a laboratory group. 
+All lab group members have read-write access, meaning that they can read, create, delete, move, copy, and edit files located in the group directory. 
+Therefore, using the groupshare is ideal for use cases such as having a fellow lab member run your analysis script to check for mistakes.
+
+Your home directory will be located at ``G:\groupname\`` on Windows PCs connected to the Trigon and the ``/group/groupname/`` on the HPC Cluster. 
