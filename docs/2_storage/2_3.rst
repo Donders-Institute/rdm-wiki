@@ -9,11 +9,12 @@ Additionally, it serves the purpose of improving research documentation for bett
 Finally, it also serves the purpose of hosting data after the completion of the project. 
 It is hosted at https://data.donders.ru.nl/. 
 
-.. figure:: images/DI_Workflow_EG.png
+.. figure:: DI_Workflow_EG.png
     :figwidth: 50%
     :align: left
 
     Figure: Data Managegment Workflow with the Donders Repository
+
 
 
 The pdf version of this image (with active hyperlinks) can be found at: https://data.donders.ru.nl/doc/help/helppages/dr-nutshell.html?27
