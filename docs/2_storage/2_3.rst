@@ -11,9 +11,10 @@ It is hosted at https://data.donders.ru.nl/.
 
 .. figure:: DI_Workflow_EG.png
     :figwidth: 50%
-    :align: left
+    :align: center
 
     Figure: Data Managegment Workflow with the Donders Repository
+
 
 
 
