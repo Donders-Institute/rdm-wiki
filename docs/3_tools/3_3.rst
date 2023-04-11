@@ -1,0 +1,19 @@
+Stager
+******
+ 
+About
+=====
+* A web-based tool which efficiently enables the user to move data between Project Storage and the Donders Repository 
+* Requires the user to be connected to the Trigon Network - either physically or via VPN
+* Specifically created for DCCN use
+
+Capabilities
+============
+* Enables transfer between the Project Storage and Donders Repository
+
+Benefits
+=======
+* Extremely easy-to-use
+
+Exercises Using Stager
+======================

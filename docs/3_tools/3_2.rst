@@ -1,0 +1,22 @@
+Repocli
+**********
+
+About
+=====
+* A command-line tool for transferring data to the Donders Repository from either Local Computers or the HPC Cluster.  
+* Runs in Windows, MacOSX and Linux. 
+* Enables the user to script the upload or download of specific files from any repository. 
+* A generic data transfer tool with a steep learning curve. 
+
+Capabilities
+============
+* Enables transfer between Local Storage and the Donders Repository
+* Enables transfer between Central Storage and the Donders Repository
+
+Benefits
+=======
+* Operations are much more robust than with other tools 
+* Enables specification which can substantial minimize user error and maximize efficiency.
+
+Exercises Using Repocli
+=========================

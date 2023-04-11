@@ -1,0 +1,23 @@
+Cyberduck
+**********
+
+About
+=====
+* A graphical tool for transferring data from the local computer
+* It runs in both Windows and MacOSX
+* Generic Graphical User Interface WebDAV client
+* Installed onto all DCCN Computers and its use is supported in the DCCN 
+
+Capabilities
+============
+* Enables transfer between Local Storage and Central Storage (SFTP)
+* Enables transfer between Local Storage and the Donders Repository (HTTPS) 
+
+Benefits
+========
+* Extremely easy to use 
+* Serves multiple purposes
+* A generic tool 
+
+Exercises Using Cyberduck
+=========================

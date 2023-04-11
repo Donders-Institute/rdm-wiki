@@ -1,0 +1,28 @@
+.. _Cyberduck: http://cyberduck.io
+.. _Repocli: https://github.com/Donders-Institute/dr-tools/tree/main/cmd/repocli
+.. _Stager: https://stager.dccn.nl
+.. _Uploader: https://uploader.dccn.nl
+
+Overview of Data Transfer Tools
+********************************
+
+.. table::
+   :widths: auto
+
+   +-------------------+----------------+----------------+-------------------------+--------------------------------+
+   |                   | `Cyberduck`_   | `Repocli`_     |  `Stager`_              | `Uploader`_                    |
+   +===================+================+================+=========================+================================+
+   | *user Interface*  | graphical      | comamnd-line   |  web                    | web                            |
+   +-------------------+----------------+----------------+-------------------------+--------------------------------+
+   | *transfer routes* | local <=> DR   | | local <=> DR |  project storage <=> DR | local => project storage + DR  |
+   |                   | local <=> HPC  | | HPC <=> DR   |                         |                                |
+   +-------------------+----------------+----------------+-------------------------+--------------------------------+
+   | | *access*        |                |                | | DCCN Trigon network   | | DCCN Trigon network          |
+   | | *restriction*   |                |                | | or `eduVPN`_          | | or `eduVPN`_                 |
+   +-------------------+----------------+----------------+-------------------------+--------------------------------+
+   | *OS support*      | | Windows      | | Windows      | | Windows               | | Windows                      |
+   |                   | | MacOSX       | | MacOSX       | | MacOSX                | | MacOSX                       |
+   |                   |                | | Linux        | | Linux                 | | Linux                        |
+   +-------------------+----------------+----------------+-------------------------+--------------------------------+
+   | *key feature*     | ease-of-use    | scriptable     | efficient               | automatic data organization    |
+   +-------------------+----------------+----------------+-------------------------+--------------------------------+
