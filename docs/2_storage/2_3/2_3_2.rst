@@ -1,0 +1,12 @@
+Research Documentation Collections
+****************
+Research Documentation Collections contain documents. 
+Its purpose is to memorandize the process by which raw data came to lead to your published results. 
+You must request a Research Documentation Collection for your project.
+
+Research Documentation Collections can be found at the Donders Repository with the following identifier:
+
+``di.dccn.RDC_1234567.89_XXX``
+
+Here RDC refers to Research Documentation Collection, 1234567.89 refers to the Project Number, and XXX can be any three random digits. 
+These are not the same random digits as those in the Data Acquistion Collection identifier for the same project.

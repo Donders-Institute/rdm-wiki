@@ -1,0 +1,11 @@
+Groupshare
+**********
+
+For Windows PCs connected to the Trigon Network, this is the ``G:\`` drive (look under "Network" in File Explorer). 
+For VNC Sessions on the HPC Cluster, this is the ``/group/`` folder. 
+
+The Group directory enables passive data sharing between members of a laboratory group. 
+All lab group members have read-write access, meaning that they can read, create, delete, move, copy, and edit files located in the group directory. 
+Therefore, using the groupshare is ideal for use cases such as having a fellow lab member run your analysis script to check for mistakes.
+
+Your home directory will be located at ``G:\groupname\`` on Windows PCs connected to the Trigon and the ``/group/groupname/`` on the HPC Cluster. 

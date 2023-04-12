@@ -4,6 +4,7 @@ Local Storage
 Using local storage is highly risky. 
 Computers can crash and data can accidentally be deleted at any time. 
 However, many instances may require you to use local storage. 
+For instance, when data is acquired in the laboratory it often goes to local storage. 
 
 When using a Windows PC with a wired connection to the Trigon Network, you are able to drag and drop files from Local Storage (i.e. from the ``C:/`` drive and ``D:/`` drive) to Central Storage. 
 You also have read-write access to files in the Central Storage. 
@@ -13,10 +14,11 @@ Therefore, it is important to be aware of when you are using local storage and w
 
 Lab Computers
 ==============
-Lab Computers include all of the computers located in the various laboratories at the DCCN (i.e. behavioral, MRI, EEG, MEG, etc.). 
+Lab Computers include all of the computers located in the various laboratories at the DCCN (i.e. behavioral, MRI, EEG, MEG, General Use PCs, etc.). 
 Formerly, Lab Computers were not connected to the Trigon network. 
-This has recently changed. 
-Therefore, Lab Computers have network access to the Central Storage facilities at the DCCN. 
+This has recently changed for some laboratory computers. 
+
+Therefore, some Lab Computers have network access to the Central Storage facilities at the DCCN. 
 However, by default data will be written to local storage on Lab Computers.
 
 Network Desktops

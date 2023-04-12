@@ -1,0 +1,19 @@
+Project Storage
+********
+For Windows PCs connected to the Trigon Network, this is the ``P:\`` drive (look under "Network" in File Explorer). 
+For VNC Sessions on the HPC Cluster, this is the ``/project/`` folder. 
+
+Research at DCCN is organized by projects. 
+Projects are assigned numbers after the Project Proposal Form is completed and approved.
+
+Project numbers are given in the format ``1234567.89``. 
+Your project's data will be located at ``P:\1234567.89\`` on Windows PCs connected to the Trigon and the ``/project/1234567.89/`` on the HPC Cluster.
+
+Based on the storage you request in the Project Proposal Form, you will be given a quota of storage which cannot be exceeded in your project's folder.
+Each research project, once approved, will be provided with a quota on the DCCN central storage allowing researchers to store and process the research data related to the project. 
+
+Further Reading:
+
+- https://intranet.donders.ru.nl/index.php?id=projectstorage
+- https://intranet.donders.ru.nl/index.php?id=quota
+- https://hpc.dccn.nl/docs/project_storage/access_management.html

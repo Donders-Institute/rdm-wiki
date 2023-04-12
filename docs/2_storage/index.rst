@@ -9,5 +9,5 @@ However, for experienced users, this will be redundant and can be skipped.
    :maxdepth: 2
 
    Local Storage <2_1.rst>
-   Central Storage <2_2.rst>
-   The Donders Repository <2_3.rst>
+   Central Storage <2_2/index.rst>
+   The Donders Repository <2_3/index.rst>
