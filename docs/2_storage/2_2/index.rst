@@ -8,6 +8,6 @@ There are three Drives/Directories on the Central Storage which are relevant for
 .. toctree::
    :maxdepth: 1
 
-   Local Storage <2_2_1.rst>
-   Central Storage <2_2_2.rst>
-   The Donders Repository <2_2_3.rst>
+   Project Storage <2_2_1.rst>
+   Home Drive <2_2_2.rst>
+   Groupshare <2_2_3.rst>
