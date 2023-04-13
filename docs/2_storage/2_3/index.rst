@@ -1,6 +1,16 @@
 Donders Repository
 ****************************
 
+
+
+.. toctree::
+   :maxdepth: 1
+
+   Data Acquisition Collections <2_3_1.rst>
+   Research Documentation Collections <2_3_2.rst>
+   Data Sharing Collections <2_3_3.rst>
+
+   
 About
 -----
 
@@ -24,10 +34,3 @@ However, we will not discuss accessing files via these means.
 
 
 A more detailed pdf version of this image (with active hyperlinks) can be found at: https://data.donders.ru.nl/doc/help/helppages/dr-nutshell.html?27
-
-.. toctree::
-   :maxdepth: 1
-
-   Data Acquisition Collections <2_3_1.rst>
-   Research Documentation Collections <2_3_2.rst>
-   Data Sharing Collections <2_3_3.rst>
