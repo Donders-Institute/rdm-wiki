@@ -21,6 +21,9 @@ This is only true if you log in with your DCCN username: this will give you read
 
 EEG PCs in these labs will not have a Network Connection.
 
+.. note::
+    It is important to delete your research data off of Lab Computers once it has been backed up to ensure that there is sufficient space on the Local Storage.
+
 Network Desktops
 ============
 Network Desktops are the Windows Desktops which are located at Flex Desks, the Instruction Room, the Trainee Room, and the various PCs in meeting rooms. 
