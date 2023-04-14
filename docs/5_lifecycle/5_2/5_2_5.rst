@@ -21,7 +21,7 @@ Moving data between storage facilities intuitively follows the researcher's need
 
 .. figure:: Storage-layers-dccn.png
     :figwidth: 60%
-    :align: left
+    :align: center
 
     Figure: DCCN storage layers
 

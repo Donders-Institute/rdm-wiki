@@ -6,7 +6,7 @@ In order to ensure that you have the skills necessary to manage data throughout 
 data managment needs in each of the 4 stages of the research cycle.
 
 .. figure:: research-cycle.png
-    :figwidth: 50%
+    :figwidth: 30%
     :align: center
 
     Figure: Research Lifecycle
@@ -14,10 +14,10 @@ data managment needs in each of the 4 stages of the research cycle.
 
 
 
-.. _Initiation: 5_2.rst
-.. _Data Acquisition: 5_3.rst
-.. _Analysis and Documentation: 5_4.rst
-.. _Sharing: 5_5.rst
+.. _Initiation: 5_2/index.html
+.. _Data Acquisition: 5_3/index.html
+.. _Analysis and Documentation: 5_4/index.html
+.. _Sharing: 5_5/index.html
 .. table::
    :widths: auto
 
@@ -28,9 +28,9 @@ data managment needs in each of the 4 stages of the research cycle.
    +-------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
    | *Ends With*       | First Experimental Session  | Final Subject               | Article is Accepted           | Data is FAIR                |
    +-------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
-   | *Tasks*           | | Designing Experiment      | | Recruiting Subjects       | | Preprocessing Data          | | Make data FAIR            |
+   | *Tasks*           | | Designing Experiment      | | Recruiting Subjects       | | Creating Metadata           | | Make data FAIR            |
    |                   | | Running Simulations       | | Collecting Data           | | Analyzing Data              | | Anonymize Data            |
-   |                   | | Analyzing Existing Data   | |                           | | Writing Results             | |                           |
+   |                   | | Analyzing Existing Data   | | Creating Metadata         | | Writing Results             | |                           |
    +-------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
    | *Data*            | | Analysis Scripts          | | Raw Data Files            | | Processed Data Files        | | Analysis Scripts          |
    |                   | | Existing Datasets         | | Metadata                  | | Analysis Scripts            | | Processed Data Files      |
