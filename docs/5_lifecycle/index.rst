@@ -1,11 +1,14 @@
 The Research Data Life Cycle
 ***************
 
-This introduces the idea of the research life cycle and how research data has a life cycle which mirrors it. 
-We also explain how the life cycle of research data should be explained in a data management plan. 
+In this section we are explaining data management at each stage in the research life cycle. 
+Here, exercises will be given to reflect your needs at each stage, using the four tools we have outlined previously to accomplish this.
 
 .. toctree::
    :maxdepth: 1
 
-   The Research Life Cycle <3_1.rst>
-   Data Managment Plans <3_2.rst>
+   The Research Life Cycle <5_1.rst>
+   Initiation <5_2/index.rst>
+   Data Acquisition <5_3/index.rst>
+   Data Analysis and Documentation <5_4/index.rst>
+   Data Sharing <5_5/index.rst>

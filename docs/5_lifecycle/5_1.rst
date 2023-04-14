@@ -6,7 +6,7 @@ In order to ensure that you have the skills necessary to manage data throughout 
 data managment needs in each of the 4 stages of the research cycle.
 
 .. figure:: images/research-cycle.png
-    :figwidth: 20%
+    :figwidth: 50%
     :align: left
 
     Figure: Research Lifecycle
@@ -14,10 +14,10 @@ data managment needs in each of the 4 stages of the research cycle.
 
 
 
-.. _Initiation: https://rdm.dccn.nl/docs/6_initiation/index.html
-.. _Data Acquisition: https://rdm.dccn.nl/docs/7_acquisition/index.html
-.. _Analysis and Documentation: https://rdm.dccn.nl/docs/8_analysis/index.html
-.. _Sharing: https://rdm.dccn.nl/docs/9_sharing/index.html
+.. _Initiation: 5_2.rst
+.. _Data Acquisition: 5_3.rst
+.. _Analysis and Documentation: 5_4.rst
+.. _Sharing: 5_5.rst
 .. table::
    :widths: auto
 
