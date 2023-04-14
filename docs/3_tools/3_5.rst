@@ -18,7 +18,7 @@ Overview of Data Transfer Tools
    |                   | local <=> HPC  | | HPC <=> DR   |                         |                                |
    +-------------------+----------------+----------------+-------------------------+--------------------------------+
    | | *access*        |                |                | | DCCN Trigon network   | | DCCN Trigon network          |
-   | | *restriction*   |                |                | | or `eduVPN`_          | | or eduVPN                |
+   | | *restriction*   |                |                | | or `eduVPN`_          | | or eduVPN                    |
    +-------------------+----------------+----------------+-------------------------+--------------------------------+
    | *OS support*      | | Windows      | | Windows      | | Windows               | | Windows                      |
    |                   | | MacOSX       | | MacOSX       | | MacOSX                | | MacOSX                       |
