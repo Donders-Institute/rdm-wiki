@@ -9,6 +9,8 @@ Therefore, for those familiar with BIDS and the standards of providing metadata,
    :maxdepth: 1
 
    Research Data Management <1_1.rst>
-   Achieving FAIR Science <1_2.rst>
-   Benefits of Proper Research Data Management <1_3.rst>
+   Scientific Integrity <1_2.rst>
+   Achieving FAIR Science <1_3.rst>
+   Benefits of Proper Research Data Management <1_4.rst>
+   Quiz <1_5.rst>
    

@@ -25,7 +25,7 @@ It is also accessible on the ``R:\`` drive on Network PCs or the ``/repository/`
 However, we will not discuss accessing files via these means. 
 
 .. figure:: DI_Workflow_EG.png
-    :figwidth: 50%
+    :figwidth: 100%
     :align: center
 
     Figure: Data Managegment Workflow with the Donders Repository

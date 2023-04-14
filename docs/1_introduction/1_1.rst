@@ -17,6 +17,8 @@ The FAIR Acronym
 
 **Reusable** - data collections have accurate and relevant attributes, clear and accesible data usage license, and meet domain-relevant community standards
 
+The workflows developed for researchers at the DCCN are aimed at making research FAIR.
+
 Further Reading
 ===============
 

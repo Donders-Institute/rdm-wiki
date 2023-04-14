@@ -1,18 +1,34 @@
 Project Storage
 ********
+
+Purpose
+============
+The Project Storage is intended to house research data which you are *actively* using at any given time during the research project. 
+
+Location
+========
 For Windows PCs connected to the Trigon Network, this is the ``P:\`` drive (look under "Network" in File Explorer). 
 For VNC Sessions on the HPC Cluster, this is the ``/project/`` folder. 
-
-Research at DCCN is organized by projects. 
-Projects are assigned numbers after the Project Proposal Form is completed and approved.
 
 Project numbers are given in the format ``1234567.89``. 
 Your project's data will be located at ``P:\1234567.89\`` on Windows PCs connected to the Trigon and the ``/project/1234567.89/`` on the HPC Cluster.
 
+Procedure to Obtain
+=========
+Research at DCCN is organized by projects. 
+Projects are assigned numbers after the Project Proposal Form is completed and approved.
+
+.. note::
+    Project Storage is distinct from Donders Repository collections: though they share the same project number, Project Storage is much easier to access. 
+    Further, Donders Repository collections have an additional underscore followed by 3 random digits at the end of the Project number.
+
+Quota
+=======
 Based on the storage you request in the Project Proposal Form, you will be given a quota of storage which cannot be exceeded in your project's folder.
 Each research project, once approved, will be provided with a quota on the DCCN central storage allowing researchers to store and process the research data related to the project. 
 
-Further Reading:
+Further Reading
+================
 
 - https://intranet.donders.ru.nl/index.php?id=projectstorage
 - https://intranet.donders.ru.nl/index.php?id=quota

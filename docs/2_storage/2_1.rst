@@ -3,10 +3,8 @@ Local Storage
 
 Using local storage is highly risky. 
 Computers can crash and data can accidentally be deleted at any time. 
-However, many instances may require you to use local storage. 
-For instance, when data is acquired in the laboratory it often goes to local storage. 
 
-When using a Windows PC with a wired connection to the Trigon Network, you are able to drag and drop files from Local Storage (i.e. from the ``C:/`` drive and ``D:/`` drive) to Central Storage. 
+When using a Windows PC with a wired connection to the Trigon Network, you are able to drag and drop files from Local Storage (i.e. from the ``C:\`` drive and ``D:\`` drive) to Central Storage. 
 You also have read-write access to files in the Central Storage. 
 This means that you can directly edit and write files on Central Storage from file explorer. 
 Central Storage is much, much less risky than local storage. 
@@ -15,21 +13,23 @@ Therefore, it is important to be aware of when you are using local storage and w
 Lab Computers
 ==============
 Lab Computers include all of the computers located in the various laboratories at the DCCN (i.e. behavioral, MRI, EEG, MEG, General Use PCs, etc.). 
-Formerly, Lab Computers were not connected to the Trigon network. 
+Formerly, Lab Computers did not have a connection to the Trigon Network. 
 This has recently changed for some laboratory computers. 
 
-Therefore, some Lab Computers have network access to the Central Storage facilities at the DCCN. 
-However, by default data will be written to local storage on Lab Computers.
+In the MRI, MEG, EEG, TMS, and Behavioral laboratories you will have access to Central Storage via a Network Connection on General Use PCs and Stimulus PCs. 
+This is only true if you log in with your DCCN username: this will give you read-write access to files in your Home Drive and Project Folders which you are a contributor for.
+
+EEG PCs in these labs will not have a Network Connection.
 
 Network Desktops
 ============
-Network Desktops are the Windows Desktops which are located at Flex Desks, the Instruction Room, and the Trainee Room. 
+Network Desktops are the Windows Desktops which are located at Flex Desks, the Instruction Room, the Trainee Room, and the various PCs in meeting rooms. 
 All Network Desktops are connected to the Trigon Network and therefore have access to the Central Storage facilities at the DCCN. 
 However, by default data will be written to local storage on Lab Computers.
 
 TG Issued Laptops
 ==============
-TG Issued Laptops are the DELL Laptops issued by the TG. 
+TG Issued Laptops are the DELL Laptops issued by the TG Help Desk. 
 When Docked at the DCCN, TG Issued Laptops are connected to the Trigon Network and therefore have access to the Central Storage facilities at the DCCN. 
 However, by default data will be written to local storage on the Laptop.
 

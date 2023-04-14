@@ -1,8 +1,19 @@
 Home Drive
 ******
-For Windows PCs connected to the Trigon Network, this is the ``H:\`` drive (look under "Network" in File Explorer) which is also the ``M:\`` drive. 
-For VNC Sessions on the HPC Cluster, this is the ``/home/`` folder. 
 
-After you have signed in at the DCCN, you will be given 5 GB of storage space on in your home directory. 
-Your home directory is located within your laboratory group's directory under your DCCN username (Firstname Lastname is firlas).
+Purpose
+==========
+To house any personal files you might have which you do not want others to have access to.
+Additionally, it can serve the purpose of housing any files which cannot be housed in the same place as your data - for instance, a pseudoanonymization key.
+
+Location
+============
 Your home directory will be located at ``H:\groupname\firlas\`` or ``M:\\`` on Windows PCs connected to the Trigon and ``/home/groupname/firlas/`` on the HPC Cluster. 
+
+Procedure to Obtain
+=============
+After you have signed in at the DCCN this will automatically be issued to you.
+
+Quota
+=======
+50 GB.
