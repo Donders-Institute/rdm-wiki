@@ -1,0 +1,20 @@
+Exercise 4: Download data from a DSC you have not been added to with Cyberduck
+****************************
+
+*Does not require a VNC or VPN Connection*
+
+1. Login to the Donders Repository
+
+* Open Cyberduck
+* Click ``Open Connection`` at the top left of the window
+* Click on the dropdown menu (which defaults to ``File Transfer Protocol (FTP)``) and select ``WebDAV (HTTPS)`` 
+* At the ``Server:`` field type in ``public.data.donders.ru.nl``
+* Click the box next to ``Anonymous Login`` and then click ``Connect`` at the bottom right side of the window
+
+2. Download the Data Sharing Collection to Your Folder of Choice
+
+* Double click on the ``dccn`` directory 
+* Single click on the ``DSC_3010000.11_518_v1`` directory 
+* Locate and click on ``Action`` at the top of the window and then select ``Download To`` on the dropdown menu
+* Select the folder you want to download the data to and then push ``Ok``
+* Select the disconnect button at the top right of the window

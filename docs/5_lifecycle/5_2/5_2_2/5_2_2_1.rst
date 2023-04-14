@@ -1,0 +1,9 @@
+Exercise 2: Creating a Donders Repository Account
+******************************************
+
+1. Create a Donders Repository account.
+
+* Open your internet browser of choice
+* Go to https://data.donders.ru.nl
+* Login with your SURFcontext account
+* Accept the terms

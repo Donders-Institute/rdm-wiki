@@ -1,0 +1,28 @@
+Exercise 8: Uploading analysis files to the Project Folder from my local computer with Cyberduck
+********************************************
+
+*Does require a VPN Connection*
+
+1. Connect to an Access Node
+
+* Open Cyberduck
+* Click ``Open Connection`` at the top left of the window
+* Click on the dropdown menu (which defaults to ``File Transfer Protocol (FTP)``) and select ``SSH File Transfer Protocol (SFTP)`` 
+* At the ``Server:`` field type in ``mentat001.dccn.nl``
+* Enter your DCCN username (firlas@dccn.nl) and password and then click ``Connect`` at the bottom right side of the window
+
+2. Create an Upload Directory
+
+* Click on the directory field which should say ``/home/groupname/firlas`` and select ``/``
+* Double click on the ``project`` directory 
+* Double click on the ``3010000.05`` directory 
+* Double click on the ``scripts`` directory
+* Locate and click on ``Action`` at the top of the window and then select ``New Folder`` on the dropdown menu
+* Type your DCCN username (firlas) in the Field and push ``Create``
+
+3. Upload your files 
+
+* You should be in the folder just created: if not navigate to that folder and select ``Upload`` at the top center of the window
+* Navigate to the ``Downloads`` folder in your local drive and double click on the **unzipped** ``RDM_Workshop Materials`` directory
+* Control-Click each file in this directory push ``choose``
+* Select the disconnect button at the top right of the window

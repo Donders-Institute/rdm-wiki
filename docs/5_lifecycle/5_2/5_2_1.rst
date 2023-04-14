@@ -1,0 +1,11 @@
+What data would I need to manage before I collect my own?
+******************
+
+Prior to data acquisition, you might have these kinds of data
+
+* Experiment Materials
+* Exisiting Datasets
+* Analysis Scripts
+
+We will talk about best practices in terms of data management during this period and how data should be transferred once your Project Folder has been issued. 
+However, we will start with a guide on how to access data from the Donders Repository. 

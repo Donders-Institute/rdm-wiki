@@ -1,0 +1,27 @@
+Exercise 7: Uploading analysis files to my new DAC from my local computer with Cyberduck
+**************************
+
+*Does not require a VNC or VPN Connection*
+
+1. Login to the Donders Repository
+
+* Open Cyberduck
+* Click ``Open Connection`` at the top left of the window
+* Click on the dropdown menu (which defaults to ``File Transfer Protocol (FTP)``) and select ``WebDAV (HTTPS)`` 
+* At the ``Server:`` field type in ``webdav.data.donders.ru.nl``
+* Enter your RU username (u1234567@ru.nl) and password and then click ``Connect`` at the bottom right side of the window
+
+2. Create an Upload Directory
+
+* Double click on the ``dccn`` directory 
+* Double click on the ``DAC_3010000.05_873`` directory 
+* Double click on the ``scripts`` directory
+* Locate and click on ``Action`` at the top of the window and then select ``New Folder`` on the dropdown menu
+* Type your DCCN username (firlas) in the Field and push ``Create``
+
+3. Upload your files 
+
+* You should be in the folder just created: if not navigate to that folder and select ``Upload`` at the top center of the window
+* Navigate to the ``Downloads`` folder in your local drive and double click on the **unzipped** ``RDM_Workshop Materials`` directory
+* Control-Click each file in this directory push ``choose``
+* Select the disconnect button at the top right of the window
