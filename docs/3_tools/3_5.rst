@@ -14,7 +14,7 @@ Overview of Data Transfer Tools
    +===================+================+================+=========================+================================+
    | *user Interface*  | graphical      | comamnd-line   |  web                    | web                            |
    +-------------------+----------------+----------------+-------------------------+--------------------------------+
-   | *transfer routes* | local <=> DR   | | local <=> DR |  project storage <=> DR | local => project storage + DR  |
+   | *transfer routes* | | local <=> DR | | local <=> DR |  project storage <=> DR | local => project storage + DR  |
    |                   | local <=> HPC  | | HPC <=> DR   |                         |                                |
    +-------------------+----------------+----------------+-------------------------+--------------------------------+
    | | *access*        |                |                | | DCCN Trigon network   | | DCCN Trigon network          |
