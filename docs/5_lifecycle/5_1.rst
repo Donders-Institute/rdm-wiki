@@ -5,9 +5,9 @@ In this course, we will have exercises which will give you practice with transfe
 In order to ensure that you have the skills necessary to manage data throughout the course of your project, we have structured these exercises to reflect your 
 data managment needs in each of the 4 stages of the research cycle.
 
-.. figure:: images/research-cycle.png
+.. figure:: research-cycle.png
     :figwidth: 50%
-    :align: left
+    :align: center
 
     Figure: Research Lifecycle
 
