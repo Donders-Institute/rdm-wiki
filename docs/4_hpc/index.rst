@@ -7,10 +7,11 @@ For those who have already followed the HPC Workshop, this part should be skippe
 
 .. toctree::
    :maxdepth: 1
+   
    About <4_1.rst>
    Benefits <4_2.rst>
    Exercise 1: Starting a VNC Session <4_3.rst>
-   
+
 
 Further Reading
 ===============================
