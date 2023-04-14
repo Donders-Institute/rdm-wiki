@@ -1,0 +1,14 @@
+Benefits of Working on the HPC Cluster
+******************
+
+Which storage facilities can I interact with on the HPC Cluster?
+===============================
+
+While on the HPC Cluster,you have access to Central Storage, meaning that you have read-write access to files in the Project, Home, and Group Directories.
+
+Why should I use the HPC Cluster?
+===============================
+
+* You need to access Central Storage while working virtually
+* You have many jobs to run and you would like these to run simaltaneously rather than sequentially to save time (For Advanced Users because this requires BASH scripting)
+* You want a job to run overnight but you want to turn your computer off
