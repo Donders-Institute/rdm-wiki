@@ -6,6 +6,7 @@ Here, exercises will be given to reflect your needs at each stage, using the fou
 
 .. toctree::
    :maxdepth: 1
+   
    The Research Life Cycle <5_1.rst>
    Initiation <5_2/index.rst>
    Data Acquisition <5_3/index.rst>

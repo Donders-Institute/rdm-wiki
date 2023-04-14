@@ -5,6 +5,7 @@ Donders Repository
 
 .. toctree::
    :maxdepth: 1
+   
    Data Acquisition Collections <2_3_1.rst>
    Research Documentation Collections <2_3_2.rst>
    Data Sharing Collections <2_3_3.rst>
