@@ -7,7 +7,6 @@ There are three Drives/Directories on the Central Storage which are relevant for
 
 .. toctree::
    :maxdepth: 1
-
    Project Storage <2_2_1.rst>
    Home Drive <2_2_2.rst>
    Groupshare <2_2_3.rst>

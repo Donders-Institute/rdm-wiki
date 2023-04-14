@@ -6,7 +6,6 @@ In this section we will introduce you to the various tools which you will use to
 
 .. toctree::
    :maxdepth: 1
-
    Cyberduck <3_1.rst>
    Repocli <3_2.rst>
    Stager <3_3.rst>
