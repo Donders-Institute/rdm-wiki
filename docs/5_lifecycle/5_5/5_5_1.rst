@@ -1,0 +1,20 @@
+Goals of Data Management After Analysis
+***************
+
+Now, you have fully finished with you analysis and write up. 
+Perhaps your article has been accepted for publication or perhaps you have decided that it is no longer worth pursuing. 
+
+Preserving Data
+==============
+Either way, your goal at this stage is to ensure that the work you have done and the data you have collected is preserved. 
+The space available on Central Storage is finite and, therefore, if you are not using the data anymore all files will be removed from the project folder. 
+
+Making Data FAIR
+==============
+In this form, the DSC should contain the following in BIDS format:
+
+1. All of the (anonymized) processed data which, when analyzed by your scripts, produces the results you have reported. 
+2. All of the processing scripts which transformed the raw data (in your DAC) into the processed data (in your DSC)
+3. Metadata conceptually describing how and why you have processed the data in the way you have done and which scripts do what to the data
+4. Metadata describing when and where the data was collected
+5. Metadata describing the partcipant sampling procedure, which subjects were excluded from analysis, and why

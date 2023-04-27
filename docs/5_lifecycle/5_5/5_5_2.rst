@@ -1,0 +1,12 @@
+When do I make data publicly available?
+***************
+
+In the spirit of open science - achieved by making research FAIR - many researchers aim to make their data publicly available. 
+Research data should only be made publicly available if potentially identifying information has been removed. 
+Some examples of how this is to be done are as follows: 
+
+1. Use anonymized labels (subject numbers assigned via the calendar)
+2. De-face and de-ear MRI files
+
+Often, researchers will make 2 DSCs - one to be made publicly available and one which is private. 
+Importantly, even the private data may not contain any potentially identifying information: this must be kept apart from the experimental data at all times. 

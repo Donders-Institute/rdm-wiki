@@ -1,0 +1,16 @@
+Exercise 12: Staging Data from the Project Folder to the Data Sharing Collection
+--------------------------------------------------------------------------------
+
+Once you have made a DSC, you can stage files from your Project Folder to the DSC. 
+In this exercise, we will use multiple directories within both the ``project/proc`` and the ``DSC_project/proc`` directories
+
+1. Login to Stager
+
+* Go to https://stager.dccn.nl
+* In the Project Storage side, enter your DCCN username (for Firstname Lastname this is ``firlas@dccn.nl``) and password, and push ``Login``
+* In the Donders Repository side, enter your RU username (``u1234567@ru.nl``) and password, and push ``Login``
+
+2. Upload from the Project Storage to your Project's Data Sharing Collection
+* On the Project Storage side, navigate to ``/3010000.05/proc`` and click on the box next to the ``yourname`` directory
+* On the Donders Repository side, go to the ``/dccn/DSC_3010000.05_873/proc`` directory and click on the box next to the ``yourname`` directory
+* Now, you can push the ``Upload`` button (the left-facing arrow) to move all of the files in the ``/3010000.05/proc/yourname`` directory into the ``/dccn/DSC_3010000.05_873/proc/yourname`` directory.

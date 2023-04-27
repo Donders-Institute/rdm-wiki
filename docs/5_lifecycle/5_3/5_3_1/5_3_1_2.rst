@@ -1,0 +1,14 @@
+MEG Protocol
+***************
+
+Collect the Calendar Booking
+===================
+{}
+
+Ensure Transfer is Underway
+===================
+{}
+
+Powering Off the MEG console
+---------------
+{}
