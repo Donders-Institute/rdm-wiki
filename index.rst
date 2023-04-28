@@ -29,6 +29,6 @@ This wiki is developed for the RDM workshop at DCCN.
    :caption: Exercises Sorted by:
    :maxdepth: 1
 
-   Tools <tools.rst>
-   Research Life Cycle <lc.rst>
-   Difficulty <difficult.rst>
+   Tools <docs/tools.rst>
+   Research Life Cycle <docs/lc.rst>
+   Difficulty <docs/difficulty.rst>
