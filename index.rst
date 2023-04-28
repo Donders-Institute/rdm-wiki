@@ -19,9 +19,9 @@ Table of Contents
    Data Storage Facilities <docs/2_storage/index.rst>
    Data Transfer Tools <docs/3_tools/index.rst>
    HPC Cluster <docs/4_hpc/index.rst>
-   The Research Data Life Cycle <docs/5_lifecycle/index.rst>
+   The Research Life Cycle <docs/5_lifecycle/index.rst>
 
-   :caption: Following the Research Data Life Cycle
+   :caption: Following the Research Life Cycle
    :hidden:
 
    Research Initiation <docs/6_initiation/index.rst>
