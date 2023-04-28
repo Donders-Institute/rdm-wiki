@@ -1,14 +1,38 @@
-The Research Data Life Cycle
-***************
+The Research Life Cycle
+******************
 
-In this section we are explaining data management at each stage in the research life cycle. 
-Here, exercises will be given to reflect your needs at each stage, using the four tools we have outlined previously to accomplish this.
+In this course, we will have exercises which will give you practice with transferring data. 
+In order to ensure that you have the skills necessary to manage data throughout the course of your project, we have structured these exercises to reflect your 
+data managment needs in each of the 4 stages of the research cycle.
 
-.. toctree::
-   :maxdepth: 1
-   
-   The Research Life Cycle <5_1.rst>
-   Initiation <5_2/index.rst>
-   Data Acquisition <5_3/index.rst>
-   Data Analysis and Documentation <5_4/index.rst>
-   Data Sharing <5_5/index.rst>
+.. figure:: research-cycle.png
+    :figwidth: 30%
+    :align: center
+
+    Figure: Research Lifecycle
+
+
+
+
+.. _Initiation: 5_2/index.html
+.. _Data Acquisition: 5_3/index.html
+.. _Analysis and Documentation: 5_4/index.html
+.. _Sharing: 5_5/index.html
+.. table::
+   :widths: auto
+
+   +-------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
+   |                   | `Initiation`_               | `Data Acquisition`_         | `Analysis and Documentation`_ | `Sharing`_                  |
+   +===================+=============================+=============================+===============================+=============================+
+   | *Starts With*     | Research Question           | First Experimental Session  | Final Subject                 | Article is Accepted         |
+   +-------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
+   | *Ends With*       | First Experimental Session  | Final Subject               | Article is Accepted           | Data is FAIR                |
+   +-------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
+   | *Tasks*           | | Designing Experiment      | | Recruiting Subjects       | | Creating Metadata           | | Make data FAIR            |
+   |                   | | Running Simulations       | | Collecting Data           | | Analyzing Data              | | Anonymize Data            |
+   |                   | | Analyzing Existing Data   | | Creating Metadata         | | Writing Results             | |                           |
+   +-------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
+   | *Data*            | | Analysis Scripts          | | Raw Data Files            | | Processed Data Files        | | Analysis Scripts          |
+   |                   | | Existing Datasets         | | Metadata                  | | Analysis Scripts            | | Processed Data Files      |
+   |                   | | Experiment Script         | | Surveys                   | | Metadata                    | | Metadata                  |
+   +-------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
