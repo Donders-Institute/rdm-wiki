@@ -6,9 +6,6 @@ About the wiki
 
 This wiki is developed for the RDM workshop at DCCN.
 
-Table of Contents
-=================
-
 .. toctree::
    :maxdepth: 1
    :caption: General Information
