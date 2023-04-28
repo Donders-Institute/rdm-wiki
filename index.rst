@@ -11,7 +11,6 @@ Table of Contents
 
 .. toctree::
    :maxdepth: 1
-
    :caption: General Information
    :hidden: 
 
@@ -21,8 +20,10 @@ Table of Contents
    HPC Cluster <docs/4_hpc/index.rst>
    The Research Life Cycle <docs/5_lifecycle/index.rst>
 
+.. toctree::
    :caption: Following the Research Life Cycle
    :hidden:
+   :maxdepth: 1
 
    Research Initiation <docs/6_initiation/index.rst>
    Data Acquisition <docs/7_acquisition/index.rst>
