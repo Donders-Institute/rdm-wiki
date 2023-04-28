@@ -11,7 +11,6 @@ BIDS (or Brain Imaging Data Structure) is the standard directory structure for b
 
 Using BIDS will make your research more FAIR.
 
-Read more about BIDS format here: https://bids.neuroimaging.io
 
 Providing Metadata
 ===================
@@ -31,3 +30,8 @@ Providing answers to these questions in the metadata will enable other researche
 Archiving Datasets to Public Repositories
 ================================
 When it is possible, you should make your data publicly available. For all Donderians, you will be archiving to http://data.donders.ru.nl
+
+Further Reading
+==============
+BIDS format: https://bids.neuroimaging.io
+Metadata guidlines at Radboud University: https://www.ru.nl/rdm/vm/standards-guidelines-archives/ 

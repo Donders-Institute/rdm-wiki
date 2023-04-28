@@ -1,4 +1,39 @@
 The Interplay Between Research Data Management and Scientific Integrity
-*************************************************
+************************************************
 
-integrate integrity + exchange of data importance can use rdm.dccn.nl/integrity for inspiration
+Brief History
+===========
+Emerged between 2011-2017 as a consequence of:
+
+1. Little data available via the internet
+2. Fraud 
+    * Marc Houser (2010)
+    * Diederik Stapel (2011)
+3. Lack of Standardization
+4. Journals' Requirements for Scientific Integrity - Open Science
+    * Increased awareness about HARKing (Hypothesizing After Results are Known)
+    * Repicability Crisis
+5. Funding Agencies Requirements 
+    * Privacy
+    * Data Managment Plans
+    * Proper Data Storage Systems
+6. Technological Innovations
+    * Existing systems and practices had difficulty keeping up with increased resolution (and data size) resulting from increases in imaging quality
+
+Data Stewardship
+=============
+Since 2017, data stewards occupy the role of:
+
+* Educating, supporting, and monitoring researchers
+* Creating policies
+* Developing infrastructure 
+
+Takeaways
+===========
+* Research Data Management is a continuously developing field
+* Research Data Management developed to solve problems associated with Scientific Integrity
+* For Neuroscientific Research especially, improving Research Data Management practices enables researchers to be more efficient
+
+Further Reading
+==========
+Notable scientific misconduct incidents: https://en.wikipedia.org/wiki/List_of_scientific_misconduct_incidents
