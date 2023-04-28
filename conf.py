@@ -18,7 +18,6 @@
 #
 #import os
 #import sys
-#sys.path.append(os.path.abspath('exts/sphinx_design')) #this doesn't seem to work
 # sys.path.insert(0, os.path.abspath('.'))
 from datetime import date
 
@@ -31,7 +30,7 @@ from datetime import date
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.mathjax', 'sphinx_design'] # 'dropdown' doesn't work (if line 21 is just exts sphinx_design doesn't work either)
+extensions = ['sphinx.ext.mathjax'] #doesn't work
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
