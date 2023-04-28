@@ -14,10 +14,10 @@ data managment needs in each of the 4 stages of the research cycle.
 
 
 
-.. _Initiation: https://rdm.dccn.nl/6_initation/index.html 
-.. _Data Acquisition: https://rdm.dccn.nl/7_acquisition/index.html
-.. _Analysis and Documentation: https://rdm.dccn.nl/8_analysis/index.html
-.. _Sharing: https://rdm.dccn.nl/9_sharing/index.html
+.. _Initiation: https://rdm.dccn.nl/docs/6_initation/index.html 
+.. _Data Acquisition: https://rdm.dccn.nl/docs/7_acquisition/index.html
+.. _Analysis and Documentation: https://rdm.dccn.nl/docs/8_analysis/index.html
+.. _Sharing: https://rdm.dccn.nl/docs/9_sharing/index.html
 .. table::
    :widths: auto
 
