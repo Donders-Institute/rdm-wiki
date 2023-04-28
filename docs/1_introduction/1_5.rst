@@ -4,7 +4,7 @@ Quiz
 What percentage of researchers have experienced data loss?
 ==========
 
-.. dropdown:: Answer
+.. dropdown:: 
 
     {insert answer}
 
@@ -15,10 +15,11 @@ If I follow the DCCN's Standard Operating Procedures for Data Managment, how muc
 
     {insert answer}
 
-How much faster can you run analyses by using the HPC Cluster?
+How much faster can you run analyses by using BASH scripting on the HPC Cluster?
 ============
 
 .. dropdown:: Answer
+    :open:
 
     {insert answer}
 
