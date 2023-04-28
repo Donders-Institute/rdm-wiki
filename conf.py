@@ -30,7 +30,7 @@ from datetime import date
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.mathjax', 'sphinx_design']
+extensions = ['sphinx.ext.mathjax']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -83,7 +83,7 @@ todo_include_todos = False
 # a list of builtin themes.
 #
 #html_theme = 'alabaster'
-html_theme = 'sphinx-rtd-theme'
+html_theme = 'sphinx_rtd_theme'
 #html_theme = 'bizstyle'
 
 # Theme options are theme-specific and customize the look and feel of a theme
@@ -100,6 +100,7 @@ html_static_path = ['_static']
 # override wide tables in RTD theme
 html_context = {
     'css_files': [
+        'https://media.readthedocs.org/css/sphinx_rtd_theme.css',
         'https://media.readthedocs.org/css/readthedocs-doc-embed.css',
         '_static/theme_overrides.css',
     ],
