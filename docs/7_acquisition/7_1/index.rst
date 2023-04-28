@@ -7,6 +7,6 @@ This requires that you follow the proper protocol in booking the laboratory.
 .. toctree::
    :maxdepth: 1
    
-   Calender <5_3_1_1.rst>
-   MEG <5_3_1_2/index.rst>
-   MRI <5_3_1_3/index.rst>
+   Calender <7_1_1.rst>
+   MEG <7_1_2/index.rst>
+   MRI <7_1_3/index.rst>
