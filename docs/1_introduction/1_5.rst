@@ -2,21 +2,25 @@ Quiz
 ***********
 
 What percentage of researchers have experienced data loss?
+
 .. dropdown:: Answer
 
     {insert answer}
 
 If I follow the DCCN's Standard Operating Procedures for Data Managment, how much could I mitigate data loss or leakage?
+
 .. dropdown:: Answer
 
     {insert answer}
 
 How much faster can you run analyses by using the HPC Cluster?
+
 .. dropdown:: Answer
 
     {insert answer}
 
 What is the role of data stewards?
+
 .. dropdown:: Answer
 
     * Educating, supporting, and monitoring researchers
