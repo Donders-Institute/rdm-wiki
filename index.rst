@@ -10,11 +10,21 @@ Table of Contents
 =================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+
+   :caption: General Information
+   :hidden: 
 
    Introduction to Research Data Management <docs/1_introduction/index.rst>
    Data Storage Facilities <docs/2_storage/index.rst>
    Data Transfer Tools <docs/3_tools/index.rst>
    HPC Cluster <docs/4_hpc/index.rst>
-   Research Data Life Cycle <docs/5_lifecycle/index.rst>
+
+   :caption: Following the Research Data Life Cycle <docs/5_lifecycle/index.rst>
+   :hidden:
+
+   Research Initiation <docs/6_initiation/index.rst>
+   Data Acquisition <docs/2_storage/index.rst>
+   Data Analysis <docs/3_tools/index.rst>
+   Data Sharing <docs/4_hpc/index.rst>
 

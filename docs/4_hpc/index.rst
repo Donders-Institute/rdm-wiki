@@ -16,4 +16,4 @@ For those who have already followed the HPC Workshop, this part should be skippe
 Further Reading
 ===============================
 
-For a full documentation of the DCCN's HPC Cluster, go to https://hpc.dccn.nl/
+For a full documentation of the DCCN's HPC Cluster and a tutorial on BASH scripting (required for parallelization), go to https://hpc.dccn.nl/
