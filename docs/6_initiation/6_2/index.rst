@@ -10,7 +10,7 @@ Since you are a member of the Donders Institute, you can request access to priva
 .. toctree::
    :maxdepth: 1
    
-   Exercise 2: Creating a Donders Repository Account <5_2_2_1.rst>
-   How to Obtain Access to Donders Repository Collections <5_2_2_2.rst>
-   Exercise 3: Download data from a collection you have been added to with Repocli <5_2_2_3.rst>
-   Exercise 4: Download data from a DSC you have not been added to with Cyberduck <5_2_2_4.rst>
+   Exercise 2: Creating a Donders Repository Account <6_2_1.rst>
+   How to Obtain Access to Donders Repository Collections <6_2_2.rst>
+   Exercise 3: Download data from a collection you have been added to with Repocli <6_2_3.rst>
+   Exercise 4: Download data from a DSC you have not been added to with Cyberduck <6_2_4.rst>
