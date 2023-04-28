@@ -17,7 +17,7 @@ This wiki is developed for the RDM workshop at DCCN.
    The Research Life Cycle <docs/5_lifecycle/index.rst>
 
 .. toctree::
-   :caption: Following the Research Life Cycle
+   :caption: Learn and Practice Following the Research Life Cycle
    :maxdepth: 1
 
    Research Initiation <docs/6_initiation/index.rst>
@@ -25,3 +25,10 @@ This wiki is developed for the RDM workshop at DCCN.
    Data Analysis <docs/8_analysis/index.rst>
    Data Sharing <docs/9_sharing/index.rst>
 
+.. toctree::
+   :caption: Exercises Sorted by:
+   :maxdepth: 1
+
+   Tools <tools.rst>
+   Research Life Cycle <lc.rst>
+   Difficulty <difficult.rst>
