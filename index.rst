@@ -12,7 +12,6 @@ Table of Contents
 .. toctree::
    :maxdepth: 1
    :caption: General Information
-   :hidden: 
 
    Introduction to Research Data Management <docs/1_introduction/index.rst>
    Data Storage Facilities <docs/2_storage/index.rst>
@@ -22,7 +21,6 @@ Table of Contents
 
 .. toctree::
    :caption: Following the Research Life Cycle
-   :hidden:
    :maxdepth: 1
 
    Research Initiation <docs/6_initiation/index.rst>
