@@ -4,7 +4,7 @@ Quiz
 What percentage of researchers have experienced data loss?
 ==========
 
-.. dropdown:: 
+.. dropdown:: Answer
 
     {insert answer}
 
@@ -19,7 +19,6 @@ How much faster can you run analyses by using BASH scripting on the HPC Cluster?
 ============
 
 .. dropdown:: Answer
-    :open:
 
     {insert answer}
 

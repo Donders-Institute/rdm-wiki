@@ -14,10 +14,10 @@ data managment needs in each of the 4 stages of the research cycle.
 
 
 
-.. _Initiation: 5_2/index.html
-.. _Data Acquisition: 5_3/index.html
-.. _Analysis and Documentation: 5_4/index.html
-.. _Sharing: 5_5/index.html
+.. _Initiation: 6_initation/index.html
+.. _Data Acquisition: 7_acquisition/index.html
+.. _Analysis and Documentation: 8_analysis/index.html
+.. _Sharing: 9_sharing/index.html
 .. table::
    :widths: auto
 
