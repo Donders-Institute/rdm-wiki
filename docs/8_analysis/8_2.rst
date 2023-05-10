@@ -1,0 +1,4 @@
+How should I share data and scripts with externally affiliated colleagues?
+==========================================================================
+
+{}

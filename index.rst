@@ -30,5 +30,5 @@ This wiki is developed for the RDM workshop at DCCN.
    :maxdepth: 1
 
    Sort by Tools <docs/tools.rst>
-   Sort by Stage in the Research Life Cycle <docs/lc.rst>
+   Sort by Stage in the Research Life Cycle <docs/stage.rst>
    Sort by Difficulty <docs/difficulty.rst>

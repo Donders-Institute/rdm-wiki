@@ -1,0 +1,7 @@
+Sharing Data Within Radboud University
+********************
+
+How should I share data and scripts with other people in Trigon?
+================================================================
+
+{}
