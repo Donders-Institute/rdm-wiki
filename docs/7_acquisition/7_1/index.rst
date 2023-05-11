@@ -8,5 +8,5 @@ This requires that you follow the proper protocol in booking the laboratory.
    :maxdepth: 1
    
    Calender <7_1_1.rst>
-   MEG <7_1_2/index.rst>
-   MRI <7_1_3/index.rst>
+   MEG <7_1_2.rst>
+   MRI <7_1_3.rst>
