@@ -1,4 +1,16 @@
 How should I share data and scripts with externally affiliated colleagues?
-==========================================================================
+**************************
 
-{}
+RU Email
+===========
+* Your RU email cannot send files totalling more than 25 MB
+* You cannot receive files via email from email address outside of the ru.nl domain
+
+Donders Repository
+=====================
+* Researchers at another SURF-supported Dutch researcher can create an account and login with their SURFcontext account credentials
+* Foreign researchers can login with their ORCID
+
+Further Reading
+-------------
+https://data.donders.ru.nl/login?4&originalUrl=https://data.donders.ru.nl/login
