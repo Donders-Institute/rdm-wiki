@@ -15,7 +15,9 @@ It will also make you more efficient, since you will unlock benefits of using th
 Further Reading
 ----------
 BIDS format: https://bids.neuroimaging.io
+
 Benefits of Using BIDS format: https://bids.neuroimaging.io/benefits.html#benefits
+
 BIDS apps: https://bids-apps.neuroimaging.io/apps/https://bids-apps.neuroimaging.io/apps/
 
 Providing Metadata
