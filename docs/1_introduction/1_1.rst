@@ -2,9 +2,7 @@ What is Research Data Management?
 *****************
 
 * Defined as the practice of storing, organizing, and maintaining data collected for research purposes
-
 * Research Data Management aims to improve the research efficiency and transparency, and to fulfill the requirements of the university, funders, and legislation.
-
 * Academic research should be FAIR
 
 The FAIR Acronym
@@ -21,9 +19,10 @@ The workflows developed for researchers at the DCCN are aimed at making research
 
 Further Reading
 ===============
+.. _Radboud University Research Data Managment: https://ru.nl/rdm/
+.. _Radboud University Checklist for Research Data Managment: https://www.ru.nl/rdm/vm/standards-guidelines-archives/
+.. _FAIR Principles: https://www.nature.com/articles/sdata201618#:~:text=FAIR%E2%80%94Findable%2C%20Accessible%2C%20Interoperable%2C%20Reusable
 
-Radboud University Research Data Managment: https://ru.nl/rdm/
-
-Radboud University Checklist for Research Data Managment: https://rdm/vm/checklist-rdm
-
-FAIR Principles: https://www.nature.com/articles/sdata201618#:~:text=FAIR%E2%80%94Findable%2C%20Accessible%2C%20Interoperable%2C%20Reusable
+* `Radboud University Research Data Managment`_ 
+* `Radboud University Checklist for Research Data Managment`_
+* `FAIR Principles`_

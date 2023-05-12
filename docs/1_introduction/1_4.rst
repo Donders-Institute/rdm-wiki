@@ -1,23 +1,4 @@
-What Problems does Proper Research Data Managment Mitigate?
-**************
+Quiz
+***********
 
-Risk of Losing Data
-==============
-Proper data management practices involve backing data up so that if local copies are lost, the data can still be retrieved
-
-Limited Storage Space
-=======================
-Proper data management practices ensure that there is the necessary space on local memory
-
-Privacy Violations
-===============
-Proper data management practices protect the privacy and anonymity of research participants
-
-Non-Reusability
-===================
-Proper data management practices enable data to be reused by future researchers
-
-Inefficienct Analysis Practices
-====================
-Proper data managmenent practices free researchers up to do research better, faster, and smarter! 
-Parallelization, which possible with BASH Scripting on the HPC Cluster, helps speed up analysis practices: https://hpc.dccn.nl
+Link to Quiz: 

@@ -3,37 +3,28 @@ The Interplay Between Research Data Management and Scientific Integrity
 
 Brief History
 ===========
-Emerged between 2011-2017 as a consequence of:
+Research data management is a field which emerged as a consequence of a confluence of factors plaguing science which came to light around the same time - between 2011 and 2017. 
+The thing which set off this chain of events was the fraud cases which came to light: the most well-known of these cases was that of Diederik Stapel, though many other cases came to light around this time (see https://en.wikipedia.org/wiki/List_of_scientific_misconduct_incidents). 
+Diederik Stapel was a lead Dutch Social Psychologist who, in 2011, was found to have falsified data. 
+In addition to cases of outright fraud, questionable research practices in the Cognitive and Social Sciences started to be discussed more publicly around this time: most notably SHARKing (Secretly Hypothesizing After Results are Known). 
+Compounded with the Replication Crisis in the Cognitive and Social Sciences, Funding Agencies and Scientific Journals began demanding that researchers adhere to ethical standards for conducting research. 
+In other words, many of the precipitating factors which preceded the emergence of research data management, as a field, were the failure to live up to core scientific values. 
 
-1. Little data available via the internet
-2. Fraud 
-    * Marc Houser (2010)
-    * Diederik Stapel (2011)
-3. Lack of Standardization
-4. Journals' Requirements for Scientific Integrity - Open Science
-    * Increased awareness about HARKing (Hypothesizing After Results are Known)
-    * Repicability Crisis
-5. Funding Agencies Requirements 
-    * Privacy
-    * Data Managment Plans
-    * Proper Data Storage Systems
-6. Technological Innovations
-    * Existing systems and practices had difficulty keeping up with increased resolution (and data size) resulting from increases in imaging quality
+Beyond the ethical and epistimelogical concerns which research data management was created to forestall, there are also other pragmatic factors which played into the emergence of the field of research data management. 
+Publicly available data during this time was sparse: the data which was available was limited by the research data storage systems. 
+Worse yet, the lack of standardization of data made a substantial proportion of the limited amount of data publicly available difficult to reuse. 
+Additionally, technological advances in imaging quality and the accompanying exponential increase in file sizes meant that inefficient data storage practices hampered research.
 
-Data Stewardship
-=============
-Since 2017, data stewards occupy the role of:
-
-* Educating, supporting, and monitoring researchers
-* Creating policies
-* Developing infrastructure 
+How Can Proper Data Management Work For You?
+================
+* **Mitigate the Risk of Losing Data** - Proper data management practices involve backing data up so that if local copies are lost, the data can still be retrieved
+* **Available Storage Space** - Proper data management practices ensure that there is the necessary space on local memory
+* **Protect Privacy** - Proper data management practices protect the privacy and anonymity of research participants
+* **Reusability** - Proper data management practices enable data to be reused by future researchers
+* **Efficiency** - Proper data managmenent practices free researchers up to do research better, faster, and smarter! Parallelization, which possible with BASH Scripting on the HPC Cluster, helps speed up analysis practices: https://hpc.dccn.nl
 
 Takeaways
 ===========
 * Research Data Management is a continuously developing field
 * Research Data Management developed to solve problems associated with Scientific Integrity
 * For Neuroscientific Research especially, improving Research Data Management practices enables researchers to be more efficient
-
-Further Reading
-==========
-Notable scientific misconduct incidents: https://en.wikipedia.org/wiki/List_of_scientific_misconduct_incidents
