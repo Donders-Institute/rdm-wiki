@@ -16,4 +16,6 @@ After you have signed in at the DCCN this will automatically be issued to you.
 
 Quota
 =======
-50 GB.
+.. _Central Storage: https://intranet.donders.ru.nl/index.php?id=centralstorage
+
+For information about the quota of your personal drive, see go to the intranet page on `Central Storage`_.

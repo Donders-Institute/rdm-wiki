@@ -3,12 +3,13 @@ Local Storage
 
 Using local storage is highly risky. 
 Computers can crash and data can accidentally be deleted at any time. 
+However, local storage is often necessary for data collection - thus, the most import message to take is that you 1) must be aware of when you are writing data to Local Storage and 2) back up your data to Central Storage as soon as possible.
 
 When using a Windows PC with a wired connection to the Trigon Network, you are able to drag and drop files from Local Storage (i.e. from the ``C:\`` drive and ``D:\`` drive) to Central Storage. 
 You also have read-write access to files in the Central Storage. 
 This means that you can directly edit and write files on Central Storage from file explorer. 
-Central Storage is much, much less risky than local storage. 
-Therefore, it is important to be aware of when you are using local storage and when you are using Central Storage. 
+
+Below, we have listed examples of devices where you may or may not need to back up data from Local Storage.
 
 Lab Computers
 ==============

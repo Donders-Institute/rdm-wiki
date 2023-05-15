@@ -1,6 +1,8 @@
 The Interplay Between Research Data Management and Scientific Integrity
 ************************************************
 
+Research Data Management is a continuously developing field which developed out of a need to solve problems associated with Scientific Integrity but also a desire to improve the efficiency of research.
+
 Brief History
 ===========
 Research data management is a field which emerged as a consequence of a confluence of factors plaguing science which came to light around the same time - between 2011 and 2017. 
@@ -22,9 +24,3 @@ How Can Proper Data Management Work For You?
 * **Protect Privacy** - Proper data management practices protect the privacy and anonymity of research participants
 * **Reusability** - Proper data management practices enable data to be reused by future researchers
 * **Efficiency** - Proper data managmenent practices free researchers up to do research better, faster, and smarter! Parallelization, which possible with BASH Scripting on the HPC Cluster, helps speed up analysis practices: https://hpc.dccn.nl
-
-Takeaways
-===========
-* Research Data Management is a continuously developing field
-* Research Data Management developed to solve problems associated with Scientific Integrity
-* For Neuroscientific Research especially, improving Research Data Management practices enables researchers to be more efficient

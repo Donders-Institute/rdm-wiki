@@ -1,0 +1,7 @@
+Scientific Datasets
+***************
+
+Scientific datasets are large, freely shared datasets which many researchers in the DCCN might have an interest in using. 
+In order to prevent users from having to download these large datasets by themselves, the scientific datasets are kept on Central Storage. 
+When a researcher wishes to analyze this data, they can receive a project folder and will be granted read-only access to the scientific dataset. 
+Thus, they can analyze the data and save the output as a file in their project folder without having to download the data themselves or changing the data in the scientific dataset. 

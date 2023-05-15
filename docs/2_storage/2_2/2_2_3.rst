@@ -4,10 +4,11 @@ Groupshare
 Purpose
 ==========
 To enable passive data sharing between members of a laboratory group. 
+Also, it can serve the purpose of housing your pseudoanonymization keys.
 
 Location
 ============
-Your group directory will be located at ``G:\groupname\`` on Windows PCs connected to the Trigon and the ``/group/groupname/`` on the HPC Cluster. 
+Your group directory will be located at ``G:\groupname\`` on Windows PCs connected to the Trigon and the ``/groupshare/groupname/`` on the HPC Cluster. 
 
 Procedure to Obtain
 =============
@@ -15,4 +16,4 @@ After you have signed in at the DCCN you will be given access to any group(s) wh
 
 Quota
 =======
-{}
+There is no quota on the groupshare because you cannot keep research data files on it.
