@@ -19,7 +19,7 @@ The workflows developed for researchers at the DCCN are aimed at making research
 
 Further Reading
 ===============
-.. _Radboud University Research Data Managment: https://ru.nl/rdm/
+.. _Radboud University Research Data Managment: https://www.ru.nl/rdm/
 .. _Radboud University Checklist for Research Data Managment: https://www.ru.nl/rdm/vm/standards-guidelines-archives/
 .. _FAIR Principles: https://www.nature.com/articles/sdata201618#:~:text=FAIR%E2%80%94Findable%2C%20Accessible%2C%20Interoperable%2C%20Reusable
 

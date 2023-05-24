@@ -29,9 +29,9 @@ Each research project, once approved, will be provided with a quota on the DCCN 
 
 Using the DCCN Portal
 ==========
-.. _Portal: https://intranet.donders.ru.nl/index.php?id=centralstorage
+.. _Portal: https://portal.dccn.nl
 
-You can use the new `Portal`_ to manage your project. Here, you will be ablle to see your project period and funding source.
+You can use the new `Portal`_ to manage your project. Here, you will be able to see your project period and funding source.
 Additionally, below you can see the experimenters, upcoming lab bookings, progress on data acquisition, the amount of storage used by your project, and the data access roles of people involved in the project.
 
 Further Reading

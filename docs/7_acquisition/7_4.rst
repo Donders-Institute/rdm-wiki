@@ -2,7 +2,7 @@ Pseudonymization Keys
 ***********
 
 About
-===
+============
 Pseudonymization Keys enable researchers to connect personal data to anonymized research data. 
 When stored using BIDS format, research data will be organized at the subject level - though these subject identifiers should not be sufficient to determine the subject's identity. 
 The pseudonymization key is what allows a research to connect the subject's personal (i.e. potentially identifying) information to their research data. 
