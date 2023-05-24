@@ -9,5 +9,4 @@ This offers some examples of research data management practices which should be 
    
    Automatic Data Transfer <7_1/index.rst>
    Manual Data Transfer <7_2/index.rst>
-   .. CastorEDC <7_3/index.rst>
    Pseudonymization Keys <7_4.rst>

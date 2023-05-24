@@ -9,5 +9,3 @@ This requires that you follow the proper protocol in booking the laboratory.
    
    Calender <7_1_1.rst>
    Lab Protocols <7_1_4.rst>
-   .. MEG <7_1_2.rst>
-   .. MRI <7_1_3.rst>
