@@ -13,7 +13,7 @@ Instead we recommend uploading files to the DAC and Project Folder with Cyberduc
    :maxdepth: 1
    
    Exercise 7: Uploading analysis files to my new DAC from my local computer with Cyberduck <6_4_1.rst>
-   Exercise 8: Uploading analysis files to the Project Folder from my local computer with Cyberduck <6_4_1.rst>
+   Exercise 8: Uploading analysis files to the Project Folder from my local computer with Cyberduck <6_4_2.rst>
 
 How can I move files from my home drive into my (newly issued) Project folder?
 ----------------------------------

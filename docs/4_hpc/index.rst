@@ -2,8 +2,8 @@ The High Performance Computing Cluster
 *****************
 
 This is a brief overview of what the HPC Cluster is, why it should be used, and how to access it. 
-This is designed for people who have never accessed the HPC Cluster for the purposes of enabling them to do so. 
-For those who have already followed the HPC Workshop, this part should be skipped.
+The goal of the Research Data Management Workshop and Wiki does not require the HPC workshop. 
+This page will give you the requisite knowledge about the HPC Cluster to meet the goal of the Research Data Management Workshop.
 
 .. toctree::
    :maxdepth: 1

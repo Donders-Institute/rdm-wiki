@@ -1,4 +1,4 @@
-Exercise 8: Uploading with https://uploader.dccn.nl
+Exercise 9: Uploading with https://uploader.dccn.nl
 ************************
 
 *Requires VPN Connection*
@@ -7,8 +7,8 @@ Exercise 8: Uploading with https://uploader.dccn.nl
 
 * Open MatLab
 * Go to the location where you unzipped ``RDM_Workshop Materials`` on your local PC
-* Open the file ``WhatKindofFloridaManAreYou.m``
-* Run the program and answer the questions as truthfully or untruthfully as you want
+* Open the file ``MakeDataUp.m``
+* Run the program
 
 2. Login to Uploader
 
@@ -22,6 +22,6 @@ Exercise 8: Uploading with https://uploader.dccn.nl
 * For the ``Set session label`` insert ``01``
 * Under the ``Select data type field`` select ``beh``
 * Open up File Explorer side-by-side the uploader window
-* Go to the folder in your ``C:/Users/*/Downloads`` folder and locate ``Florida-Man-Results.csv``
-* Drag ``Florida-Man-Results.csv`` and drop it in the ``Click or drag files to this area`` field in uploader.
+* Go to the folder in your ``C:/Users/*/Downloads`` folder and locate ``MadeUpResults.csv``
+* Drag ``MadeUpResults.csv`` and drop it in the ``Click or drag files to this area`` field in uploader.
 * Push upload at the bottom right of your screen and close the window after the process has been completed

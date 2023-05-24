@@ -1,4 +1,4 @@
-Exercise 1: Starting a VNC Session
+Exercise 1: Starting a Virtual Network Connection (VNC) Session
 **************************
 
 If you have already accessed the HPC Cluster, this exercise should be skipped.
@@ -33,7 +33,19 @@ If you have other preferences, you should deviate from these instructions.
 
 * Open eduVPN and login. 
 * After your login has been approved but before you establish the VPN connection, select ``RU Donders Institute Trigon (Full Access)`` in the dropdown menu. 
+
+.. figure:: EduVPN_NotConnected.png
+    :figwidth: 50%
+    :align: center
+
+    Figure: RU Donders Institute Trigon (Full Access) is selected in eduVPN
 * Now, click the slider to connect. 
+
+.. figure:: EduVPN_Connected.png
+    :figwidth: 50%
+    :align: center
+
+    Figure: eduVPN is connected
 
 3. Start a VNC session
 
@@ -53,9 +65,28 @@ If you have other preferences, you should deviate from these instructions.
 * Type in your DCCN password (NOT the VNC password you just set)
 * You should now be looking at a screen which says ``You have the following VNC servers running``: if you do not, go to the start screen of the vncmanager and push ``1`` to go to ``List my running VNC servers`` and push ``enter``
 
-4. Open up the VNC GUI
+.. figure:: vncmanager_currentsessions.png
+    :figwidth: 50%
+    :align: center
+
+    Figure: Running VNC servers in PuTTY's vncmanager.
+
+4. Open up the VNC Graphical User Interface (GUI)
 
 * Open TigerVNC side-by-side PuTTY
-* In the ``VNC server:`` of TigerVNC, type the name of the VNC server which is listed in PuTTY and then push ``enter``
+* In the ``VNC server:`` of TigerVNC, type the name of the VNC server which is listed in PuTTY and then push ``Connect``
+
+.. figure:: tigervnc_selectserver.png
+    :figwidth: 50%
+    :align: center
+
+    Figure: Selecting a VNC server in TigerVNC
+
 * Insert the VNC password you just set in the previous step and then push ``enter``
 * You have now opened the VNC GUI - it should look similar to your Desktop with a few differences
+
+.. figure:: vnc_viewer.png
+    :figwidth: 50%
+    :align: center
+
+    Figure: Viewing the screen on your new VNC server with TigerVNC 

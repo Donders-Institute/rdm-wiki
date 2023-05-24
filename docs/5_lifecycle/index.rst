@@ -6,7 +6,7 @@ In order to ensure that you have the skills necessary to manage data throughout 
 data managment needs in each of the 4 stages of the research cycle.
 
 .. figure:: research-cycle.png
-    :figwidth: 30%
+    :figwidth: 38%
     :align: center
 
     Figure: Research Lifecycle
@@ -28,11 +28,12 @@ data managment needs in each of the 4 stages of the research cycle.
    +-------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
    | *Ends With*       | First Experimental Session  | Final Subject               | Article is Accepted           | Data is FAIR                |
    +-------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
-   | *Tasks*           | | Designing Experiment      | | Recruiting Subjects       | | Creating Metadata           | | Make data FAIR            |
+   | *Tasks*           | | Designing Experiment      | | Recruiting Subjects       | | Document Analysis Process   | | Make data FAIR            |
    |                   | | Running Simulations       | | Collecting Data           | | Analyzing Data              | | Anonymize Data            |
    |                   | | Analyzing Existing Data   | | Creating Metadata         | | Writing Results             | |                           |
+   |                   | | Write DMP                 | |                           | |                             | |                           |
    +-------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
    | *Data*            | | Analysis Scripts          | | Raw Data Files            | | Processed Data Files        | | Analysis Scripts          |
    |                   | | Existing Datasets         | | Metadata                  | | Analysis Scripts            | | Processed Data Files      |
-   |                   | | Experiment Script         | | Surveys                   | | Metadata                    | | Metadata                  |
+   |                   | | Experiment Script         | | Surveys                   | | Analysis Process Log        | | Metadata                  |
    +-------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+

@@ -7,4 +7,4 @@ Uploader was created to make this process as easy as possible.
 .. toctree::
    :maxdepth: 1
    
-   Exercise 8: Using Uploader <7_2_1.rst>
+   Exercise 9: Using Uploader <7_2_1.rst>

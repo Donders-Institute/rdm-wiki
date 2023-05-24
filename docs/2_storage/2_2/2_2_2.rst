@@ -3,12 +3,13 @@ Home Drive
 
 Purpose
 ==========
-To house any personal files you might have which you do not want others to have access to.
-Additionally, it can serve the purpose of housing any files which cannot be housed in the same place as your data - for instance, a pseudoanonymization key.
+To house any personal files, including files you might have which you do not want others to have access to. 
+This might be the place where you write up experimental stimuli or analysis scripts that you want to have access to down the line. 
+Additionally, it can serve the purpose of housing any files which cannot be housed in the same place as your data - for instance, a pseudonymization key.
 
 Location
 ============
-Your home directory will be located at ``H:\groupname\firlas\`` or ``M:\\`` on Windows PCs connected to the Trigon and ``/home/groupname/firlas/`` on the HPC Cluster. 
+Your home directory will be located at ``H:\groupname\firlas\`` or ``M:\`` on Windows PCs connected to the Trigon and ``/home/groupname/firlas/`` on the HPC Cluster. 
 
 Procedure to Obtain
 =============

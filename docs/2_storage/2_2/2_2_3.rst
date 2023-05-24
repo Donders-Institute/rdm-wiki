@@ -4,7 +4,7 @@ Groupshare
 Purpose
 ==========
 To enable passive data sharing between members of a laboratory group. 
-Also, it can serve the purpose of housing your pseudoanonymization keys.
+Also, it can serve the purpose of housing your pseudonymization keys when multiple researchers need access to it. 
 
 Location
 ============
