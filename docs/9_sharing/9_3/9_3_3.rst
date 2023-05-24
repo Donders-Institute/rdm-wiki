@@ -11,20 +11,20 @@ How to Publish Your Data Sharing Collection
     * Select ``Switch to 'reviewable internal'`` near the top left of the screen and click confirm
 
 .. figure:: publish_review_internal.png
-:figwidth: 100%
-:align: center
+    :figwidth: 100%
+    :align: center
 
-Figure: Switch to review internal
+    Figure: Switch to review internal
 
 3. Switch to Reviewable External
 
     * Select ``Switch to 'reviewable external'`` near the top left of the screen and click confirm
 
 .. figure:: publish_review_external.png
-:figwidth: 100%
-:align: center
+    :figwidth: 100%
+    :align: center
 
-Figure: Switch to review external
+    Figure: Switch to review external
 
 4. Grant Reviewer Access
 
@@ -32,10 +32,10 @@ Figure: Switch to review external
     * Share the URL with the editor of the journal you have submitted your article to (this grants anyone with this link the right to view a collection)
 
 .. figure:: publish_review_URL.png
-:figwidth: 100%
-:align: center
+    :figwidth: 100%
+    :align: center
 
-Figure: Granting Reviewer Access
+    Figure: Granting Reviewer Access
 
 5. Switch to Publish
 
@@ -44,7 +44,7 @@ Figure: Granting Reviewer Access
     * Your article is now irreversibly published: the process will be complete within a few hours but you cannot undo this
 
 .. figure:: publish.png
-:figwidth: 100%
-:align: center
+    :figwidth: 100%
+    :align: center
 
-Figure: Publishing Your DSC
+    Figure: Publishing Your DSC
