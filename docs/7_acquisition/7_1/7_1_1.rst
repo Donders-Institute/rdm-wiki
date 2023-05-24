@@ -9,12 +9,16 @@ This process will format your raw MRI/MEG data according to BIDS standards in yo
 Making a Calendar booking
 ===========
 This automatic workflow starts with making a calendar booking at https://portal.dccn.nl. 
-{insert picture}
-In the calendar booking, you will request a timeslot for either one of the three MRI scanners or the MEG laboratory. 
-{insert picture}
-You will be asked to assign the data collected in this timeslot a unique combination of subject and session numbers. 
+Login and click on ``Calendars`` on the top of the screen and then ``New Booking``. 
+
+.. figure:: portal_calendar.png
+    :figwidth: 50%
+    :align: center
+
+Next, select the Project Number of your Project, your modality, the lab you will use, and the timeslot that you and the participant have agreed upon. 
+Now, choose the number you want to assign to the subject and the number of the session that you are booking. 
 This subject and session number will determine where this subjects' data is saved to in the Project Folder and DAC.
-{insert picture}
+Now click ``Send`` and you have successfully booked the lab!
 
 Where to Find Automatically Uploaded Data
 =================

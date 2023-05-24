@@ -1,4 +1,4 @@
-How do I access publicly available data sets from external institutions?
+Accessing Datasets From Online Repositories
 ******************************************
 
 Thus far we have tackled retrieving publicly and privately available DSCs from the Donders Repository. 
@@ -12,8 +12,3 @@ Downloading 100 GB of files will take quite some time.
 More importantly, you might not have the memory required to download this much data: therefore, you should only download it if you need it. 
 It can be tedious and prone to errror to download this by "pointing and clicking". 
 Let's try using Repocli to selectively download a subset of data files from one such repository into our Home Folder.
-
-Exercise 6: Download a subset of data from OpenNeuro Using Repocli
-==================================
-
-{}

@@ -10,10 +10,15 @@ About
 * Generic Graphical User Interface WebDAV client
 * Installed onto all DCCN Computers and its use is supported in the DCCN 
 
+.. figure:: Cyberduck.png
+    :figwidth: 50%
+    :align: center
+
 Capabilities
 ============
 * Enables transfer between Local Storage and Central Storage (SFTP)
 * Enables transfer between Local Storage and the Donders Repository (HTTPS) 
+* Enables transfer between Local Storage and Open Access Data Repositories (i.e. HTTPS, AWS)
 
 Benefits
 ========

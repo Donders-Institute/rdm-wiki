@@ -10,6 +10,10 @@ About
 * Enables the user to script the upload or download of specific files from any repository. 
 * A generic data transfer tool with a steep learning curve. 
 
+.. figure:: Repocli.png
+    :figwidth: 50%
+    :align: center
+
 Capabilities
 ============
 * Enables transfer between Local Storage and the Donders Repository

@@ -9,6 +9,10 @@ About
 * Requires the user to be connected to the Trigon Network - either physically or via VPN
 * Specifically created for DCCN use
 
+.. figure:: Stager.png
+    :figwidth: 50%
+    :align: center
+
 Capabilities
 ============
 * Enables transfer between the Project Storage and Donders Repository

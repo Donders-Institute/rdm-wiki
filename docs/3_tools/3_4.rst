@@ -9,6 +9,10 @@ About
 * Requires the user to be connected to the Trigon Network - either physically or via VPN 
 * Specifically created for DCCN use
 
+.. figure:: Uploader.png
+    :figwidth: 50%
+    :align: center
+
 Capabilities
 ============
 * Moves data from Local Storage to Project Storage and Data Acquisition Collection
