@@ -26,3 +26,7 @@ Benefits
 
 Exercises Using Uploader
 =========================
+
+.. _Exercise 9: https://rdm.dccn.nl/docs/7_acquisition/7_2/7_2_1.html
+
+* `Exercise 9`_: Using Uploader

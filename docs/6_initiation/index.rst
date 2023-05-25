@@ -11,4 +11,3 @@ This offers some examples of research data management practices which should be 
    Accessing Datasets from Public Repositories <6_3/index.rst>
    Moving Data from Local Storage to Project Storage <6_4/index.rst>
    Data Management Plans <6_5.rst>
-   Test Your Understanding <6_6.rst>

@@ -26,12 +26,13 @@ Research Initiation
 * `Exercise 3`_: Download data from a collection you have been added to with Repocli
 * `Exercise 4`_: Download data from a DSC you have not been added to with Cyberduck
 * `Exercise 6`_: Download data from OpenNeuro Using Cyberduck
+* `Exercise 7`_: Uploading analysis files to the Project Folder from my local computer with Cyberduck
 * `Exercise 8`_: Uploading analysis files to my new DAC from my Project Folder with Repocli
 
 Data Acquisition
 ==============
 
-`Exercise 9`_: Using Uploader
+* `Exercise 9`_: Using Uploader
 
 Data Analysis
 ============
