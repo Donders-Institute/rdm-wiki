@@ -6,9 +6,9 @@ We have added you to the ``DSC_3010000.05_519`` collection - a private DSC - so 
 You should never download private DSCs onto your personal computer to ensure that - if the researchers made a mistake - there are no chances of data leakages. 
 We will practice downloading this DSC onto your Home Drive (replace groupname with your lab group's name and firlas with your DCCN username)
 
-*Requires a VNC and VPN Connection*
+1. Establish a Network Connection to Trigon (either eduVPN or hardwired)
 
-1. Login to the Donders Repostiory
+2. Login to the Donders Repostiory
 
 * Open TigerVNC
 * Open the terminal application
@@ -18,6 +18,6 @@ We will practice downloading this DSC onto your Home Drive (replace groupname wi
 * Enter your RU password and then push ``enter``
 * Push ``y`` and then push ``enter``
 
-2. Download the Data Sharing Collection to Your Home Directory
+3. Download the Data Sharing Collection to Your Home Directory
 
 * Type ``get dccn/DSC_3010000.05_519 /home/groupname/firlas``

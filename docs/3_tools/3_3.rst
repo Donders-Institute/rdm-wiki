@@ -10,7 +10,7 @@ About
 * Specifically created for DCCN use
 
 .. figure:: Stager.png
-    :figwidth: 50%
+    :figwidth: 100%
     :align: center
 
 Capabilities

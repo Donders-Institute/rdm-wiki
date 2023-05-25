@@ -7,8 +7,7 @@ To give an example on how you might analyze data on the HPC Cluster, let's analy
 
 * Open ``Applications`` and go to ``File Explorer`` in the dropdown menu
 * At the file directory where it says ``/home/groupname/firlas/``, replace it with ``/project/3010000.05/data/``
-* Scroll through, these folders and identify if there are any subject folders which are missing
-* You should have identified that there are no folders for ``sub-002``, ``sub-005``, and ``sub-006``
+* Notice that there are no folders for ``sub-002``, ``sub-005``, and ``sub-006`` - this data has been accidentally deleted
 
 2. Establish a Network Connection to Trigon (either eduVPN or hardwired)
 

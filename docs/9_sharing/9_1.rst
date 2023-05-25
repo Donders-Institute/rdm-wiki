@@ -3,9 +3,6 @@ Goals of Data Management After Analysis
 
 Now, you have fully finished with you analysis and write up. 
 Perhaps your article has been accepted for publication or perhaps you have decided that it is no longer worth pursuing. 
-
-Preserving Data
-==============
 Either way, your goal at this stage is to ensure that the work you have done and the data you have collected is preserved. 
 The space available on Central Storage is finite and, therefore, if you are not using the data anymore all files will be removed from the project folder. 
 

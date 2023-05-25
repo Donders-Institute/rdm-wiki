@@ -12,7 +12,7 @@ This automatic workflow starts with making a calendar booking at https://portal.
 Login and click on ``Calendars`` on the top of the screen and then ``New Booking``. 
 
 .. figure:: portal_calendar.png
-    :figwidth: 50%
+    :figwidth: 100%
     :align: center
 
 Next, select the Project Number of your Project, your modality, the lab you will use, and the timeslot that you and the participant have agreed upon. 

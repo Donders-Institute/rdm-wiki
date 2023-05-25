@@ -1,4 +1,4 @@
-Exercise 9: Uploading with https://uploader.dccn.nl
+Exercise 9: Uploading with Uploader
 ************************
 
 1. Establish a Network Connection to Trigon (either eduVPN or hardwired)
@@ -8,7 +8,7 @@ Exercise 9: Uploading with https://uploader.dccn.nl
 * Open MatLab
 * Go to the location where you unzipped ``RDM_Workshop Materials`` on your local PC
 * Open the file ``MakeDataUp.m`` (this would be a stimulus presentation program that behavioral responses)
-* Run the program 
+* Run the program
 
 3. Login to Uploader
 

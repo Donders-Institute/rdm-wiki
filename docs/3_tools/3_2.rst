@@ -11,7 +11,7 @@ About
 * A generic data transfer tool with a steep learning curve. 
 
 .. figure:: Repocli.png
-    :figwidth: 50%
+    :figwidth: 100%
     :align: center
 
 Capabilities
