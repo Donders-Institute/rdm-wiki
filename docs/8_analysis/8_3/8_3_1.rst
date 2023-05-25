@@ -1,3 +1,34 @@
-Exercise 10: Moving graphs from my project's Data Sharing Collection to my local PC
-****************************
-{}
+Excercise 10: Restoring Lost Data with Stager
+************
+
+To give an example on how you might analyze data on the HPC Cluster, let's analyze the data we 'collected' earlier using the ``MakeDataUp.m`` program. 
+
+1. Check for data loss
+
+* Open ``Applications`` and go to ``File Explorer`` in the dropdown menu
+* At the file directory where it says ``/home/groupname/firlas/``, replace it with ``/project/3010000.05/data/``
+* Scroll through, these folders and identify if there are any subject folders which are missing
+* You should have identified that there are no folders for ``sub-002``, ``sub-005``, and ``sub-006``
+
+2. Establish a Network Connection to Trigon (either eduVPN or hardwired)
+
+3. Go to https://stager.dccn.nl
+
+4. Log in to the Stager service
+
+* Input your DCCN username in the following format ``firlas@dccn.nl`` and your DCCN password in the fields under the ``Project Storage`` section
+* Input your RU username in the following format ``u1234567@ru.nl`` and your RU password in the fields under the ``Donders Repository`` section
+
+5. Select the Donders Repository directories to download
+
+* Double-click on ``dccn`` on the Donders Repository Side
+* Double-click on ``DAC_3010000.05_873`` on the Donders Repository Side
+* Double-click on ``data`` on the Donders Repository Side
+* Check the boxes next to the ``sub-002``, ``sub-005``, and ``sub-006`` directories
+
+6. Select the Project Storage directory to download the data into
+
+* Double-click on the ``3010000.05/`` directory on the Project Storage side 
+* Check the box next to the ``data`` directory
+
+7. Press the ``Download`` button

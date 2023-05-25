@@ -7,5 +7,6 @@ This section will outline how you can and should do that.
 .. toctree::
    :maxdepth: 1
    
-   Exercise 10: Moving graphs from my project's Data Sharing Collection to my local PC <8_3_1.rst>
-   Exercise 11: Moving graphs from the project folder to my local PC <8_3_2.rst>
+   Exercise 10: Restoring Lost Data with Stager <8_3_1.rst>
+   Exercise 11: Analyzing Data Using RStudio on the HPC Cluster <8_3_2.rst>
+   Exercise 12: Moving graphs from my project's Data Sharing Collection to my local PC <8_3_3.rst>

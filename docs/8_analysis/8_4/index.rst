@@ -8,5 +8,5 @@ This section will outline how you can and should do that.
    :maxdepth: 1
    
    The Purpose of Research Documentation Collections <8_4_1.rst>
-   Exercise 12: Making a Research Documentation Collection <8_4_2.rst>
+   Request a Research Documentation Collection <8_4_2.rst>
    

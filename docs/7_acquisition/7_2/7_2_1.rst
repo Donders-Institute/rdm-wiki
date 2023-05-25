@@ -1,21 +1,21 @@
 Exercise 9: Uploading with https://uploader.dccn.nl
 ************************
 
-*Requires VPN Connection*
+1. Establish a Network Connection to Trigon (either eduVPN or hardwired)
 
-1. Create Experimental Data
+2. Create Experimental Data
 
 * Open MatLab
 * Go to the location where you unzipped ``RDM_Workshop Materials`` on your local PC
-* Open the file ``MakeDataUp.m``
-* Run the program
+* Open the file ``MakeDataUp.m`` (this would be a stimulus presentation program that behavioral responses)
+* Run the program 
 
-2. Login to Uploader
+3. Login to Uploader
 
 * Go to https://uploader.dccn.nl
 * Type in your DCCN username (firlas) and password in the correct fields and then push login
 
-3. Upload Your Data Files
+4. Upload Your Data Files
 
 * Under the ``Select project`` field select ``3010000.05``
 * Under the ``Set subject label field`` insert the three numbers which have been given to you at the start of the workshop

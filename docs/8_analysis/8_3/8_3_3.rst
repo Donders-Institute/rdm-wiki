@@ -1,0 +1,26 @@
+Exercise 12: Moving graphs from the project folder to my Local PC Using Cyberduck
+***************************
+
+1. Connect to Trigon via eduVPN or a hardwired connnection
+
+2. Connect to an Access Node
+
+* Open Cyberduck
+* Click ``Open Connection`` at the top left of the window
+* Click on the dropdown menu (which defaults to ``File Transfer Protocol (FTP)``) and select ``SSH File Transfer Protocol (SFTP)`` 
+* At the ``Server:`` field type in ``mentat001.dccn.nl``
+* Enter your DCCN username (firlas@dccn.nl) and password and then click ``Connect`` at the bottom right side of the window
+
+3. Locate the ``plot.png`` file
+
+* Double-click on the ``results`` directory
+* Double-click on the ``firlas`` directory where firlas is your DCCN username
+* Single-click on the ``plot.png`` file
+
+4. Download the ``plot.png`` file
+
+* Click ``Action`` then ``Download To`` in the dropdown menu
+* Single-click the folder you want to download the ``plot.png`` file to
+* Push ``OK``
+
+5. Disconnect

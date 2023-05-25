@@ -1,28 +1,23 @@
-Exercise 8: Uploading analysis files to the Project Folder from my local computer with Cyberduck
-********************************************
+Exercise 8: Uploading analysis files to my new DAC from my Project Folder with Repocli
+**************************
 
-*Does require a VPN Connection*
+1. Establish a connection to the Trigon Network using either eduVPN or a hardwired connection
 
-1. Connect to an Access Node
+2. Begin a TigerVNC session
 
-* Open Cyberduck
-* Click ``Open Connection`` at the top left of the window
-* Click on the dropdown menu (which defaults to ``File Transfer Protocol (FTP)``) and select ``SSH File Transfer Protocol (SFTP)`` 
-* At the ``Server:`` field type in ``mentat001.dccn.nl``
-* Enter your DCCN username (firlas@dccn.nl) and password and then click ``Connect`` at the bottom right side of the window
+3. Login to the Donders Repository
 
-2. Create an Upload Directory
+* Click on ``Applications`` and select ``Terminal Emulator``
+* Type ``repocli shell`` into the Terminal to open the interactive shell
+* Type ``login`` to log into the Donders Repository
+* Enter your RU username (u1234567@ru.nl) and push Enter
+* Enter your password and then push Enter
+* Type ``N`` and then push Enter
 
-* Click on the directory field which should say ``/home/groupname/firlas`` and select ``/``
-* Double click on the ``project`` directory 
-* Double click on the ``3010000.05`` directory 
-* Double click on the ``scripts`` directory
-* Locate and click on ``Action`` at the top of the window and then select ``New Folder`` on the dropdown menu
-* Type your DCCN username (firlas) in the Field and push ``Create``
+4. Create an Upload Directory
 
-3. Upload your files 
+* Type ``mkdir dccn/DAC_3010000.05_873/results/firlas`` where firlas is your DCCN username and push Enter
 
-* You should be in the folder just created: if not navigate to that folder and select ``Upload`` at the top center of the window
-* Navigate to the ``Downloads`` folder in your local drive and double click on the **unzipped** ``RDM_Workshop Materials`` directory
-* Control-Click each file in this directory push ``choose``
-* Select the disconnect button at the top right of the window
+5. Upload your files 
+
+* Type ``put /project/3010000.05/results/analysis.R dccn/DAC_3010000.05_873/results/firlas`` where firlas is your DCCN username and push Enter
