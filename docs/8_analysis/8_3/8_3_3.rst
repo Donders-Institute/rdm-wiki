@@ -4,7 +4,7 @@ Exercise 12: Moving an R Workspace into the Local PC Using Cyberduck
 The HPC cluster is a powerful tool which enables researchers to improve their efficiency. 
 However, users of the HPC clusters cannot always use certain packages which they might otherwise be able to on their Local PCs since the TG determines the version of programs (R in this instance).
 On the HPC cluster, the installed version of R is not compatible with the ``effects`` package. 
-We have created an ``lme`` object called ``fit`` which we want to plot the effects of using the ``effect`` function in the ``effects`` package. 
+We have created an ``lme`` object called ``fit`` which we want to plot the effects of using the ``effect`` function in the ``effects`` package to visualize the interaction between trial number and condition on reaction time.  
 We've saved our workspace to ``RDM_Workshop_Analysis.RData`` and now we can download this from the HPC cluster and plot the ``fit`` object.
 
 1. Connect to Trigon via eduVPN or a hardwired connnection
