@@ -1,9 +1,9 @@
 Exercise 11: Analyzing Data Using RStudio on the HPC Cluster
 **************
 
-Now that we have all of the data, we will run an analysis script.
+Now that we have all of the data, we will run an analysis script. 
 
-1. Identify subjects whose data should be excluded from the analysis
+1. Identify subjects between 1 and 10 whose data should be excluded from the analysis
 
 * Return to File Explorer (you should be in the ``/project/3010000.05/data`` directory)
 * Open the ``excluded_subjects.txt`` file
@@ -28,11 +28,10 @@ Now that we have all of the data, we will run an analysis script.
 
 4. Select the entire document and push control and enter together to run the script
 
-5. Save the image
+5. Save the workspace 
 
-* Navigate to the ``Plots`` tab at the bottom right once the script has finished running
-* Click ``Export`` and push ``Save as Image...`` in the dropdown menu
-* Save the image in the ``/project/3010000.05/results/firlas`` folder where firlas is your DCCN username as ``plot.png``
+* Navigate to the ``Environment`` tab at the bottom right once the script has finished running
+* Click the blue square in the ``Environment`` tab to save the workspace as, and save the workspace as ``RDM_Workshop_Analysis`` in the ``/project/3010000.05/results/firlas`` folder
 
 6. Disconnect
 

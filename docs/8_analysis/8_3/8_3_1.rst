@@ -9,7 +9,7 @@ Now, navigate to the ``/project/3010000.05/data/`` folder and create a new folde
 Open the ``/project/3010000.05/data/firlas/`` folder and paste the contents of the ``/project/3010000.05/raw/`` folder.
 
 
-1. Check for data loss
+1. Check for data loss between subjects number 1 to 10
 
 * Open ``Applications`` and go to ``File Explorer`` in the dropdown menu
 * At the file directory where it says ``/home/groupname/firlas/``, replace it with ``/project/3010000.05/data/firlas/``
