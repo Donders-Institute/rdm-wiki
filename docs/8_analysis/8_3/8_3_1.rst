@@ -34,6 +34,7 @@ Open the ``/project/3010000.05/data/firlas/`` folder and paste the contents of t
 6. Select the Project Storage directory to download the data into
 
 * Double-click on the ``3010000.05/`` directory on the Project Storage side 
-* Check the box next to the ``data`` directory
+* Double-click on the ``data`` directory on the Project Storage side
+* Check the box next to your ``firlas`` directory on the Project Storage side
 
 7. Press the ``Download`` button
