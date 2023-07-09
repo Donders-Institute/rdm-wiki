@@ -11,5 +11,4 @@ Therefore, for those familiar with BIDS and the standards of providing metadata,
    Research Data Management <1_1.rst>
    Scientific Integrity <1_2.rst>
    Achieving FAIR Science <1_3.rst>
-   Quiz <1_4.rst>
    

@@ -1,4 +1,4 @@
-Exercise 13: Staging Data from the Project Folder to the Data Sharing Collection
+Exercise 9: Staging to the DSC
 ********************
 
 Once you have made a DSC, you can stage files from your Project Folder to the DSC. 

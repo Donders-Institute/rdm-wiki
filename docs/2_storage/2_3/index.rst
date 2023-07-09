@@ -4,13 +4,12 @@ Donders Repository
 About
 -----
 
-The Donders Repository is a data repository for researchers of the the Donders Institute to archive and/or publish their research data. 
+The Radboud Data Repository is a data repository for researchers of Radboud University to archive and/or publish their research data. 
 
-Data on the Donders Repository more difficult to access than data on Central or Local Storage. 
-Therefore, it serves the purpose of backing up data so that, in the case of accidental deletion on Central Storage, it can still be retrieved. 
+Data on the Radboud Data Repository serve the purpose of backing up data so that, in the case of accidental deletion on Central Storage, it can still be retrieved. 
 Additionally, it serves the purpose of improving research documentation for better reproducibility. 
 Finally, it also serves the purpose of hosting data after the completion of the project. 
-It is hosted at https://data.donders.ru.nl/. 
+It is hosted at https://data.ru.nl/. 
 It is also accessible on the ``R:\`` drive on Network PCs or the ``/repository/`` folder on the HPC Cluster. 
 However, we will not discuss accessing files via these means. 
 

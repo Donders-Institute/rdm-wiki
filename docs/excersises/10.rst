@@ -1,4 +1,4 @@
-Exercise 12: Moving an R Workspace into the Local PC Using Cyberduck
+Exercise 10: Downloading Workspaces with Cyberduck
 ***************************
 
 The HPC cluster is a powerful tool which enables researchers to improve their efficiency. 

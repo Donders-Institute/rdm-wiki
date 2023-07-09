@@ -1,4 +1,4 @@
-Exercise 6: Download Data from OpenNeuro Using Cyberduck
+Exercise 3: Download Data from OpenNeuro Using Cyberduck
 ***********
 
 Determine Which Protocol You Must Use to Download the Data.

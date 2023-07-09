@@ -1,4 +1,4 @@
-Excercise 10: Restoring Lost Data with Stager
+Excercise 7: Restoring Lost Data with Stager
 ************
 
 To give an example on how you might analyze data on the HPC Cluster, let's analyze the data we 'collected' earlier using the ``MakeDataUp.m`` program. 

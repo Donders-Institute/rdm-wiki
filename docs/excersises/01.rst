@@ -1,4 +1,4 @@
-Exercise 3: Download data from a collection you have been added to with Repocli
+Exercise 1: Download Data from a Private DSC with Repocli
 *****************************************************
 
 Once you have been added to a collection, you will receive an email to the email account you used when you signed up to the Donders Repository stating that you have been added. 

@@ -1,4 +1,4 @@
-Exercise 7: Uploading analysis files to the Project Folder from my local computer with Cyberduck
+Exercise 4: Uploading to the Project Folder with Cyberduck
 ********************************************
 
 1. Connect to Trigon via eduVPN or a hardwired connnection

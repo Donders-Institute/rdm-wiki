@@ -1,4 +1,4 @@
-Exercise 4: Download data from a DSC you have not been added to with Cyberduck
+Exercise 2: Download from a Public DSC with Cyberduck
 ****************************
 
 1. Establish a Network Connection to Trigon (either eduVPN or hardwired)

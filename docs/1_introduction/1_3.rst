@@ -1,5 +1,9 @@
 What Practices Promote FAIR Science?
 *****************
+.. _`Metadata guidlines at Radboud University`: https://www.ru.nl/rdm/vm/standards-guidelines-archives/
+.. _`BIDS format`: https://bids.neuroimaging.io
+.. _`Benefits of Using BIDS format`: https://bids.neuroimaging.io/benefits.html#benefits
+.. _`BIDS apps`: https://bids-apps.neuroimaging.io/apps/
 
 Adoption of BIDS format and enriching with Metadata are some very powerful ways to make data FAIR. 
 
@@ -10,13 +14,8 @@ BIDS (or Brain Imaging Data Structure) is the standard directory structure for b
 ``\project\data\subject\session\modality\file.type``
 
 Using BIDS will make your research more FAIR. 
-It will also make you more efficient, since you will unlock benefits of using the BIDS ecosystem software such as pipelining.
-
-Further Reading
-----------
-* BIDS format: https://bids.neuroimaging.io
-* Benefits of Using BIDS format: https://bids.neuroimaging.io/benefits.html#benefits
-* BIDS apps: https://bids-apps.neuroimaging.io/apps/
+It will also make you more efficient, since you will unlock benefits of using the BIDS ecosystem software such as pipelining. 
+Want to learn more? Check out these pages about `BIDS format`_, the `Benefits of Using BIDS format`_, and `BIDS apps`_.
 
 Providing Metadata
 ===================
@@ -31,12 +30,9 @@ The metadata you provide should answer the 5 **W** s:
 4. Where - What institute did you collect the data at?
 5. Why - What question were you trying to answer?
 
-Providing answers to these questions in the metadata will enable other researchers to determine what they can do with your data.
-
-Further Reading
---------------
-Metadata guidlines at Radboud University: https://www.ru.nl/rdm/vm/standards-guidelines-archives/
+Providing answers to these questions in the metadata will enable other researchers to determine what they can do with your data. 
+Want to learn more? Check out this page on `Metadata guidlines at Radboud University`_.
 
 Archiving Datasets to Public Repositories
 ================================
-When it is possible, you should make your data publicly available. For all Donderians, you will be archiving to http://data.donders.ru.nl
+When it is possible, you should make your data publicly available. For all Donderians, you will be archiving to http://radboud.data.donders.ru.nl

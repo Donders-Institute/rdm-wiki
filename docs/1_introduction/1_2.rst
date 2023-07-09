@@ -1,14 +1,15 @@
 The Interplay Between Research Data Management and Scientific Integrity
 ************************************************
 
+.. _`Incidents of Scientific Misconduct`: https://en.wikipedia.org/wiki/List_of_scientific_misconduct_incident
+
 Research Data Management is a continuously developing field which developed out of a need to solve problems associated with Scientific Integrity but also a desire to improve the efficiency of research.
 
 Brief History
 ===========
 Research data management is a field which emerged as a consequence of a confluence of factors plaguing science which came to light around the same time - between 2011 and 2017. 
-The thing which set off this chain of events was the fraud cases which came to light: the most well-known of these cases was that of Diederik Stapel, though many other cases came to light around this time (see https://en.wikipedia.org/wiki/List_of_scientific_misconduct_incidents). 
-Diederik Stapel was a lead Dutch Social Psychologist who, in 2011, was found to have falsified data. 
-In addition to cases of outright fraud, questionable research practices in the Cognitive and Social Sciences started to be discussed more publicly around this time: most notably SHARKing (Secretly Hypothesizing After Results are Known). 
+The thing which set off this chain of events was the fraud cases which came to light: the most well-known of these cases was that of Diederik Stapel, though many other `Incidents of Scientific Misconduct`_ came to light around this time. 
+In addition to cases of outright fraud, questionable research practices in the Cognitive and Social Sciences started to be discussed more publicly around this time: most notably SHARKing (Secretly Hypothesizing After Results are Known) and P-hacking. 
 Compounded with the Replication Crisis in the Cognitive and Social Sciences, Funding Agencies and Scientific Journals began demanding that researchers adhere to ethical standards for conducting research. 
 In other words, many of the precipitating factors which preceded the emergence of research data management, as a field, were the failure to live up to core scientific values. 
 
@@ -23,4 +24,4 @@ How Can Proper Data Management Work For You?
 * **Available Storage Space** - Proper data management practices ensure that there is the necessary space on local memory
 * **Protect Privacy** - Proper data management practices protect the privacy and anonymity of research participants
 * **Reusability** - Proper data management practices enable data to be reused by future researchers
-* **Efficiency** - Proper data managmenent practices free researchers up to do research better, faster, and smarter! Parallelization, which possible with BASH Scripting on the HPC Cluster, helps speed up analysis practices: https://hpc.dccn.nl
+* **Efficiency** - Proper data managmenent practices free researchers up to do research better, faster, and smarter! 

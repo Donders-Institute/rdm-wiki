@@ -1,16 +1,39 @@
 How do I access existing datasets from previous Donders Institute studies?
 ***************************************
 
+.. _`Exercise 1 - Download Data from a Private DSC with Repocli`: https://rdm.dccn.nl/docs/excercises/01.html
+.. _`Exercise 2 - Download from a Public DSC with Cyberduck`: https://rdm.dccn.nl/docs/excercises/02.html
+
 During this period, you may wish to analyze data from previous studies. 
 If one of these previous studies was conducted by a member of the Donders Institute, you can request access to view the raw data - or Data Acquisition Collections (DACs). 
 If this study was conducted by a fellow member of the DCCN, you can see the DAC but you cannot view or download the files. 
 If the study was conducted by a member of the DCC, DCN, or DCMN, you cannot see the DAC. 
 Since you are a member of the Donders Institute, you can request access to privately available DACs, Research Documentation Collections (RDCs), and Data Sharing Collections (DSCs).
 
-.. toctree::
-   :maxdepth: 1
-   
-   Exercise 2: Creating a Donders Repository Account <6_2_1.rst>
-   How to Obtain Access to Donders Repository Collections <6_2_2.rst>
-   Exercise 3: Download data from a collection you have been added to with Repocli <6_2_3.rst>
-   Exercise 4: Download data from a DSC you have not been added to with Cyberduck <6_2_4.rst>
+
+
+How to Create a Radboud Data Repository Account
+==========
+
+1. Create a Donders Repository account.
+
+* Open your internet browser of choice
+* Go to https://data.donders.ru.nl
+* Login with your SURFcontext account
+* Accept the terms
+
+How to Obtain Access to Donders Repository Collections
+===============
+
+To obtain access to Collections in the Donders Repository, you must contact one of the managers of that collection. 
+For all DCCN Collections, you can see who the manager(s) are for each collection of each project: you should contact any one of those people and request to be added. 
+
+For DCN, DCC, and DCMN Collections, you will only be able to see who the manager(s) are for each collection if that collection is a publicly available DSC. 
+Importantly, not all researchers publish their collections as publicly DSCs. 
+Therefore, if you have become aware of a data set collected by a member of the Donders Institute which you would like to analyze, you should just contact a member of that project to ask about if/how you might receive access. 
+
+How to Download data from the Radboud Data Repository
+================
+
+* `How to Download Data from a DSC you have been added to`_
+* `How to Download Data from a DSC you have been not been added to`_

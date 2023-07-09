@@ -1,4 +1,4 @@
-Exercise 8: Uploading analysis files to my new DAC from my Project Folder with Repocli
+Exercise 5: Uploading to a DAC with Repocli
 **************************
 
 1. Establish a connection to the Trigon Network using either eduVPN or a hardwired connection

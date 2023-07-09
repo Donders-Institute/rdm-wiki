@@ -1,4 +1,4 @@
-Exercise 9: Uploading with Uploader
+Exercise 6: Uploading with Uploader
 ************************
 
 1. Establish a Network Connection to Trigon (either eduVPN or hardwired)

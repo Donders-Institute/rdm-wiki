@@ -1,4 +1,4 @@
-Exercise 11: Analyzing Data Using RStudio on the HPC Cluster
+Exercise 8: Analyzing Data on the HPC Cluster
 **************
 
 Now that we have all of the data, we will run an analysis script. 

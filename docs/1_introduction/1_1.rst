@@ -1,9 +1,14 @@
 What is Research Data Management?
 *****************
 
+.. _Radboud University Research Data Managment: https://www.ru.nl/rdm/
+.. _Radboud University Checklist for Research Data Managment: https://www.ru.nl/rdm/vm/standards-guidelines-archives/
+.. _FAIR Principles: https://www.nature.com/articles/sdata201618#:~:text=FAIR%E2%80%94Findable%2C%20Accessible%2C%20Interoperable%2C%20Reusable
+
 * Defined as the practice of storing, organizing, and maintaining data collected for research purposes
 * Research Data Management aims to improve the research efficiency and transparency, and to fulfill the requirements of the university, funders, and legislation.
-* Academic research should be FAIR
+* Researchers at Radboud University should follow the `Radboud University Checklist for Research Data Managment`_ and `Radboud University Research Data Managment`_ 
+* Academic research should adhere to `FAIR Principles`_
 
 The FAIR Acronym
 ================
@@ -16,13 +21,3 @@ The FAIR Acronym
 **Reusable** - data collections have accurate and relevant attributes, clear and accesible data usage license, and meet domain-relevant community standards
 
 The workflows developed for researchers at the DCCN are aimed at making research FAIR.
-
-Further Reading
-===============
-.. _Radboud University Research Data Managment: https://www.ru.nl/rdm/
-.. _Radboud University Checklist for Research Data Managment: https://www.ru.nl/rdm/vm/standards-guidelines-archives/
-.. _FAIR Principles: https://www.nature.com/articles/sdata201618#:~:text=FAIR%E2%80%94Findable%2C%20Accessible%2C%20Interoperable%2C%20Reusable
-
-* `Radboud University Research Data Managment`_ 
-* `Radboud University Checklist for Research Data Managment`_
-* `FAIR Principles`_

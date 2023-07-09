@@ -4,7 +4,7 @@ Research Documentation Collections contain documents.
 Its purpose is to memorandize the process by which raw data came to lead to your published results. 
 You must request a Research Documentation Collection for your project.
 
-Research Documentation Collections can be found at the Donders Repository with the following identifier:
+Research Documentation Collections can be found at the Radboud Data Repository with the following identifier:
 
 ``di.dccn.RDC_1234567.89_XXX``
 
