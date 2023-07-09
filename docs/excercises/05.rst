@@ -5,11 +5,11 @@ Exercise 5: Uploading to a DAC with Repocli
 
 2. Begin a TigerVNC session
 
-3. Login to the Donders Repository
+3. Login to the Radboud Data Repository
 
 * Click on ``Applications`` and select ``Terminal Emulator``
 * Type ``repocli shell`` into the Terminal to open the interactive shell
-* Type ``login`` to log into the Donders Repository
+* Type ``login`` to log into the Radboud Data Repository
 * Enter your RU username (u1234567@ru.nl) and push Enter
 * Enter your password and then push Enter
 * Type ``N`` and then push Enter

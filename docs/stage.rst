@@ -4,6 +4,7 @@ Exercises Sorted by Stage in the Research Life Cycle
 .. toctree::
    :maxdepth: 1
    :caption: Non-Specific
+   
     Exercise 1: Download Data from a Private DSC with Repocli <excercises/01.rst>
     Exercise 2: Download from a Public DSC with Cyberduck <excercises/02.rst>
     Exercise 3: Download Data from OpenNeuro Using Cyberduck <excercises/03.rst>

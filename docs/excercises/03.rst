@@ -3,6 +3,7 @@ Exercise 3: Download Data from OpenNeuro Using Cyberduck
 
 Determine Which Protocol You Must Use to Download the Data.
 ======================
+
 .. _Demo: https://openneuro.org/datasets/ds004564/versions/1.0.1
 Let's say you have found a data collection you want to analyze on OpenNeuro called `Demo`_. 
 Before you can go about downloading it with Cyberduck or Repocli, you must determine which protocol you must use to interact with the server. 

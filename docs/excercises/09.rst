@@ -9,7 +9,7 @@ Once you have made a DSC, you can stage files from your Project Folder to the DS
 
 * Go to https://stager.dccn.nl
 * In the Project Storage side, enter your DCCN username (for Firstname Lastname this is ``firlas@dccn.nl``) and password, and push ``Login``
-* In the Donders Repository side, enter your RU username (``u1234567@ru.nl``) and password, and push ``Login``
+* In the Radboud Data Repository side, enter your RU username (``u1234567@ru.nl``) and password, and push ``Login``
 
 3. Select the Directories to Upload from Project Storage
 
@@ -17,13 +17,13 @@ Once you have made a DSC, you can stage files from your Project Folder to the DS
 * On the Project Storage side, check the box next to the ``data`` directory
 * On the Project Storage side, push the ``+`` icon next to the ``results`` directory and check the box next to the ``firlas`` directory where firlas is your DCCN username
 
-4. Select the Directory to Upload to in the Donders Repository
+4. Select the Directory to Upload to in the Radboud Data Repository
 
-* On the Donders Repository side, double click ``dccn``
-* On the Donders Repository side, double click ``DSC_3010000.05_519``
-* On the Donders Repository side, select the ``+`` icon at the bottom of the screen, next to the settings icon and the green box with your RU username
+* On the Radboud Data Repository side, double click ``dccn``
+* On the Radboud Data Repository side, double click ``DSC_3010000.05_519``
+* On the Radboud Data Repository side, select the ``+`` icon at the bottom of the screen, next to the settings icon and the green box with your RU username
 * In the Dialog box, type your DCCN username (firlas) an push ``Create``
-* On the Donders Repository side, check the box next to the directory you have just created
+* On the Radboud Data Repository side, check the box next to the directory you have just created
 
 5. Upload the data to your Data Sharing Collection
 
