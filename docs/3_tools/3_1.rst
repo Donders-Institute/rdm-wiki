@@ -1,4 +1,5 @@
 .. _`Cyberduck`: http://cyberduck.io
+.. _`Exercises Using Cyberduck`: https://rdm.dccn.nl/docs/tools.html
 
 `Cyberduck`_
 **********
@@ -26,6 +27,5 @@ Benefits
 * Serves multiple purposes
 * A generic tool 
 
-Exercises Using Cyberduck
-=========================
+`Exercises Using Cyberduck`_
 

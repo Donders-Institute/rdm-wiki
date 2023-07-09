@@ -8,7 +8,7 @@ Project Storage
 
 Purpose
 ============
-The Project Storage is intended to house research data which you are *actively* using at any given time during the research project. 
+The `Project Storage`_ is intended to house research data which you are *actively* using at any given time during the research project. 
 
 Location
 ========

@@ -1,4 +1,5 @@
 .. _`Repocli`:https://github.com/Donders-Institute/dr-tools/tree/main/cmd/repocli
+.. _`Exercises Using Repocli`: https://rdm.dccn.nl/docs/tools.html
 
 `Repocli`_
 **********
@@ -24,11 +25,4 @@ Benefits
 * Operations are much more robust than with other tools 
 * Enables specification which can substantial minimize user error and maximize efficiency.
 
-Exercises Using Repocli
-=========================
-
-.. _Exercise 3: https://rdm.dccn.nl/docs/6_initiation/6_2/6_2_3.html
-.. _Exercise 8: https://rdm.dccn.nl/docs/6_initiation/6_4/6_4_2.html
-
-* `Exercise 3`_: Download data from a collection you have been added to with Repocli
-* `Exercise 8`_: Uploading analysis files to my new DAC from my Project Folder with Repocli
+`Exercises Using Repocli`_
