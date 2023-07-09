@@ -1,8 +1,7 @@
 Donders Repository
 ****************************
 
-About
------
+**About**
 
 The Radboud Data Repository is a data repository for researchers of Radboud University to archive and/or publish their research data. 
 
