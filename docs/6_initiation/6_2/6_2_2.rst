@@ -1,9 +1,0 @@
-How to Obtain Access to Donders Repository Collections
-**************************
-
-To obtain access to Collections in the Donders Repository, you must contact one of the managers of that collection. 
-For all DCCN Collections, you can see who the manager(s) are for each collection of each project: you should contact any one of those people and request to be added. 
-
-For DCN, DCC, and DCMN Collections, you will only be able to see who the manager(s) are for each collection if that collection is a publicly available DSC. 
-Importantly, not all researchers publish their collections as publicly DSCs. 
-Therefore, if you have become aware of a data set collected by a member of the Donders Institute which you would like to analyze, you should just contact a member of that project to ask about if/how you might receive access. 

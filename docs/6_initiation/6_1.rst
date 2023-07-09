@@ -8,4 +8,4 @@ Prior to data acquisition, you might have these kinds of data
 * Analysis Scripts
 
 We will talk about best practices in terms of data management during this period and how data should be transferred once your Project Folder has been issued. 
-However, we will start with a guide on how to access data from the Donders Repository. 
+However, we will start with a guide on how to access data from the Radboud Datasets Repository. 

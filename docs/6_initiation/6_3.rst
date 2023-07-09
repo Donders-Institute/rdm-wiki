@@ -1,0 +1,10 @@
+How do I access existing datasets from Online Repositories?
+******************************************
+
+.. _`download from these repositories using tools`: https://rdm.dccn.nl/docs/excercises/03.html
+
+Thus far we have tackled retrieving publicly and privately available DSCs from the Radboud Data Repository. 
+But you may want to download data from other public research data repositories (for a list look at https://neuinfo.org/rin/suggested-data-repositories?p1=SCR_006770).
+
+This data can be downloaded by simply selecting the Download button on websites. 
+However, you can also `download from these repositories using tools`_, often with less hassle.

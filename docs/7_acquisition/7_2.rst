@@ -1,0 +1,8 @@
+Manual Data Transfer
+======================================
+
+.. _`uploading raw subject data to your Project Folder and DAC using Uploader`: https://rdm.dccn.nl/docs/excercises/06.html
+
+Whenever possible, you should move data from the laboratory PC onto project storage and your DAC. 
+Uploader was created to make this process as easy as possible. 
+Try `uploading raw subject data to your Project Folder and DAC using Uploader`_.

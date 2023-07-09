@@ -1,4 +1,4 @@
-When do I make data publicly available?
+Making Data Publicly Available
 ***************
 
 In the spirit of open science - achieved by making research FAIR - many researchers aim to make their data publicly available. 

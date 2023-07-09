@@ -1,16 +1,9 @@
-How should I share data and scripts with externally affiliated colleagues?
-**************************
+Accessing Files Locally
+********************
 
-RU Email
-===========
-* Your RU email cannot send files totalling more than 25 MB
-* You cannot receive files via email from email address outside of the ru.nl domain
+.. _`restore lost data with Stager`: https://rdm.dccn.nl/docs/excercises/07.html
+.. _`Analyze data on the HPC Cluster`: https://rdm.dccn.nl/docs/excercises/08.html
+.. _`stage data to the DSC`: https://rdm.dccn.nl/docs/excercises/09.html
 
-Donders Repository
-=====================
-* Researchers at another SURF-supported Dutch researcher can create an account and login with their SURFcontext account credentials
-* Foreign researchers can login with their ORCID
-
-Further Reading
--------------
-https://data.donders.ru.nl/login?4&originalUrl=https://data.donders.ru.nl/login
+During the course of writing your results up into either a Thesis or Article, you will need to bring files from the project folder, such as figures you have created, into your local drive where they can be added to your manuscript. 
+We will work through examples of how you can `restore lost data with Stager`_, `Analyze data on the HPC Cluster`_, and `stage data to the DSC`_ - all common issues you can expect to encounter. 

@@ -1,15 +1,20 @@
-Sharing Data Within Radboud University
-********************
+Sharing Data During Analysis
+**************************
 
-.. table::
-   :widths: auto
+.. _`Radboud Data Repository`: https://data.ru.nl/login?4&originalUrl=https://data.donders.ru.nl/login
 
-   +--------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
-   |                    | Within Your Lab Group       | Within Trigon               | Within the Donders Institute  | Within RU                   |
-   +====================+=============================+=============================+===============================+=============================+
-   | RU Email           | < 25 MB Files Only          | < 25 MB Files Only          | < 25 MB Files Only            | < 25 MB Files Only          |
-   +--------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
-   | Groupshare         | No research data            |                             |                               |                             |
-   +--------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
-   | Donders Repository | Recipient must have account | Recipient must have account | Recipient must have account   | Recipient must have account |
-   +--------------------+-----------------------------+-----------------------------+-------------------------------+-----------------------------+
+RU Email
+===========
+* Your RU email cannot send files totalling more than 25 MB
+* You cannot receive files via email from email address outside of the ru.nl domain
+
+Groupshare
+=========
+* Efficient, passive sharing to other lab members but only possible to do within your lab group. 
+
+`Radboud Data Repository`_
+=====================
+* The best option for sharing research data
+* Researchers at another SURF-supported Dutch researcher can create an account and login with their SURFcontext account credentials
+* Foreign researchers can login with their ORCID
+
