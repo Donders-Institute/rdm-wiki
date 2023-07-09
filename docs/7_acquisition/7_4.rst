@@ -1,6 +1,8 @@
 Pseudonymization Keys
 ***********
 
+.. _`this log`: https://irb.northwestern.edu/docs/delegation-of-authority-log_social-behavioral-research-compliance-2004.doc
+
 About
 ============
 Pseudonymization Keys enable researchers to connect personal data to anonymized research data. 
@@ -16,6 +18,4 @@ Access to the pseudonymization key (i.e. sharing of the password) should be give
 Delegation of Authority Log
 ==========
 The delegation of authority log is designed to track the roles and responsibilities of all researchers. 
-Using this log will assist you in determining who needs to have access to the pseudonymization key. 
-
-https://irb.northwestern.edu/docs/delegation-of-authority-log_social-behavioral-research-compliance-2004.doc
+Using `this log`_ will assist you in determining who needs to have access to the pseudonymization key. 

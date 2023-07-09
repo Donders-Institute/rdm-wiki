@@ -11,6 +11,7 @@ RU Email
 Groupshare
 =========
 * Efficient, passive sharing to other lab members but only possible to do within your lab group. 
+* Research data is not allowed to be stored on groupshare
 
 `Radboud Data Repository`_
 =====================
