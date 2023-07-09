@@ -1,7 +1,7 @@
 The Interplay Between Research Data Management and Scientific Integrity
 ************************************************
 
-.. _`Incidents of Scientific Misconduct`: https://en.wikipedia.org/wiki/List_of_scientific_misconduct_incident
+.. _`Incidents of Scientific Misconduct`: https://en.wikipedia.org/wiki/List_of_scientific_misconduct_incidents
 
 Research Data Management is a continuously developing field which developed out of a need to solve problems associated with Scientific Integrity but also a desire to improve the efficiency of research.
 

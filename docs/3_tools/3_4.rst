@@ -1,7 +1,7 @@
-Uploader
-**********
+.. _`Uploader`: https://uploader.dccn.nl
 
-https://uploader.dccn.nl
+`Uploader`_
+**********
 
 About
 =====

@@ -7,7 +7,7 @@ The HPC Cluster is comprised of two groups of computers:
 2. Compute Nodes - these are a pool of powerful computers which can run *jobs* (some kind of computation task) in parallel
 
 .. figure:: hpc_vnc.png
-    :figwidth: 100%
+    :figwidth: 50%
     :align: center
 
     Figure: DCCN HPC Architecture

@@ -1,4 +1,4 @@
-Exercise 1: Starting a Virtual Network Connection (VNC) Session
+How to Start a Virtual Network Connection (VNC) Session
 **************************
 
 If you have already accessed the HPC Cluster, this exercise should be skipped.

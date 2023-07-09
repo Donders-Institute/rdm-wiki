@@ -1,7 +1,7 @@
-Cyberduck
-**********
+.. _`Cyberduck`: http://cyberduck.io
 
-http://cyberduck.io
+`Cyberduck`_
+**********
 
 About
 =====
@@ -29,13 +29,3 @@ Benefits
 Exercises Using Cyberduck
 =========================
 
-.. _Exercise 4: https://rdm.dccn.nl/docs/6_initiation/6_2/6_2_4.html
-.. _Exercise 6: https://rdm.dccn.nl/docs/6_initiation/6_3/6_3_2.html
-.. _Exercise 7: https://rdm.dccn.nl/docs/6_initiation/6_4/6_4_1.html
-.. _Exercise 12: https://rdm.dccn.nl/docs/8_analysis/8_3/8_3_3.html
-
-
-* `Exercise 4`_: Download data from a DSC you have not been added to with Cyberduck
-* `Exercise 6`_: Download data from OpenNeuro Using Cyberduck
-* `Exercise 7`_: Uploading analysis files to the Project Folder from my local computer with Cyberduck
-* `Exercise 12`_: Moving graphs from my project's Data Sharing Collection to my local PC with Cyberduck

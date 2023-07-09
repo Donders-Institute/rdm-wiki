@@ -1,6 +1,11 @@
 Project Storage
 ********
 
+.. _`Portal`: https://portal.dccn.nl
+.. _`Project Storage`: https://intranet.donders.ru.nl/index.php?id=projectstorage
+.. _`quota`: https://intranet.donders.ru.nl/index.php?id=quota
+.. _`data access roles`: https://hpc.dccn.nl/docs/project_storage/access_management.html
+
 Purpose
 ============
 The Project Storage is intended to house research data which you are *actively* using at any given time during the research project. 
@@ -24,19 +29,10 @@ Projects are assigned numbers after the Project Proposal Form is completed and a
 
 Quota
 =======
-Based on the storage you request in the Project Proposal Form, you will be given a quota of storage which cannot be exceeded in your project's folder.
+Based on the storage you request in the Project Proposal Form, you will be given a `quota`_ of storage which cannot be exceeded in your project's folder.
 Each research project, once approved, will be provided with a quota on the DCCN central storage allowing researchers to store and process the research data related to the project. 
 
 Using the DCCN Portal
 ==========
-.. _Portal: https://portal.dccn.nl
-
 You can use the new `Portal`_ to manage your project. Here, you will be able to see your project period and funding source.
-Additionally, below you can see the experimenters, upcoming lab bookings, progress on data acquisition, the amount of storage used by your project, and the data access roles of people involved in the project.
-
-Further Reading
-================
-
-* https://intranet.donders.ru.nl/index.php?id=projectstorage
-* https://intranet.donders.ru.nl/index.php?id=quota
-* https://hpc.dccn.nl/docs/project_storage/access_management.html
+Additionally, below you can see the experimenters, upcoming lab bookings, progress on data acquisition, the amount of storage used by your project, and the `data access roles`_ of people involved in the project.

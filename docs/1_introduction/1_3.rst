@@ -35,4 +35,4 @@ Want to learn more? Check out this page on `Metadata guidlines at Radboud Univer
 
 Archiving Datasets to Public Repositories
 ================================
-When it is possible, you should make your data publicly available. For all Donderians, you will be archiving to http://radboud.data.donders.ru.nl
+When it is possible, you should make your data publicly available. For all Donderians, you will be archiving to http://data.ru.nl

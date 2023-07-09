@@ -1,7 +1,7 @@
-Stager
-******
+.. _`Stager`: https://stager.dccn.nl
 
-https://stager.dccn.nl
+`Stager`_
+******
 
 About
 =====
