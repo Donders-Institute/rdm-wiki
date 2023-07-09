@@ -4,7 +4,9 @@ The RDM wiki
 About the wiki
 ==============
 
-This wiki is developed for the RDM workshop at DCCN.
+At the DCCN, we strive to offer research infrastructure which is the best in the world in order to enable our researchers to continue to offer cutting edge contributions to the field of Cognitive Neuroscience. 
+This wiki serves the purpose of familiarizing new researchers with the recommended practices for navigating this research infrastructure effectively.
+It outlines best practices for researchers to follow as to best to uphold their ethical responsibilities to their participants and their fellow scientists as well as to maximize their efficiency and productivity.
 
 .. toctree::
    :maxdepth: 1
@@ -31,3 +33,6 @@ This wiki is developed for the RDM workshop at DCCN.
 
    Sort by Stage in the Research Life Cycle <docs/stage.rst>
    Sort by Tools <docs/tools.rst>
+
+See a mistake, or something you think can be improved? 
+Send us an email at datasupport@donders.ru.nl with your suggestions!
