@@ -1,4 +1,4 @@
-Donders Repository
+Radboud Data Repository
 ****************************
 
 **About**

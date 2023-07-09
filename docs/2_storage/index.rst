@@ -12,4 +12,4 @@ Knowing where data can and should be stored, as well as when it should be stored
    
    Local Storage <2_1.rst>
    Central Storage <2_2/index.rst>
-   The Donders Repository <2_3/index.rst>
+   The Radboud Data Repository <2_3/index.rst>
