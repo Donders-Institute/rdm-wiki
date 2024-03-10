@@ -6,10 +6,11 @@ the :bdg-primary:`facilities` which can be used to store and analyze data.
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Overview
 
    Data Transfer Tools <2_Tools.rst>
    Data Storage Facilities <3_Storage.rst>
    Trigon Access <4_Trigon.rst>
    HPC Cluster <5_HPC.rst>
+   BIDS Format <6_BIDS.rst>

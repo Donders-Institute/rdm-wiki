@@ -1,6 +1,16 @@
 Data Transfer Tools
 ******
 
+Defining Data Transfer Tools
+==========
+
+:bdg-dark:`Data Transfer Tools` are computer programs which support moving data from :bdg-info:`Storage Facility` to :bdg-info:`Storage Facility`. 
+
+You may be wondering, *Why can't I just use a removable thumb drive or just email them to myself?* 
+Using either of these approaches puts you at risk of losing or misplacing data, breaches data security, and introducing malware into our systems. 
+Besides, these tools are much more efficient when moving large amounts of data from place to place. 
+Therefore, these :bdg-dark:`Data Transfer Tools` are necessary for data security and are beneficial for security.
+
 Supported Tools
 ======
 
@@ -15,8 +25,17 @@ There is no need to memorize the specifics of each of these :bdg-dark:`tools` - 
 .. _Stager: https://stager.dccn.nl
 .. _Uploader: https://uploader.dccn.nl
 
-About Tools
+Tools at a Glance
 ========
+
+:bdg-dark:`Cyberduck` and :bdg-dark:`Repocli` are both generic tools which support the transfer of data to-and-from all of our :bdg-info:`Storage Facilities`. 
+:bdg-dark:`Cyberduck` is easier to use while :bdg-dark:`Repocli` offers more scriptability
+
+In contrast, :bdg-dark:`Stager` and :bdg-dark:`Uploader` are :bdg-danger:`DCCN` specific tools which serve very case-specific functions. 
+:bdg-dark:`Uploader` is used to move raw data into the :bdg-info:`Project Folder` and the :bdg-info:`Data Acquisition Collection` 
+(this is an :bdg-info:`RDR` collection that saves raw data, but more on this in a second!) 
+which automatically saves these data in a standardized, easy-to-use format (this is called BIDS format, more on this in a second as well).
+:bdg-dark:`Stager` moves data between the :bdg-info:`Project Folder` and the :bdg-info:`RDR`, enabling researchers to efficiently restore lost data (or use existing data) or archive data.
 
 .. table::
    :widths: auto
@@ -39,4 +58,7 @@ About Tools
    | *Key Feature*     | Ease-of-use     | Scriptable      | Efficient                | Data Organization              |
    +-------------------+-----------------+-----------------+--------------------------+--------------------------------+
 
-.. dropdown:: Take
+.. dropdown:: Take Home Messages
+
+    * :bdg-dark:`Data Transfer Tools` are necessary to ensure data security and to maximize efficiency
+    * Some :bdg-dark:`Data Transfer Tools` are better than others in certain situations
