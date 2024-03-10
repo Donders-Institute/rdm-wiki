@@ -20,7 +20,7 @@ We created this handbook to teach you everything you need to know about :bdg-suc
 The :bdg-danger:`DCCN` technical group has streamlined the process of :bdg-success:`RDM` so that you can focus your time and energy on your research! 
 However, in order to benefit from this streamlining, you have to learn about our :bdg-primary:`tools`, :bdg-primary:`workflows`, and :bdg-primary:`policies`.
 
-**This handbook contains tutorials which will teach you how to navigate the RDM infrastructure in the :bdg-success:`RDM` so that you can run your project efficiently and in compliance with our policies.**
+**This handbook contains tutorials which will teach you how to navigate the** :bdg-success:`RDM` **infrastructure in the** :bdg-danger:`DCCN` **so that you can run your project efficiently and in compliance with our policies.**
 
 Other Research Data Management Resources
 ===========
