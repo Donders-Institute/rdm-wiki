@@ -9,7 +9,7 @@ the :bdg-primary:`facilities` which can be used to store and analyze data.
    :maxdepth: 2
    :caption: Overview
 
-   Data Transfer Tools <docs/2_Background/2_Tools.rst>
-   Data Storage Facilities <docs/2_Background/3_Storage.rst>
-   Trigon Access <docs/2_Background/4_Trigon.rst>
-   HPC Cluster <docs/2_Background/5_HPC.rst>
+   Data Transfer Tools <2_Tools.rst>
+   Data Storage Facilities <3_Storage.rst>
+   Trigon Access <4_Trigon.rst>
+   HPC Cluster <5_HPC.rst>
