@@ -30,7 +30,14 @@ from datetime import date
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.mathjax'] #doesn't work
+extensions = ['sphinx.ext.mathjax',
+              'sphinx.ext.duration',
+              'sphinx.ext.doctest',
+              'sphinx.ext.autodoc',
+              'sphinx.ext.autosummary',
+              'sphinx.ext.intersphinx',
+              'sphinx_design'
+              ] 
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -45,9 +52,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'DCCN RDM wiki'
+project = u'DCCN RDM Handbook'
 copyright = str(date.today().year) + ', Donders Centre for Cognitive Neuroimaging'
-author = u'Steven Ligthert, Hurng-Chun Lee'
+author = u'Elijah Galvan'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

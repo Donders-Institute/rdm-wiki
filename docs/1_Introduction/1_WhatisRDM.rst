@@ -1,11 +1,9 @@
 Introduction to Research Data Management
 *************
 
-.. _open_in_new_tab: 
-DCCN level <https://intranet.donders.ru.nl/index.php?id=6467>_
+.. _DCCN level: https://intranet.donders.ru.nl/index.php?id=6467
 
-.. _open_in_new_tab: 
-University level <https://www.ru.nl/rdm/>_
+.. _University level: <https://www.ru.nl/rdm/>_
 
 What is Research Data Management?
 ========
@@ -24,10 +22,10 @@ However, in order to benefit from this streamlining, you have to learn about our
 Other Research Data Management Resources
 ===========
 
-This handbook is intended to be very practical, so we will not cover the more theoretical side of RDM. 
-Therefore we will link you to more resources which talk about these both at the DCCN level and the University level
+This handbook is intended to be very practical, so we will most ignore the theoretical side of RDM. 
+Therefore, throughout the handbook we will link you to more resources which talk about these both at the `DCCN level`_ and the `University level`_
 
-.. Note:: Take Home Messages
+.. card:: Take Home Messages
 
     * Research Data Management = managing access and locations of research data over the project timeline
     * This Handbook will teach you how to best to RDM at the DCCN
