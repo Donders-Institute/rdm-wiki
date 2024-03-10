@@ -17,18 +17,18 @@ Purpose of this Handbook
 ==========
 
 We created this handbook to teach you everything you need to know about :bdg-success:`RDM` within the :bdg-danger:`DCCN`. 
-The :bdg-danger:`DCCN` technical group has streamlined the process of RDM so that you can focus your time and energy on your research! 
-However, in order to benefit from this streamlining, you have to learn about our tools, workflows, and policies.
+The :bdg-danger:`DCCN` technical group has streamlined the process of :bdg-success:`RDM` so that you can focus your time and energy on your research! 
+However, in order to benefit from this streamlining, you have to learn about our :bdg-primary:`tools`, :bdg-primary:`workflows`, and :bdg-primary:`policies`.
 
-**This handbook contains tutorials which will teach you how to navigate the RDM infrastructure in the DCCN so that you can run your project efficiently and in compliance with our policies.**
+**This handbook contains tutorials which will teach you how to navigate the RDM infrastructure in the :bdg-success:`RDM` so that you can run your project efficiently and in compliance with our policies.**
 
 Other Research Data Management Resources
 ===========
 
-This handbook is intended to be very practical, so we will most ignore the theoretical side of RDM. 
+This handbook is intended to be very practical, so we will most ignore the theoretical side of :bdg-success:`RDM`. 
 Therefore, throughout the handbook we will link you to more resources which talk about these both at the `DCCN level`_ and the `University level`_
 
 .. dropdown:: Take Home Messages
 
-    * Research Data Management = managing access and locations of research data over the project timeline
-    * This Handbook will teach you how to best to RDM at the DCCN
+    * :bdg-success:`Research Data Management` = managing access and locations of research data over the project timeline
+    * This Handbook will teach you how to best to :bdg-success:`RDM` at the :bdg-danger:`DCCN`
