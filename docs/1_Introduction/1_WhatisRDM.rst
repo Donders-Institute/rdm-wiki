@@ -5,17 +5,20 @@ Introduction to Research Data Management
 
 .. _University level: <https://www.ru.nl/rdm/>_
 
-What is Research Data Management?
+Defining Research Data Management
 ========
 
-Simply put, Research Data Management (RDM) is the practice of managing your research data: where it is stored and who has access to which files, over the entire timeline of your project. 
+:bdg-success:`Research Data Management` (RDM) is the practice of managing your research data: 
+:bdg-primary-line:`where` it is stored, 
+:bdg-primary-line:`who` has access to :bdg-primary-line:`what` files, 
+and :bdg-primary-line:`when` in the timeline of your project. 
 
-Why the Handbook?
+Purpose of this Handbook
 ==========
 
-We created this handbook to teach you everything you need to know about RDM within the DCCN. 
-The DCCN's technical group has streamlined the process of RDM so that you can focus your time and energy on your research! 
-However, in order to benefit from this streamlining, you have to learn about our tools, workflows, and 
+We created this handbook to teach you everything you need to know about :bdg-success:`RDM` within the :bdg-danger:`DCCN`. 
+The :bdg-danger:`DCCN` technical group has streamlined the process of RDM so that you can focus your time and energy on your research! 
+However, in order to benefit from this streamlining, you have to learn about our tools, workflows, and policies.
 
 **This handbook contains tutorials which will teach you how to navigate the RDM infrastructure in the DCCN so that you can run your project efficiently and in compliance with our policies.**
 
