@@ -27,7 +27,7 @@ Other Research Data Management Resources
 ===========
 
 This handbook is intended to be very practical, so we will most ignore the theoretical side of :bdg-success:`RDM`. 
-Therefore, throughout the handbook we will link you to more resources which talk about these both at the `DCCN level`_ and the `University level`_
+Therefore, throughout the handbook we will link you to more resources which talk about these; both at the `DCCN level`_ and the `University level`_.
 
 .. dropdown:: Take Home Messages
 
