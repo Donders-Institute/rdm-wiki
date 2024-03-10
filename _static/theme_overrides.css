@@ -12,10 +12,10 @@
    }
 }
 
-/* remove content width limit */
+/* remove content width limit
 .wy-nav-content {
    max-width: None !important;
-}
+} */
 
 .kbd {
   -moz-border-radius:3px;
