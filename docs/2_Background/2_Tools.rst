@@ -7,9 +7,9 @@ Defining Data Transfer Tools
 :bdg-dark:`Data Transfer Tools` are computer programs which support moving data from :bdg-info:`Storage Facility` to :bdg-info:`Storage Facility`. 
 
 You may be wondering, *Why can't I just use a removable thumb drive or just email them to myself?* 
-Using either of these approaches puts you at risk of losing or misplacing data, breaches data security, and introducing malware into our systems. 
+Using either of these approaches increases the likelihood of losing or misplacing data, breaches data security, and risks introducing malware into our systems. 
 Besides, these tools are much more efficient when moving large amounts of data from place to place. 
-Therefore, these :bdg-dark:`Data Transfer Tools` are necessary for data security and are beneficial for security.
+Therefore, these :bdg-dark:`Data Transfer Tools` are necessary for data security and are beneficial for user efficiency.
 
 Supported Tools
 ======
@@ -33,7 +33,7 @@ Tools at a Glance
 
 In contrast, :bdg-dark:`Stager` and :bdg-dark:`Uploader` are :bdg-danger:`DCCN` specific tools which serve very case-specific functions. 
 :bdg-dark:`Uploader` is used to move raw data into the :bdg-info:`Project Folder` and the :bdg-info:`Data Acquisition Collection` 
-(this is an :bdg-info:`RDR` collection that saves raw data, but more on this in a second!) 
+(this is an :bdg-info:`RDR` collection that saves raw data, but more on this in a second) 
 which automatically saves these data in a standardized, easy-to-use format (this is called BIDS format, more on this in a second as well).
 :bdg-dark:`Stager` moves data between the :bdg-info:`Project Folder` and the :bdg-info:`RDR`, enabling researchers to efficiently restore lost data (or use existing data) or archive data.
 
@@ -45,8 +45,8 @@ which automatically saves these data in a standardized, easy-to-use format (this
    +===================+=================+=================+==========================+================================+
    | *User Interface*  | Graphical       | Comamnd-Line    |  Web                     | Web                            |
    +-------------------+-----------------+-----------------+--------------------------+--------------------------------+
-   | *Transfer Routes* | | local <=> RDR | | Local <=> RDR | | Project <=> RDR        | | Local => Project             |
-   |                   | | local <=> HPC | | HPC <=> RDR   |                          | | Local => RDR                 |
+   | *Transfer Routes* | | Local <=> RDR | | Local <=> RDR | | Project <=> RDR        | | Local => Project             |
+   |                   | | Local <=> HPC | | HPC <=> RDR   |                          | | Local => RDR                 |
    +-------------------+-----------------+-----------------+--------------------------+--------------------------------+
    | | *Access*        |                 |                 | | Trigon Network         | | Trigon Network               |
    | | *Restriction*   |                 |                 | | or eduVPN              | | or eduVPN                    |
