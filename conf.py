@@ -1,3 +1,6 @@
+from datetime import date
+
+
 project = u'DCCN RDM Handbook'
 copyright = str(date.today().year) + ', Donders Centre for Cognitive Neuroimaging'
 author = u'Elijah Galvan'
