@@ -1,6 +1,8 @@
 Data Transfer Tools
 ******
 
+Try again
+
 .. _Cyberduck: http://cyberduck.io
 .. _Repocli: https://github.com/Donders-Institute/dr-tools/tree/main/cmd/repocli
 .. _Stager: https://stager.dccn.nl
@@ -14,11 +16,11 @@ Data Transfer Tools
    +===================+=================+=================+==========================+================================+
    | *User Interface*  | Graphical       | Comamnd-Line    |  Web                     | Web                            |
    +-------------------+-----------------+-----------------+--------------------------+--------------------------------+
-   | *Transfer Routes* | | local <=> RDR | | Local <=> RDR |  Project Storage <=> RDR | Local => project storage       |
-   |                   | local <=> HPC   | | HPC <=> RDR   |                          | Local => RDR                   |
+   | *Transfer Routes* | | local ⟷ RDR  | | Local ⟷ RDR  |  Project Storage ⟷ RDR  | Local → Project Storage        |
+   |                   | local ⟷ HPC    | | HPC ⟷ RDR    |                          | Local → RDR                    |
    +-------------------+-----------------+-----------------+--------------------------+--------------------------------+
-   | | *Access*        |                 |                 | | DCCN Trigon network   | | DCCN Trigon network           |
-   | | *Restriction*   |                 |                 | | or eduVPN             | | or eduVPN                     |
+   | | *Access*        |                 |                 | | DCCN Trigon network    | | DCCN Trigon network          |
+   | | *Restriction*   |                 |                 | | or eduVPN              | | or eduVPN                    |
    +-------------------+-----------------+-----------------+--------------------------+--------------------------------+
    | *OS Support*      | | Windows       | | Windows       | | Windows                | | Windows                      |
    |                   | | MacOSX        | | MacOSX        | | MacOSX                 | | MacOSX                       |
