@@ -34,7 +34,7 @@ Tools at a Glance
 :bdg-dark:`Cyberduck` is easier to use while :bdg-dark:`Repocli` offers more scriptability
 
 In contrast, :bdg-dark:`Stager` and :bdg-dark:`Uploader` are :bdg-danger:`DCCN` specific tools which serve very case-specific functions. 
-:bdg-dark:`Uploader` is used to move raw data into the :bdg-info:`Project Folder` and the :bdg-info:`Data Acquisition Collection` 
+:bdg-dark:`Uploader` is used to simaltaneously move raw data into the :bdg-info:`Project Folder` and the :bdg-info:`Data Acquisition Collection` 
 (this is an :bdg-info:`RDR` collection that saves raw data, but more on this in a second) 
 which automatically saves these data in a standardized, easy-to-use format (this is called BIDS format, more on this in a second as well).
 :bdg-dark:`Stager` moves data between the :bdg-info:`Project Folder` and the :bdg-info:`RDR`, enabling researchers to efficiently restore lost data (or use existing data) or archive data.
