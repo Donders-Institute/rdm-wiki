@@ -6,7 +6,7 @@ the :bdg-primary:`facilities` which can be used to store and analyze data.
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Overview
 
    Data Transfer Tools <docs/2_Background/2_Tools.rst>
