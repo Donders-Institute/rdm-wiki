@@ -3,7 +3,7 @@ Introduction to Research Data Management
 
 .. _DCCN level: https://intranet.donders.ru.nl/index.php?id=6467
 
-.. _University level: <https://www.ru.nl/rdm/>_
+.. _University level: https://www.ru.nl/rdm/
 
 Defining Research Data Management
 ========
