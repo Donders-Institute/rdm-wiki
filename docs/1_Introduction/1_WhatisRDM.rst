@@ -25,7 +25,7 @@ Other Research Data Management Resources
 This handbook is intended to be very practical, so we will most ignore the theoretical side of RDM. 
 Therefore, throughout the handbook we will link you to more resources which talk about these both at the `DCCN level`_ and the `University level`_
 
-.. card:: Take Home Messages
+.. dropdown:: Take Home Messages
 
     * Research Data Management = managing access and locations of research data over the project timeline
     * This Handbook will teach you how to best to RDM at the DCCN
