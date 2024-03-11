@@ -4,7 +4,7 @@ Data Transfer Tools
 Defining Data Transfer Tools
 ==========
 
-:bdg-dark:`Data Transfer Tools` are computer programs which support moving data from :bdg-info:`Storage Facility` to :bdg-info:`Storage Facility`. 
+:bdg-dark:`Data Transfer Tools` are computer programs which support moving data from :bdg-primary:`Storage Facility` to :bdg-primary:`Storage Facility`. 
 
 .. Warning::
 
@@ -30,14 +30,14 @@ There is no need to memorize the specifics of each of these :bdg-dark:`tools` - 
 Tools at a Glance
 ========
 
-:bdg-dark:`Cyberduck` and :bdg-dark:`Repocli` are both generic tools which support the transfer of data to-and-from all of our :bdg-info:`Storage Facilities`. 
+:bdg-dark:`Cyberduck` and :bdg-dark:`Repocli` are both generic tools which support the transfer of data to-and-from all of our :bdg-primary:`Storage Facilities`. 
 :bdg-dark:`Cyberduck` is easier to use while :bdg-dark:`Repocli` offers more scriptability
 
 In contrast, :bdg-dark:`Stager` and :bdg-dark:`Uploader` are :bdg-danger:`DCCN` specific tools which serve very case-specific functions. 
-:bdg-dark:`Uploader` is used to simaltaneously move raw data into the :bdg-info:`Project Folder` and the :bdg-info:`Data Acquisition Collection` 
-(this is an :bdg-info:`RDR` collection that saves raw data, but more on this in a second) 
+:bdg-dark:`Uploader` is used to simaltaneously move raw data into the :bdg-primary:`Project Folder` and the :bdg-primary:`Data Acquisition Collection` 
+(this is an :bdg-primary:`RDR` collection that saves raw data, but more on this in a second) 
 which automatically saves these data in a standardized, easy-to-use format (this is called BIDS format, more on this in a second as well).
-:bdg-dark:`Stager` moves data between the :bdg-info:`Project Folder` and the :bdg-info:`RDR`, enabling researchers to efficiently restore lost data (or use existing data) or archive data.
+:bdg-dark:`Stager` moves data between the :bdg-primary:`Project Folder` and the :bdg-primary:`RDR`, enabling researchers to efficiently restore lost data (or use existing data) or archive data.
 
 .. table::
    :widths: auto

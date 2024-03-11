@@ -8,7 +8,6 @@ and some other relevant information.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Overview
 
    Data Transfer Tools <2_Tools.rst>
    Data Storage Facilities <3_Storage.rst>
