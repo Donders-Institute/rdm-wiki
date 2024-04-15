@@ -10,13 +10,13 @@ However, this is also possible to do remotely.
 How to Access Trigon Remotely via EduVPN
 =====
 In order to access Trigon remotely, you will need a login token which has been authenticated by the Technical Group of the :bdg-danger:`DCCN`. 
-Click `this link for instructions`_ on how to get your token authenticated and also how to use your token to gain access to Trigon.
+Click `this link for instructions`_ on what to install, how to get your token authenticated, and how to use your token to gain access to Trigon.
 
 Key DCCN Services Which Require Trigon Access
 ====
 
 * Interacting with :bdg-primary:`High Performance Storage` via all :bdg-dark:`Data Transfer Tools`
-* Opening the :bdg-danger:`DCCN` :bdg-warning:`portal`, allowing for change in :bdg-info:`Data Access Roles` and :bdg-warning:`Calendar Bookings`
+* Opening the :bdg-danger:`DCCN` :bdg-warning:`portal`, allowing for change in :bdg-info:`Data Access Roles` and making :bdg-warning:`Calendar Bookings`
 
 .. dropdown:: Take Home Messages
 
