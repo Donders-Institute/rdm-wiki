@@ -2,7 +2,8 @@ Data Storage Facilities
 ********
 
 The :bdg-danger:`DCCN` has many :bdg-primary:`data storage facilities` - each with their own advantages and disadvantages. 
-Knowing :bdg-primary-line:`where` data can and should be stored, as well as :bdg-warning-line:`when` it should be stored in certain locations is crucial in generating a plan of how you will manage data.
+Knowing :bdg-primary-line:`where` data can and should be stored, as well as :bdg-warning-line:`when` it should be stored in certain locations is 
+crucial for being an effective and efficient researcher.
 
 Local Storage
 =====
@@ -71,12 +72,12 @@ High Performance Storage
 .. dropdown:: Disdvantages 
 
     * Sometimes analysis packages/softwares cannot be user-downloaded
-    * Not suitable for :bdg-info:`long-term` :bdg-primary-line:`storage`
+    * Not suitable for :bdg-info:`long-term storage`
     * Can only be accessed by :bdg-info:`research team members` who are checked into the :bdg-danger:`DCCN`
 
 :bdg-primary:`High Performance Storage` is the workhorse of data analysis at the :bdg-danger:`DCCN`: 
-for the vast majority of use cases it is the ideal :bdg-primary-line:`place` to store data that you will analyze since it 
-offers ease-of-access to files and is set up to function with other :bdg-primary-line:`storage` infrastructure. 
+for the vast majority of use cases it is the ideal :bdg-primary:`place` to store data that you will analyze since it 
+offers ease-of-access to files and is set up to function with other :bdg-primary:`storage` infrastructure. 
 However, due to limited space you cannot leave data on :bdg-primary:`High Performance Storage`.
 
 Radboud Data Repository
@@ -107,7 +108,7 @@ The :bdg-primary:`Radboud Data Repository` is the :bdg-danger:`DCCN`'s vault whe
 Microsoft Teams
 ======
 .. dropdown:: About
-    
+
     :bdg-primary:`Microsoft Teams` is a new storage solution adopted by :bdg-danger:`Radboud University`. 
     :bdg-primary:`Microsoft Teams` is a collaboration platform which also has a :bdg-primary:`storage` feature that functions as cloud storage. 
     Unlike the other :bdg-primary:`storage locations`, it is not endorsed or supported by the :bdg-danger:`DCCN`. 
@@ -120,16 +121,14 @@ Microsoft Teams
 
 .. dropdown:: Disadvantages
 
-    * You may not be in compliance with privacy and security policies
+    * You may not be in compliance with :bdg-info:`privacy` and :bdg-info:`security` regulations
     * Files are less easily accessible than :bdg-primary:`local storage` or :bdg-primary:`High Performance Storage`
-    * RAM is still determined by what is available on :bdg-primary:`local storage` so running analyses is likely to take longer compared to 
-    :bdg-primary:`High Performance Storage`
+    * RAM is still determined by what is available on :bdg-primary:`local storage` so running analyses is likely to take longer compared to :bdg-primary:`High Performance Storage`
 
 :bdg-primary:`Microsoft Teams` is :bdg-danger:`Radboud University`'s data storage solution during data analysis. 
 It is less useful than `High Performance Storage`, but it has certain use cases. 
 
 .. dropdown:: Take Home Message
 
-    * Different :bdg-primary-line:`storage locations` have different pros and cons which :bdg-danger:`DCCN` :bdg-warning:`policies` are built around 
-    * :bdg-primary:`High Performance Storage` and the :bdg-primary:`Radboud Data Repository` are the main :bdg-primary-line:`storage locations` we will use but
-    :bdg-primary:`Local Storage` and :bdg-primary:`Microsoft Teams` have certain use cases.
+    * Different :bdg-primary:`storage locations` have different pros and cons which :bdg-danger:`DCCN` :bdg-warning:`policies` are built around 
+    * :bdg-primary:`High Performance Storage` and the :bdg-primary:`Radboud Data Repository` are the main :bdg-primary:`storage locations` we will use but :bdg-primary:`Local Storage` and :bdg-primary:`Microsoft Teams` have certain use cases.
