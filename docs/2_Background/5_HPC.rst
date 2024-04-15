@@ -28,7 +28,7 @@ These computers enable running many different processes in parallel, which massi
 They also offer much greater working memory or RAM in comparison to what is often found on the average PC. 
 
 The :bdg-primary:`HPC Cluster` is also set up to work with :bdg-primary:`High Performance Storage`.
-By accessing the :bdg-primary:`HPC Cluster`, you can run analysees as though using a virtual desktop: 
+By accessing the :bdg-primary:`HPC Cluster`, you can run analyses as though using a virtual desktop: 
 thus, you don't have to move or download files onto your local PC in order to use the data outside of the :bdg-danger:`DCCN`. 
 
 .. dropdown:: Take Home Messages
