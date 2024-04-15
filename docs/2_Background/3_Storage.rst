@@ -7,8 +7,9 @@ Knowing :bdg-primary-line:`where` data can and should be stored, as well as :bdg
 Local Storage
 =====
 
-:bdg-primary:`Local storage` includes the storage on any local devices such the :bdg-primary:`C:/` drive in your DCCN-issued PC or your personal laptop,
-as well as the :bdg-primary:`D:/` drive in lab computers.
+.. dropdown:: About
+    :bdg-primary:`Local storage` includes the storage on any local devices such the :bdg-primary:`C:/` drive in your DCCN-issued PC or your personal laptop,
+    as well as the :bdg-primary:`D:/` drive in lab computers.
 
 .. dropdown:: Advantages 
 
@@ -37,24 +38,25 @@ as well as the :bdg-primary:`D:/` drive in lab computers.
     * Constant involuntary risk of data loss
     * Potential for privacy breach
     * Downloading data is time-consuming
-    * Requires constant re-uploading to mitigate potential data loss
+    * Requires :bdg-warning:`constant re-uploading` to mitigate potential data loss
     * Less RAM
     * Less storage space 
-    * Files are not visible to any other research team members
+    * Files are not visible to any other :bdg-info:`research team members`
 
-Ultimately, :bdg-primary:`local storage` is risky because data is not backed up anywhere and inefficient for several reason. 
+Ultimately, :bdg-primary:`local storage` is risky because data is not backed up anywhere and inefficient for several reasons. 
 Nonetheless, it does have its use-cases though you always must be careful to prevent data loss and breaches in privacy.
 
 High Performance Storage
 ====
 
-:bdg-primary:`High Performance Storage` includes several different drives: most notably
-the :bdg-primary:`Home` drive where your personal files may be kept, 
-the :bdg-primary:`Groupshare` drive where your lab group's shared files may be kept, 
-and the :bdg-primary:`Project` drive where your project files (including research data) is kept. 
-:bdg-primary:`High Performance Storage` consists of drives such as these, which are mounted on Network PC's in Trigon such as those in the Instruction and 
-Trainee rooms as well as all Lab PC's. 
-:bdg-primary:`High Performance Storage` is also compatible with the HPC cluster.
+.. dropdown:: About
+    :bdg-primary:`High Performance Storage` includes several different drives: most notably
+    the :bdg-primary:`Home` drive where your personal files may be kept, 
+    the :bdg-primary:`Groupshare` drive where your lab group's shared files may be kept, 
+    and the :bdg-primary:`Project` drive where your project files (including research data) is kept. 
+    :bdg-primary:`High Performance Storage` consists of drives such as these, which are mounted on Network PC's in Trigon such as those in the Instruction and 
+    Trainee rooms as well as all Lab PC's. 
+    :bdg-primary:`High Performance Storage` is also compatible with the HPC cluster.
 
 .. dropdown:: Advantages 
 
@@ -67,8 +69,8 @@ Trainee rooms as well as all Lab PC's.
 .. dropdown:: Disdvantages 
 
     * Sometimes analysis packages/softwares cannot be user-downloaded
-    * Not suitable for long-term storage
-    * Can only be accessed by research team members who are checked into the :bdg-danger:`DCCN`
+    * Not suitable for :bdg-info:`long-term` :bdg-primary-line:`storage`
+    * Can only be accessed by :bdg-info:`research team members` who are checked into the :bdg-danger:`DCCN`
 
 :bdg-primary:`High Performance Storage` is the workhorse of data analysis at the :bdg-danger:`DCCN`: 
 for the vast majority of use cases it is the ideal :bdg-primary-line:`place` to store data that you will analyze since it 
@@ -78,18 +80,19 @@ However, due to limited space you cannot leave data on :bdg-primary:`High Perfor
 Radboud Data Repository
 =====
 
-The :bdg-primary:`Radboud Data Repository` is where data is backed up. 
-It includes three types of data collections which serve different purposes:
+.. dropdown:: About
+    The :bdg-primary:`Radboud Data Repository` is where data is backed up. 
+    It includes three types of data collections which serve different purposes:
 
-* :bdg-primary:`Data Acquisition Collections` for raw data
-* :bdg-primary:`Research Documentation Collections` for scripts and logs outlining your intentions with your analyses
-* :bdg-primary:`Data Sharing Collections` for all data and analysis scripts used in creating the results reported in your manuscript
+    * :bdg-primary:`Data Acquisition Collections` for raw data
+    * :bdg-primary:`Research Documentation Collections` for scripts and logs outlining your intentions with your analyses
+    * :bdg-primary:`Data Sharing Collections` for all data and analysis scripts used in creating the results reported in your manuscript
 
 .. dropdown:: Advantages
 
     * Can store a lot of data
     * Secure 
-    * Complies with all funder requirements and privacy laws (compared to non-approved storage solutions)
+    * Complies with all :bdg-info:`funder requirements` and :bdg-info:`privacy laws` (compared to non-approved storage solutions)
 
 .. dropdown:: Disadvantages
 
@@ -100,16 +103,16 @@ The :bdg-primary:`Radboud Data Repository` is the :bdg-danger:`DCCN`'s vault whe
 
 Microsoft Teams
 ======
-
-:bdg-primary:`Microsoft Teams` is a new storage solution adopted by :bdg-danger:`Radboud University`. 
-:bdg-primary:`Microsoft Teams` is a collaboration platform which also has a :bdg-primary:`storage` feature that functions as cloud storage. 
-Unlike the other :bdg-primary:`storage locations`, it is not endorsed or supported by the :bdg-danger:`DCCN`. 
+.. dropdown:: About
+    :bdg-primary:`Microsoft Teams` is a new storage solution adopted by :bdg-danger:`Radboud University`. 
+    :bdg-primary:`Microsoft Teams` is a collaboration platform which also has a :bdg-primary:`storage` feature that functions as cloud storage. 
+    Unlike the other :bdg-primary:`storage locations`, it is not endorsed or supported by the :bdg-danger:`DCCN`. 
 
 .. dropdown:: Advantages
 
     * Offers much more storage than is available with :bdg-primary:`High Performance Storage`
     * You can read and write files on :bdg-primary:`teams` from :bdg-primary:`local storage`
-    * External collaborators can read and write files
+    * :bdg-info:`External collaborators can read and write files`
 
 .. dropdown:: Disadvantages
 
