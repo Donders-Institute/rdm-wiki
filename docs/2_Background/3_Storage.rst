@@ -8,6 +8,7 @@ Local Storage
 =====
 
 .. dropdown:: About
+
     :bdg-primary:`Local storage` includes the storage on any local devices such the :bdg-primary:`C:/` drive in your DCCN-issued PC or your personal laptop,
     as well as the :bdg-primary:`D:/` drive in lab computers.
 
@@ -50,6 +51,7 @@ High Performance Storage
 ====
 
 .. dropdown:: About
+
     :bdg-primary:`High Performance Storage` includes several different drives: most notably
     the :bdg-primary:`Home` drive where your personal files may be kept, 
     the :bdg-primary:`Groupshare` drive where your lab group's shared files may be kept, 
@@ -81,6 +83,7 @@ Radboud Data Repository
 =====
 
 .. dropdown:: About
+
     The :bdg-primary:`Radboud Data Repository` is where data is backed up. 
     It includes three types of data collections which serve different purposes:
 
@@ -104,6 +107,7 @@ The :bdg-primary:`Radboud Data Repository` is the :bdg-danger:`DCCN`'s vault whe
 Microsoft Teams
 ======
 .. dropdown:: About
+    
     :bdg-primary:`Microsoft Teams` is a new storage solution adopted by :bdg-danger:`Radboud University`. 
     :bdg-primary:`Microsoft Teams` is a collaboration platform which also has a :bdg-primary:`storage` feature that functions as cloud storage. 
     Unlike the other :bdg-primary:`storage locations`, it is not endorsed or supported by the :bdg-danger:`DCCN`. 
