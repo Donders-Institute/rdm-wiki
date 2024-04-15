@@ -128,7 +128,7 @@ Microsoft Teams
 :bdg-primary:`Microsoft Teams` is :bdg-danger:`Radboud University`'s data storage solution during data analysis. 
 It is less useful than :bdg-primary:`High Performance Storage`, but it has certain use cases. 
 
-.. dropdown:: Take Home Message
+.. dropdown:: Take Home Messages
 
     * Different :bdg-primary:`storage locations` have different pros and cons which :bdg-danger:`DCCN` :bdg-warning:`policies` are built around 
     * :bdg-primary:`High Performance Storage` and the :bdg-primary:`Radboud Data Repository` are the main :bdg-primary:`storage locations` we will use but :bdg-primary:`Local Storage` and :bdg-primary:`Microsoft Teams` have certain use cases.
