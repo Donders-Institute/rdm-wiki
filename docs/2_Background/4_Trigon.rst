@@ -16,6 +16,7 @@ Key DCCN Services Which Require Trigon Access
 ====
 
 * Interacting with :bdg-primary:`High Performance Storage` via all :bdg-dark:`Data Transfer Tools`
+* Using the :bdg-primary:`HPC Cluster`
 * Opening the :bdg-danger:`DCCN` :bdg-warning:`portal`, allowing for change in :bdg-info:`Data Access Roles` and making :bdg-warning:`Calendar Bookings`
 
 .. dropdown:: Take Home Messages

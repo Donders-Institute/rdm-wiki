@@ -4,7 +4,7 @@ The RDM Handbook
 Our Mission
 ==============
 
-To educate DCCN trainees and employees on the resources, workflows, and standard operating procedures for Research Data Management (RDM) in the DCCN. 
+To educate DCCN trainees and new employees on the resources, workflows, and standard operating procedures for Research Data Management (RDM) in the DCCN. 
 
 .. toctree::
    :maxdepth: 2
