@@ -45,9 +45,10 @@ Ultimately, :bdg-primary:`local storage` is risky because data is not backed up 
 Nonetheless, it does have its use-cases though you always must be careful to prevent data loss and breaches in privacy.
 
 :bdg-primary:`High Performance Storage`
+====
 
 :bdg-primary:`High Performance Storage` includes several different drives: most notably
-the :bdg-primary:`Home`drive where your personal files may be kept, 
+the :bdg-primary:`Home` drive where your personal files may be kept, 
 the :bdg-primary:`Groupshare` drive where your lab group's shared files may be kept, 
 and the :bdg-primary:`Project` drive where your project files (including research data) is kept. 
 :bdg-primary:`High Performance Storage` consists of drives such as these, which are mounted on Network PC's in Trigon such as those in the Instruction and 
@@ -67,3 +68,7 @@ Trainee rooms as well as all Lab PC's.
     * Sometimes analysis packages/softwares cannot be user-downloaded
     * Not suitable for long-term storage
 
+:bdg-primary:`High Performance Storage` is the workhorse of data analysis at the :bdg-danger:`DCCN`: 
+for the vast majority of use cases it is the ideal :bdg-primary-line:`place` to store data that you will analyze since it 
+offers ease-of-access to files and is set up to function with other :bdg-primary-line:`storage` infrastructure. 
+However, due to limited space you cannot leave data on :bdg-primary:`High Performance Storage`.
