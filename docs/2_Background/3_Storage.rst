@@ -126,7 +126,7 @@ Microsoft Teams
     * RAM is still determined by what is available on :bdg-primary:`local storage` so running analyses is likely to take longer compared to :bdg-primary:`High Performance Storage`
 
 :bdg-primary:`Microsoft Teams` is :bdg-danger:`Radboud University`'s data storage solution during data analysis. 
-It is less useful than `High Performance Storage`, but it has certain use cases. 
+It is less useful than :bdg-primary:`High Performance Storage`, but it has certain use cases. 
 
 .. dropdown:: Take Home Message
 
