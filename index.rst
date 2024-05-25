@@ -17,10 +17,10 @@ To educate DCCN trainees and new employees on the resources, workflows, and stan
    :caption: The Research Life Cycle
    :maxdepth: 2
 
-   Planning Research <docs/3_Planning/1_AboutStage.rst>
-   Collcting Data <docs/4_Collecting/1_AboutStage.rst>
-   Processing Data <docs/5_PrIocessing/1_AboutStage.rst>
-   Archiving Data <docs/6_Archiving/1_AboutStage.rst>
+   Planning Research <docs/3_Planning/1_About.rst>
+   Collcting Data <docs/4_Collecting/1_About.rst>
+   Processing Data <docs/5_PrIocessing/1_About.rst>
+   Archiving Data <docs/6_Archiving/1_About.rst>
 
 See a mistake, or something you think can be improved? 
 Send us an email at datasupport@donders.ru.nl with your suggestions!
