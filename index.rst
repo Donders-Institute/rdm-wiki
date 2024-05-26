@@ -7,7 +7,7 @@ Our Mission
 To educate DCCN trainees and new employees on the resources, workflows, and standard operating procedures for Research Data Management (RDM) in the DCCN. 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Overview
 
    Introduction to Research Data Management <docs/1_Introduction/1_WhatisRDM.rst>
@@ -15,7 +15,7 @@ To educate DCCN trainees and new employees on the resources, workflows, and stan
 
 .. toctree::
    :caption: The Research Life Cycle
-   :maxdepth: 2
+   :maxdepth: 1
 
    Planning Research <docs/3_Planning/1_About.rst>
    Collcting Data <docs/4_Collecting/1_About.rst>
