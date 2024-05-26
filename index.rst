@@ -18,8 +18,8 @@ To educate DCCN trainees and new employees on the resources, workflows, and stan
    :maxdepth: 1
 
    Planning Research <docs/3_Planning/1_About.rst>
-   Collcting Data <docs/4_Acquisition/1_About.rst>
-   Processing Data <docs/5_PrIocessing/1_About.rst>
+   Collcting Data <docs/4_Collecting/1_About.rst>
+   Processing Data <docs/5_Processing/1_About.rst>
    Archiving Data <docs/6_Archiving/1_About.rst>
 
 See a mistake, or something you think can be improved? 
