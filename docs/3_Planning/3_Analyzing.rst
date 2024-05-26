@@ -1,11 +1,11 @@
-Using Existing Datasets
+Analyzing Data
 ********
 
 When dealing with any data (real or simulated) during the :bdg-warning:`Planning Research` stage, you will most often want to store it in your :bdg-primary:`Home Drive`. 
 This is because, since the :bdg-primary:`Home Drive` is mounted on :bdg-primary:`High Performance Storage`, you will be able to work with the :bdg-primary:`HPC Cluster` which can speed up your analysis time. 
 Otherwise, you would use the :bdg-primary:`local storage` on your PC. 
 
-Let's see how we would download data.
+Let's see how we would download existing data.
 
 Private Collection with Repocli
 ==========

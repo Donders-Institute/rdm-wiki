@@ -9,8 +9,8 @@ In this section, we'll walk through the majority of :bdg-success:`RDM` issues th
    :maxdepth: 1
 
    Purposes of Research Data Management <2_Purposes.rst>
-   Using Existing Data <3_ExistingData.rst>
-   Project Proposal Procedure <4_ProjectProposal.rst>
-   Setting Up Your Study on Castor <5_Castor.rst>
-   Moving Stimulus Scripts to Lab Computers <6_TransferringStimuli.rst>
-   Piloting <7_Piloting.rst>
+   Analyzing Data <3_Analyzing.rst>
+   Moving Stimulus Scripts to Lab Computers <4_TransferringStimuli.rst>
+   Pilot Studies <5_Piloting.rst>
+   Project Proposal Procedure <6_ProjectProposal.rst>
+   Setting Up Your Study on Castor <7_Castor.rst>
