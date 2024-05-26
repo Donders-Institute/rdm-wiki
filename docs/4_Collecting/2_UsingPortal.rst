@@ -1,7 +1,7 @@
 Using the DCCN Portal
 **********
 
-The :bdg-info:`DCCN Portal` is where you manage all of your projects and book laboratories. 
+The :bdg-warning:`DCCN Portal` is where you manage all of your projects and book laboratories. 
 In order to log into https://portal.dccn.nl/, you will need to establish a VPN connection Trigon. 
 
 Managing Your Project
