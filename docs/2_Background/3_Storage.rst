@@ -69,7 +69,7 @@ High Performance Storage
     * Set up to work with parallelization, making analysis many times faster
     * Much more working memory than :bdg-primary:`local storage`
 
-.. dropdown:: Disdvantages 
+.. dropdown:: Disadvantages 
 
     * Sometimes analysis packages/softwares cannot be user-downloaded
     * Not suitable for :bdg-info:`long-term storage`
