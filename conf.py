@@ -1,5 +1,5 @@
 from datetime import date
-
+import os
 
 project = u'DCCN RDM Handbook'
 copyright = str(date.today().year) + ', Donders Centre for Cognitive Neuroimaging'
