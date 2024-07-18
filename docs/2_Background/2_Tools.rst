@@ -13,11 +13,13 @@ Defining Data Transfer Tools
       Besides, these tools are much more efficient when moving large amounts of data from place to place. 
       Therefore, these :bdg-dark:`Data Transfer Tools` are necessary for data security and are beneficial for user efficiency.
 
+      Using alternative methods to transfer data is only possible when there are no other alternatives available and should only be done in consultation with the DCCN support staff.
+
 Supported Tools
 ======
 
-At the :bdg-danger:`DCCN`, we support four :bdg-dark:`Data Transfer Tools`. 
-Each of these four :bdg-dark:`tools` have their advantages and disadvantages: :bdg-danger:`DCCN` :bdg-info:`policies` are shaped around these to maximize ease-of-use and efficiency.
+At the :bdg-danger:`DCCN`, we primarily support four :bdg-dark:`Data Transfer Tools`. 
+Each of these four :bdg-dark:`tools` have their advantages and disadvantages: :bdg-danger:`DCCN` :bdg-warning:`procedures` are shaped around these to maximize ease-of-use and efficiency.
 
 There is no need to memorize the specifics of each of these :bdg-dark:`tools` - just know that there are multiple tools which have different forms and different function!
 
@@ -51,7 +53,7 @@ which automatically saves these data in a standardized, easy-to-use format (this
    |                   | | Local <=> HPC | | HPC <=> RDR   |                          | | Local => RDR                 |
    +-------------------+-----------------+-----------------+--------------------------+--------------------------------+
    | | *Access*        |                 |                 | | Trigon Network         | | Trigon Network               |
-   | | *Restriction*   |                 |                 | | or eduVPN              | | or eduVPN                    |
+   | | *Restriction*   |                 |                 | | (wird or via eduVPN)   | | (wird or via eduVPN)         |
    +-------------------+-----------------+-----------------+--------------------------+--------------------------------+
    | *OS Support*      | | Windows       | | Windows       | | Windows                | | Windows                      |
    |                   | | MacOSX        | | MacOSX        | | MacOSX                 | | MacOSX                       |
@@ -59,6 +61,11 @@ which automatically saves these data in a standardized, easy-to-use format (this
    +-------------------+-----------------+-----------------+--------------------------+--------------------------------+
    | *Key Feature*     | Ease-of-use     | Scriptable      | Efficient                | Data Organization              |
    +-------------------+-----------------+-----------------+--------------------------+--------------------------------+
+
+.. Note::
+
+      Other :bdg-dark:`tools` are also supported by the :bdg-danger:`DCCN` such as :bdg-dark:`FileZilla`, though this has been phased out to some degree in favor of :bdg-dark:`Cyberduck`. 
+      There are also :bdg-dark:`tools` which are supported by the :bdg-dark:`RU` such as :bdg-dark:`Teams` and :bdg-dark:`SURFfilesender`, though the :bdg-danger:`DCCN` does not utilize these so they are not discussed in depth here.
 
 .. dropdown:: Take Home Messages
 

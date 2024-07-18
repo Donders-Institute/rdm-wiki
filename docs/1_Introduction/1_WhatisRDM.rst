@@ -9,8 +9,9 @@ Defining Research Data Management
 ========
 
 :bdg-success:`Research Data Management` (RDM) is the practice of managing your research data: 
-:bdg-primary-line:`where` it is stored, 
-:bdg-info-line:`who` has access to :bdg-info-line:`what` files, 
+:bdg-primary-line:`where` :bdg-primary-line:`what` data is stored,
+for :bdg-primary-line:`how long`, 
+:bdg-info-line:`who` has access to :bdg-info-line:`which` files, 
 :bdg-dark-line:`how` data is moved, 
 and :bdg-warning-line:`when` in the timeline of your project. 
 
@@ -18,7 +19,7 @@ Purpose of this Handbook
 ==========
 
 We created this handbook to teach you everything you need to know about :bdg-success:`RDM` within the :bdg-danger:`DCCN`. 
-The :bdg-danger:`DCCN` technical group has streamlined the process of :bdg-success:`RDM` so that you can focus your time and energy on your research! 
+:bdg-danger:`DCCN` support staff continuously works on streamlining the :bdg-success:`RDM` procedures so that you can focus your time and energy on your research! 
 However, in order to benefit from this streamlining, you have to learn about our :bdg-primary:`facilities`, :bdg-info:`policies` :bdg-dark:`tools`, :bdg-warning:`Workflows`, and :bdg-warning:`Standard Operating Procedures`.
 
 **This handbook contains tutorials which will teach you how to navigate the** :bdg-success:`RDM` **infrastructure in the** :bdg-danger:`DCCN` **so that you can run your project efficiently and in compliance with our policies.**

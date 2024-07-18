@@ -2,6 +2,7 @@ Data Storage Facilities
 ********
 
 The :bdg-danger:`DCCN` has many :bdg-primary:`data storage facilities` - each with their own advantages and disadvantages. 
+It also relies on the :bdg-primary:`Radboud Data Repository`, which is used by the entire :bdg-danger:`RU`.
 Knowing :bdg-primary-line:`where` data can and should be stored, as well as :bdg-warning-line:`when` it should be stored in certain locations is 
 crucial for being an effective and efficient researcher.
 
@@ -10,14 +11,14 @@ Local Storage
 
 .. dropdown:: About
 
-    :bdg-primary:`Local storage` includes the storage on any local devices such the :bdg-primary:`C:/` drive in your DCCN-issued PC or your personal laptop,
+    :bdg-primary:`Local storage` includes the storage on any local devices such the :bdg-primary:`C:/` drive in your DCCN-issued PC,
     as well as the :bdg-primary:`D:/` drive in lab computers.
 
 .. dropdown:: Advantages 
 
     Using :bdg-primary:`local storage` can be helpful in multiple :bdg-warning:`stages of the research cycle`. 
     One common use case is if you have a software package that cannot be downloaded on :bdg-primary:`High Performance Storage` - 
-    in this case it is best to work with data on the :bdg-primary:`local storage` of your personal PC or on the PC issued to you by the Technical Group. 
+    in this case it is best to work with data on the :bdg-primary:`local storage` of the PC issued to you by the Technical Group. 
     Similarly, if you are collecting data in the lab and you are writing data while the experiment is running, you may wish to write the data to the 
     :bdg-primary:`local storage` of the lab computer. 
     Thus, some advantages are:
@@ -28,7 +29,7 @@ Local Storage
 
 .. dropdown:: Disadvantages
 
-    When conducting analyses on your personal PC or the PC issued to you by the Technical Group, you will need to download your research data onto 
+    When conducting analyses on the PC issued to you by the Technical Group, you will need to download your research data onto 
     the :bdg-primary:`local storage` of your device. 
     In such cases, you **MUST** already have anonymized data in case of a data leak from your :bdg-primary:`local storage`. 
     Also, downloading all of the research data may take a long time depending on the size of the data set you are analyzing. 
@@ -68,11 +69,12 @@ High Performance Storage
     * Easy to access and work with data
     * Set up to work with parallelization, making analysis many times faster
     * Much more working memory than :bdg-primary:`local storage`
+    * Another layer of protection against data loss
 
 .. dropdown:: Disadvantages 
 
-    * Sometimes analysis packages/softwares cannot be user-downloaded
-    * Not suitable for :bdg-info:`long-term storage`
+    * Sometimes analysis packages/softwares cannot be user-downloaded (may require time for the TG to make these software available)
+    * Storage is limited to the duration of the research project
     * Can only be accessed by :bdg-info:`research team members` who are checked into the :bdg-danger:`DCCN`
 
 :bdg-primary:`High Performance Storage` is the workhorse of data analysis at the :bdg-danger:`DCCN`: 
@@ -85,48 +87,30 @@ Radboud Data Repository
 
 .. dropdown:: About
 
-    The :bdg-primary:`Radboud Data Repository` is where data is backed up. 
+    The :bdg-primary:`Radboud Data Repository` is where data is backed up and ultimately :bdg-warning:`Archived`/ :bdg-warning:`Published`. 
     It includes three types of data collections which serve different purposes:
 
     * :bdg-primary:`Data Acquisition Collections` for raw data
     * :bdg-primary:`Research Documentation Collections` for scripts and logs outlining your intentions with your analyses
     * :bdg-primary:`Data Sharing Collections` for all data and analysis scripts used in creating the results reported in your manuscript
 
+    The endpoint of :bdg-primary:`DAC` and :bdg-primary:`RDC` is :bdg-warning:`archiving`, which is intended only for internal use (i.e. amongst members of the project).
+    The endopoint of a :bdg-primary:`DSC` is `publishing.
+`
 .. dropdown:: Advantages
 
-    * Can store a lot of data
+    * (Basically) unlimited storage
     * Secure 
-    * Complies with all :bdg-info:`funder requirements` and :bdg-info:`privacy laws` (compared to non-approved storage solutions)
+    * Facilitates compliance with Findable and Accessible principles of :bdg-info:`FAIR`, thereby meeting :bdg-info:`funder requirements`, many :bdg-info:`journal requirements`, and :bdg-info:`University guidelines`
+    * Data for publication is reviewed for compliance with :bdg-info:`FAIR principles` and privacy laws by a data steward
 
 .. dropdown:: Disadvantages
 
     * Cannot read/write files directly
-    * Sometimes there are technical difficulties or services are down
+    * Sometimes services are down for routine maintanence
+    * Time investment needed for familiarizing with the platform, and uploading, archiving and publishing data for a project
 
 The :bdg-primary:`Radboud Data Repository` is the :bdg-danger:`DCCN`'s vault where :bdg-warning:`data that is no longer being used is stored`. 
-
-Microsoft Teams
-======
-.. dropdown:: About
-
-    :bdg-primary:`Microsoft Teams` is a new storage solution adopted by :bdg-danger:`Radboud University`. 
-    :bdg-primary:`Microsoft Teams` is a collaboration platform which also has a :bdg-primary:`storage` feature that functions as cloud storage. 
-    Unlike the other :bdg-primary:`storage locations`, it is not endorsed or supported by the :bdg-danger:`DCCN`. 
-
-.. dropdown:: Advantages
-
-    * Offers much more storage than is available with :bdg-primary:`High Performance Storage`
-    * You can read and write files on :bdg-primary:`teams` from :bdg-primary:`local storage`
-    * :bdg-info:`External collaborators can read and write files`
-
-.. dropdown:: Disadvantages
-
-    * You may not be in compliance with :bdg-info:`privacy` and :bdg-info:`security` regulations
-    * Files are less easily accessible than :bdg-primary:`local storage` or :bdg-primary:`High Performance Storage`
-    * RAM is still determined by what is available on :bdg-primary:`local storage` so running analyses is likely to take longer compared to :bdg-primary:`High Performance Storage`
-
-:bdg-primary:`Microsoft Teams` is :bdg-danger:`Radboud University`'s data storage solution during data analysis. 
-It is less useful than :bdg-primary:`High Performance Storage`, but it has certain use cases. 
 
 .. dropdown:: Take Home Messages
 
