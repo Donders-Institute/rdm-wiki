@@ -14,7 +14,9 @@ Practice Using Uploader
 
 1. Get Experimental Data
 
-During your actual experiment, you will obviously do this by running your participant but if you want to practice, open the following link to `download a zip file`_ which contains a file which will make up some data for you to practice with. 
+During your actual experiment, you will obviously do this by running your participant but if you want to practice, open the following link and push ``Control + Shift + S`` to `download a zip file`_.
+In this zip file, you find a file which will make up some data for you to practice with. 
+Open your Downloads folder and unzip the file you've just downloaded.
 
 * Open MatLab
 * Go to the location where you unzipped ``RDM_Workshop Materials`` on your local PC

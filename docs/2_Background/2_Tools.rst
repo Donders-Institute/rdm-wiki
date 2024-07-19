@@ -53,7 +53,7 @@ which automatically saves these data in a standardized, easy-to-use format (this
    |                   | | Local <=> HPC | | HPC <=> RDR   |                          | | Local => RDR                 |
    +-------------------+-----------------+-----------------+--------------------------+--------------------------------+
    | | *Access*        |                 |                 | | Trigon Network         | | Trigon Network               |
-   | | *Restriction*   |                 |                 | | (wird or via eduVPN)   | | (wird or via eduVPN)         |
+   | | *Restriction*   |                 |                 | | (wired or via eduVPN)  | | (wired or via eduVPN)        |
    +-------------------+-----------------+-----------------+--------------------------+--------------------------------+
    | *OS Support*      | | Windows       | | Windows       | | Windows                | | Windows                      |
    |                   | | MacOSX        | | MacOSX        | | MacOSX                 | | MacOSX                       |
