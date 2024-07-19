@@ -11,16 +11,17 @@ Defining Research Data Management
 :bdg-success:`Research Data Management` (RDM) is the practice of managing your research data: 
 :bdg-primary-line:`where` :bdg-primary-line:`what` data is stored,
 for :bdg-primary-line:`how long`, 
-:bdg-info-line:`who` has access to :bdg-info-line:`which` files, 
+:bdg-info-line:`who` has access to :bdg-info-line:`what` files, 
 :bdg-dark-line:`how` data is moved, 
-and :bdg-warning-line:`when` in the timeline of your project. 
+:bdg-warning-line:`which` rules apply,
+and :bdg-info-line:`when` in the timeline of your project. 
 
 Purpose of this Handbook
 ==========
 
 We created this handbook to teach you everything you need to know about :bdg-success:`RDM` within the :bdg-danger:`DCCN`. 
 :bdg-danger:`DCCN` support staff continuously works on streamlining the :bdg-success:`RDM` procedures so that you can focus your time and energy on your research! 
-However, in order to benefit from this streamlining, you have to learn about our :bdg-primary:`facilities`, :bdg-info:`policies` :bdg-dark:`tools`, :bdg-warning:`Workflows`, and :bdg-warning:`Standard Operating Procedures`.
+However, in order to benefit from this streamlining, you have to learn about our :bdg-primary:`facilities`, :bdg-info:`policies`, :bdg-dark:`tools`, :bdg-warning:`Workflows`, and :bdg-warning:`Standard Operating Procedures`.
 
 **This handbook contains tutorials which will teach you how to navigate the** :bdg-success:`RDM` **infrastructure in the** :bdg-danger:`DCCN` **so that you can run your project efficiently and in compliance with our policies.**
 
@@ -32,5 +33,5 @@ Therefore, throughout the handbook we will link you to more resources which talk
 
 .. dropdown:: Take Home Messages
 
-    * :bdg-success:`RDM` = managing :bdg-info:`access` and :bdg-primary:`locations` of research data over the :bdg-warning:`project timeline`
+    * :bdg-success:`RDM` = managing :bdg-info:`access` and :bdg-primary:`locations` of research data over the :bdg-info:`project timeline`
     * This Handbook will teach you how to best do :bdg-success:`RDM` at the :bdg-danger:`DCCN`

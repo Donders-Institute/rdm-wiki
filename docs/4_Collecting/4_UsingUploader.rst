@@ -10,7 +10,7 @@ In order to demonstrate how to use :bdg-dark:`Uploader`, let's do an example tha
 Practice Using Uploader
 ==========
 
-.. _download a zip file: 
+.. _download a zip file: https://github.com/Donders-Institute/rdm-wiki/blob/main/RDM_Workshop_Materials.zip
 
 1. Get Experimental Data
 

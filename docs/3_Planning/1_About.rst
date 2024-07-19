@@ -1,9 +1,9 @@
 Planning Research
 ============
 
-:bdg-warning:`Planning Research` is, predictably, the very first stage in the Research Life Cycle. 
-It includes everything prior to the moment you begin :bdg-warning:`Data Acquisition`: from the earliest stage in conceptualization to the final pilot participant. 
-In this section, we'll walk through the majority of :bdg-success:`RDM` issues that you might encounter during the :bdg-warning:`Planning Research` and how you should handle them when conducting research in the :bdg-danger:`DCCN`.
+:bdg-info:`Planning Research` is, predictably, the very first stage in the Research Life Cycle. 
+It includes everything prior to the moment you begin :bdg-info:`Collecting Data`: from the earliest stage in conceptualization to the final pilot participant. 
+In this section, we'll walk through the majority of :bdg-success:`RDM` issues that you might encounter during the :bdg-info:`Planning Research` and how you should handle them when conducting research in the :bdg-danger:`DCCN`.
 
 .. toctree::
    :maxdepth: 1

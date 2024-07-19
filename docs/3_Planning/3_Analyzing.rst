@@ -1,17 +1,20 @@
 Analyzing Data
 ********
 
-When dealing with any data (real or simulated) during the :bdg-warning:`Planning Research` stage, you will most often want to store it in your :bdg-primary:`Home Drive`. 
+When dealing with any data (real or simulated) during the :bdg-info:`Planning Research` stage, you will most often want to store it in your :bdg-primary:`Home Drive`. 
 This is because, since the :bdg-primary:`Home Drive` is mounted on :bdg-primary:`High Performance Storage`, you will be able to work with the :bdg-primary:`HPC Cluster` which can speed up your analysis time. 
-Otherwise, you would use the :bdg-primary:`local storage` on your PC. 
+Otherwise, you would use the :bdg-primary:`local storage` on your DCCN-issued PC. 
 
 Let's see how we would download existing data.
 
 Private Collection with Repocli
 ==========
 
+.. _Radboud Data Repository: https://data.ru.nl/collections/di/dccn/DSC_3010000.05_519
+
 Once you have been added to a collection, you will receive an email to the email account you used when you signed up to the Radboud Data Repository stating that you have been added. 
-We have added you to the ``DSC_3010000.05_519`` collection - a private Collection - so that you can get practice downloading privately shared data. 
+Workshop attendees will be added to our workshop's :bdg-primary:`DAC` which is :bdg-warning:`Closed Access`
+However, to make this tutorial accessible, non-workshop attendees can access our workshop's :bdg-warning:`Open Access` :bdg-primary:`DSC` in the `Radboud Data Repository`_ to do this exercise. 
 You should never download private collections onto your personal computer to ensure that - if the researchers made a mistake - there are no chances of data leakages. 
 We will practice downloading this DSC onto your Home Drive (replace groupname with your lab group's name and firlas with your DCCN username)
 
@@ -29,7 +32,8 @@ We will practice downloading this DSC onto your Home Drive (replace groupname wi
 
 3. Download the Data Sharing Collection to Your Home Directory
 
-* Type ``get dccn/DSC_3010000.05_519 /home/groupname/firlas``
+* Type ``get dccn/DAC_3010000.05_873 /home/groupname/firlas`` for workshop attendees
+* Type ``get dccn/DSC_3010000.05_519 /home/groupname/firlas`` for non-workshop attendees
 
 Public Collection with Cyberduck
 ==========

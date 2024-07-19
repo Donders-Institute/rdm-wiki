@@ -10,7 +10,8 @@ These purposes are to:
 4. Run Pilots - acquiring data that is not considered part of your sample
 5. Plan Data Management - outlining and committing to :bdg-primary-line:`where` data is stored, :bdg-info-line:`who` has access to :bdg-info-line:`what` files, :bdg-dark-line:`how` data is moved, and :bdg-warning-line:`when` in the timeline of your project. 
 
-At the :bdg-danger:`DCCN`, you will have to navigate only very few administrative hurdles to run your study. 
+Unlike many other research centers, at the :bdg-danger:`DCCN` you will find that our :bdg-warning:`infrastructure` is very straightforward, enabling you to spend more time doing research!
+However, proper preparation during the :bdg-info:`Planning Research` stage is still imperative, as it helps to prevent delays in the project's timeeline.  
 We will talk specifically about:
 
 1. The Project Proposal Procedure

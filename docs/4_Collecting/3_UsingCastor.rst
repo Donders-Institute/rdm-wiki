@@ -4,7 +4,11 @@ Using Castor
 By now, you will have already created :bdg-info:`Case Report Forms` which will be available on Castor. 
 Let's say that you have just brought in your first real participant into the lab. 
 
-After having the participant fill out the informed consent form, you will then want to open Castor at https://data.castoredc.com/ 
+After having the participant fill out the informed consent form, you will then want to open Castor at https://data.castoredc.com/.
+
+.. Note::
+
+    Be sure to always log into Castor on its ``Netherlands`` server - this is mandatory for data protection and security.
 
 Using Castor for Screening
 ========
