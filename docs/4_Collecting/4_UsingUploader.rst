@@ -10,11 +10,11 @@ In order to demonstrate how to use :bdg-dark:`Uploader`, let's do an example tha
 Practice Using Uploader
 ==========
 
-.. _download a zip file: https://github.com/Donders-Institute/rdm-wiki/blob/main/RDM_Workshop_Materials.zip
+.. _this link: https://github.com/Donders-Institute/rdm-wiki/blob/main/RDM_Workshop_Materials.zip
 
 1. Get Experimental Data
 
-During your actual experiment, you will obviously do this by running your participant but if you want to practice, open the following link and push ``Control + Shift + S`` to `download a zip file`_.
+During your actual experiment, you will obviously do this by running your participant but if you want to practice, open `this link`_ and push ``Control + Shift + S`` to download a zip file.
 In this zip file, you find a file which will make up some data for you to practice with. 
 Open your Downloads folder and unzip the file you've just downloaded.
 

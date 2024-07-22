@@ -115,4 +115,4 @@ The :bdg-primary:`Radboud Data Repository` is the :bdg-danger:`DCCN`'s vault whe
 .. dropdown:: Take Home Messages
 
     * Different :bdg-primary:`storage locations` have different pros and cons which :bdg-danger:`DCCN` :bdg-warning:`policies` are built around 
-    * :bdg-primary:`High Performance Storage` and the :bdg-primary:`Radboud Data Repository` are the main :bdg-primary:`storage locations` we will use but :bdg-primary:`Local Storage` and :bdg-primary:`Microsoft Teams` have certain use cases.
+    * :bdg-primary:`High Performance Storage` and the :bdg-primary:`Radboud Data Repository` are the main :bdg-primary:`storage locations` we will use but :bdg-primary:`Local Storage` has certain use cases.
