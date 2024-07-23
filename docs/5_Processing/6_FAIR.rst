@@ -12,7 +12,7 @@ Shell Scripting
 Shell Scripting is a process which involves telling a computer to run certain analysis scripts routinely rather than doing so by manually running scripts in an interactive environment like VSCode, RStudio, MatLab, or a Python IDE (i.e. Spyder or Pycharm). 
 Shell Scripting enables increased processing speed, since you can split up iterated processes into different jobs that the :bdg-primary:`HPC Cluster` can run simaltaneously instead of sequentially, like these interactive environments would. 
 However, it also eliminates the possibility for human error by running scripts in an incorrect order for instance. 
-Furthermore, it also increases the *Findability* of your research data: instead of relying on directions from metadata about which sub-directories in your :bdg-primary:`RDR Collection`, a reader can find a single shell script which tells them:
+Furthermore, it also increases the *Findability* of your research data: instead of relying on directions from metadata about which sub-directories in your :bdg-primary:`DSC` or :bdg-primary:`Project Folder`, a reader can find a single shell script which tells them:
 
 1. Which files (i.e. scripts) are being used to analyze the data
 2. Where these files (i.e. scripts) are located
@@ -21,8 +21,8 @@ Furthermore, it also increases the *Findability* of your research data: instead 
 
 .. _HPC wiki: https://hpc.dccn.nl/docs/bash/index.html
 
-A good convention to use is to put the shell script in ``/project/Scripts/masterPipeline.sh``. 
-You can learn a bit about shell scripting from the `HPC wiki`_, however, with a tool such as ChatGPT, shell scripting is much more accessible to beginning users.
+A good convention to save the shell script as ``/project/Scripts/masterPipeline.sh``. 
+You can learn a bit about shell scripting from the `HPC wiki`_, however, with a tool such as ChatGPT, the learning curve is minimal.
 
 Output to HTML
 ===============
@@ -42,7 +42,8 @@ Document Versioning
 
 Another important way that you can improve the :bdg-info:`FAIR`-ness of your research data is to version your analysis scripts and other documents. 
 As you've just read on the previous page, you should version your analysis scripts and log the changes in a document so that the thought process underlying changes to your analyses are tracked. 
-Doing these extra steps can not only save you time (i.e. by documenting the results of different approaches, ensuring that these can be tracked), but also make your data more *Interoperable* since others can see everything that you tried and continue from there. 
+Doing these extra steps can not only save you time (i.e. by documenting the results of different approaches, you can avoid repeating analyses because you forgot the result), 
+but also make your data more *Interoperable* since others can see everything that you tried and continue from there. 
 
 Enrich with Metadata
 ================

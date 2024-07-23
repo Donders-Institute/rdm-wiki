@@ -12,4 +12,3 @@ what the governing :bdg-info:`policies` are, how you can most effectively make u
    Using the DCCN Portal <2_UsingPortal.rst>
    Using Castor <3_UsingCastor.rst>
    Using the DCCN Uploader <4_UsingUploader.rst>
-   Archiving Your Project's DAC <5_ArchivingDAC.rst>

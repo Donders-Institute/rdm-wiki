@@ -1,7 +1,7 @@
 The Purposes of Research Documentation Collections
 **********
 
-You may be wondering, if :bdg-primary:`DACs` are for backing up raw data and :bdg-primary:`DSCs` are for sharing results, what do I need an :bdg-success:`RDC` for?
+You may be wondering, if :bdg-primary:`DACs` are for backing up raw data and :bdg-primary:`DSCs` are for sharing results, what do I need an :bdg-primary:`RDC` for?
 Well, :bdg-primary:`RDCs` are intended to house the documentation for your analysis scripts. 
 Specifically, :bdg-primary:`RDCs` should contain information about:
 
