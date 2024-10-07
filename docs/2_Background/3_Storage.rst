@@ -96,7 +96,7 @@ Radboud Data Repository
 
     The endpoint of :bdg-primary:`DAC` and :bdg-primary:`RDC` is :bdg-warning:`archiving`, which is intended only for internal use (i.e. amongst members of the project).
     The endopoint of a :bdg-primary:`DSC` is `publishing.
-`
+
 .. dropdown:: Advantages
 
     * (Basically) unlimited storage

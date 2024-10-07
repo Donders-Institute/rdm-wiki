@@ -13,3 +13,9 @@ Some common algorithms used to do this include `Quickshear`_, `MRI_Deface`_, `FS
 .. _FSL_Deface: https://rdrr.io/github/muschellij2/fslr/man/fsl_deface.html
 .. _MRI_Deface: https://surfer.nmr.mgh.harvard.edu/fswiki/mri_deface
 .. _Slant: https://github.com/MASILab/SLANTbrainSeg
+
+here are some other important ways that you can anonymize your data:
+
+* :bdg-warning:`Pseudonymization Key` - removes the link to personal administrative data by replacing data with pseudonyms that, with a key, can link back to the original data
+* :bdg-warning:`Data Minimization` - not :bdg-warning:`collecting`, :bdg-warning:`archiving`, or :bdg-warning:`publishing` more than necessary to achieve research goals or support research results
+* :bdg-warning:`Data generalization` - reduces the level of detail in the data for variables that (in combination with others) are potentially identifiable, for instance by changing date of birth to birth year

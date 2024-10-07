@@ -12,4 +12,4 @@ In this section, we'll inform you of the relevant :bdg-success:`RDM` practices i
    Analyzing Data with the HPC Cluster <3_Analyzing.rst>
    Using Local Storage <4_Local.rst>
    The Purposes of RDCs <5_RDC.rst>
-   Best Practices for FAIR Research <6_FAIR.rst>
+   Best Practices for FAIR Research Data <6_FAIR.rst>

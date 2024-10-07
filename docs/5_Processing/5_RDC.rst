@@ -2,7 +2,7 @@ The Purposes of Research Documentation Collections
 **********
 
 You may be wondering, if :bdg-primary:`DACs` are for backing up raw data and :bdg-primary:`DSCs` are for sharing results, what do I need an :bdg-primary:`RDC` for?
-Well, :bdg-primary:`RDCs` are intended to house the documentation for your analysis scripts. 
+Well, :bdg-primary:`RDCs` are intended to house the documentation of the analysis process. 
 Specifically, :bdg-primary:`RDCs` should contain information about:
 
 1. How these may have changed over time
@@ -17,9 +17,7 @@ Therefore, each time you tinker with your script to try something new out, you s
 4. Your thoughts about what the results mean
 
 This will help improve the :bdg-primary:`FAIR`-ness of your research data, primarily by increasing its *Interoperability*: adding this documentation will allow others who come after you to pick up where you left off. 
+Additionally, it will increase the *Reusability* of your data, as the :bdg-primary:`RDC` houses information on the context of your data. 
+:bdg-primary:`RDC`s are for (internal) :bdg-warning:`archiving`, meaning that only people given access by one of the collection :bdg-info:`managers` can view this data.
 
 :bdg-primary:`RDCs` can also be used to house the various versions of your manuscript to ensure that these are recorded and traceable after you finish the project. 
-
-.. Note::
-
-    In general, :bdg-primary:`RDCs` should not have any research data.

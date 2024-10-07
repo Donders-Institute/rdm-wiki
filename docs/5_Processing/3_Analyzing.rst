@@ -40,3 +40,7 @@ Now that we have all of the data, we will run an analysis script.
 * Click the blue square in the ``Environment`` tab to save the workspace as, and save the workspace as ``RDM_Workshop_Analysis`` in the ``/project/3010000.05/results/firlas`` folder
 
 6. Disconnect
+
+.. _HPC wiki: https://hpc.dccn.nl/docs/bash/exercise_script.html
+
+To read more about how to run analyses on the :bdg-primary:`HPC Cluster` and to get more practice, visit these pages on the `HPC wiki`_.

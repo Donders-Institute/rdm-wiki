@@ -1,4 +1,4 @@
-Staging Data to Your DSC
+Moving Data to Your DSC
 *******
 
 Once you have finalized your results and you want to publish them in your project's :bdg-primary:`DSC`, you will need to :bdg-warning:`transfer` these files. 

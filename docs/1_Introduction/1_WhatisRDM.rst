@@ -33,5 +33,5 @@ Therefore, throughout the handbook we will link you to more resources which talk
 
 .. dropdown:: Take Home Messages
 
-    * :bdg-success:`RDM` = managing :bdg-info:`access` and :bdg-primary:`locations` of research data over the :bdg-info:`project timeline`
+    * :bdg-success:`RDM` = managing :bdg-info:`access` and :bdg-primary:`locations` of research data over the :bdg-info:`research lifecycle`
     * This Handbook will teach you how to best do :bdg-success:`RDM` at the :bdg-danger:`DCCN`

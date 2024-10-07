@@ -8,8 +8,8 @@ In this section, we'll inform you of the relevant :bdg-success:`RDM` practices i
 .. toctree::
    :maxdepth: 1
    
-   Archiving Your Collection <2_Archiving.rst>
+   Archiving Your DAC and RDC <2_Archiving.rst>
    Anonymizing Your Data <3_Anonymizing.rst>
-   Staging Data to Your DSC <4_Staging.rst>
-   Publishing Your Collection <5_Publishing.rst>
+   Moving Data to Your DSC <4_Staging.rst>
+   Publishing Your DSC <5_Publishing.rst>
    Finishing Your Study <6_Deleting.rst>

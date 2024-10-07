@@ -4,7 +4,9 @@ Using Local Storage
 The :bdg-primary:`HPC cluster` is a powerful tool which enables researchers to improve their efficiency. 
 However, users of the :bdg-primary:`HPC cluster` cannot always use certain packages which they might otherwise be able to with :bdg-primary:`Local Storage`.
 On the :bdg-primary:`HPC cluster`, the installed version of R is not compatible with the ``effects`` package. 
-We have created an ``lme`` object called ``fit`` which we want to plot the effects of using the ``effect`` function in the ``effects`` package to visualize the interaction between trial number and condition on reaction time.  
+We have created an ``lme`` object called ``fit`` which we want to plot the effects of using the ``effect`` function in the ``effects`` package to visualize the interaction between trial number and condition on reaction time. 
+If you are using a Desktop PC in the DCCN, you can simply run your analysis on the local instance of RStudio (or whatever analysis platform you are using). 
+However, if you are not in Trigon or do not have a hardwired connection, you can do so by following the exercises below.
 
 Practice Using Local Storage
 ======
@@ -27,7 +29,7 @@ We've saved our workspace to ``RDM_Workshop_Analysis.RData`` and now we can down
 * Double-click on the ``firlas`` directory where firlas is your DCCN username
 * Single-click on the ``RDM_Workshop_Analysis.RData`` file
 
-4. Download the ``RDM_Workshop_Analysis.RData`` file
+4. Download the ``RDM_Workshop_Analysis.RData`` file onto your DCCN or RU Managed device
 
 * Click ``Action`` then ``Download To`` in the dropdown menu
 * Single-click the folder you want to download the ``RDM_Workshop_Analysis.RData`` file to
@@ -38,3 +40,7 @@ We've saved our workspace to ``RDM_Workshop_Analysis.RData`` and now we can down
 Now, if you want, you can open R on your Local PC, open the ``local_analysis.R`` file and open the ``RDM_Workshop_Analysis.RData`` workspace. 
 Then, run the script. 
 You should see a plot as an output.
+
+.. Note::
+
+    When a package is not available on the :bdg-primary:`HPC Cluster` or cannot be installed by the user, you can arrange this by contacting the DCCN TG. 
