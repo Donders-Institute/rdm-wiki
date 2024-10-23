@@ -20,7 +20,7 @@ Open your Downloads folder and unzip the file you've just downloaded.
 
 * Open MatLab
 * Go to the location where you unzipped ``RDM_Workshop Materials`` on your local PC
-* Open the file ``MakeDataUp.m`` (this would be a stimulus presentation program that behavioral responses)
+* Open the file ``MakeDataUp.m`` (this would be a stimulus presentation program that records behavioral responses)
 * Run the program
 
 2. Login to Uploader

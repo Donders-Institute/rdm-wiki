@@ -30,7 +30,7 @@ Now that we have all of the data, we will run an analysis script.
 * Double-click ``firlas`` where firlas is your DCCN username
 * Double-click on the ``analysis.R`` file you uploaded
 * At the top of the script, change the ``outfile`` variable to ``/project/3010000.05/results/firlas`` where firlas is your DCCN username
-* On the next line, change the ``excluded_subjects`` variable to a numeric vector which includes only the subject numbers of excluded subjects (i.e. if ``sub-010`` is exlcuded, include ``10`` in this vector)
+* On the next line, change the ``excluded_subjects`` variable to a numeric vector which includes only the subject numbers of excluded subjects (i.e. if ``sub-010`` is excluded, include ``10`` in this vector)
 
 4. Select the entire document and push control and enter together to run the script
 
