@@ -10,25 +10,33 @@ In order to demonstrate how to use :bdg-dark:`Uploader`, let's do an example tha
 Practice Using Uploader
 ==========
 
-.. _this link: https://github.com/Donders-Institute/rdm-wiki/blob/main/RDM_Workshop_Materials.zip
+1. Create a Lab Account
 
-1. Get Experimental Data
+.. Note::
 
-During your actual experiment, you will obviously do this by running your participant but if you want to practice, open `this link`_ and push ``Control + Shift + S`` to download a zip file.
-In this zip file, you find a file which will make up some data for you to practice with. 
-Open your Downloads folder and unzip the file you've just downloaded.
+    Lab Accounts ensure that participants cannot access project storage while left alone. 
+    This is very useful as it ensures data integrity. 
+    Lab Accounts last for 7 days but can be refreshed at any time.
 
+* On your laptop, log into https://portal.dccn.nl
+* Click on your user profile in the top right corner and select ``My Profile``
+* Click on ``Lab Account`` on the left side
+* Choose ``Create Lab Account``
+
+2. Get Experimental Data
+
+* On the Desktop, log in using your lab account credentials
 * Open MatLab
-* Go to the location where you unzipped ``RDM_Workshop Materials`` on your local PC
+* Go to where you put the ``MakeDataUp.m`` file on the local PC (if you are following the workshop, it will be here: ``D:\Users\firlas\RDM_WorkshopPractice\materials``)
 * Open the file ``MakeDataUp.m`` (this would be a stimulus presentation program that records behavioral responses)
 * Run the program
 
-2. Login to Uploader
+3. Login to Uploader
 
 * Go to https://uploader.dccn.nl
 * Type in your DCCN username (firlas) and password in the correct fields and then push login
 
-3. Upload Your Data Files
+4. Upload Your Data Files
 
 * Under the ``Select project`` field select the project number (if you are making up data, use ``3010000.05``)
 * Under the ``Set subject label field`` insert the subject number from the calendar (or made up numbers if you are using made up data)

@@ -13,15 +13,52 @@ Your on all lab PCs, you should create a folder within the users folder in the :
 Then you can create a folder for your project within your user folder(``D:\Users\firlas\project\``). 
 The stimulus script and materials can now be transferred into this folder. 
 
-Transferring Files
+Transferring to the Project Folder with Cyberduck
 ==========
 
 Using thumb drives to transfer files onto lap PCs is strongly, strongly discouraged due to potential security risks. 
-Therefore, you will have to use data transfer :bdg-dark:`Tools` to achieve this:
+Therefore, you will have to use data transfer :bdg-dark:`Tools` to achieve this: let's go through an example using Cyberduck.
 
-1. Zip the folder with your stimulus script and other necessary materials
-2. Use a data transfer :bdg-dark:`Tool` to move this zip file from the :bdg-primary:`local storage` of your PC onto your :bdg-primary:`Home Drive`, :bdg-primary:`Project Storage`, or :bdg-primary:`Groupshare`
-3. Drag-and-drop the script from :bdg-primary:`High Performance Storage` onto the :bdg-primary:`Data` drive of the lab PC
+.. _this link: https://github.com/Donders-Institute/rdm-wiki/blob/main/RDM_Workshop_Materials.zip
+
+Let's start with an example - on your laptop, open `this link`_ and push ``Control + Shift + S`` to download a zip file. 
+In this zip file, you find a file which will make up some data for you to practice with. 
+Open your Downloads folder and unzip the file you've just downloaded.
+
+1. Establish a Network Connection to Trigon (either eduVPN or hardwired)
+2. Log into Cyberduck
+
+* Open Cyberduck and click ``Open Connection``
+* In the protocol field, select ``SSH File Transfer Protocol``
+* In the ``Server`` field, write ``mentat001.dccn.nl``
+* In the ``Username`` field, write ``firlas@dccn.nl``
+* In the ``Password`` field, insert your DCCN password
+* When prompted with the unknown fingerprint warning, click ``Allow``
+
+3. Navigate to the project folder (if you are not following the workshop, you can request access to this or do the same in your home directory: instead of ``/project/3010000.05/firlas/materials/`` you use ``/home/groupname/firlas/materials/``)
+
+* At the top, click the dropdown menu to change the current directory to ``/``
+* Click on ``project``
+* Click on ``3010000.05``
+* Right click below the last entry and choose ``New Folder``
+
+4. Upload the files
+
+* Make a new folder with your DCCN username
+* Open the folder, and make a new folder called ``materials``
+* Click the ``Upload`` button
+* Upload the three files from the folder you just downloaded and unzipped
+
+Moving the Stimulus Script to the Lab PC
+========
+
+Fortunately, the Desktops in the Instruction Room and Trainee Room function the same as those in the various labs, so we can practice that now. 
+Now, for those who are participating in the workshop let's put the script on our *Lab PC*.
+
+1. Log into the Lab PC
+2. Open File Explorer and navigate to where you just uploaded the files to 
+3. Copy the files
+4. Navigate to ``D:\Users\firlas\RDM_WorkshopPractice\materials`` and paste the files
 
 Ensure Necessary Software
 ==========
