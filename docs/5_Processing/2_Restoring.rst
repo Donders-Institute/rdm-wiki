@@ -9,16 +9,20 @@ Practice Restoring Data with Stager
 =======
 
 Since everyone needs to be able to analyze the data, however, let's first duplicate the files in the ``/project/3010000.05/raw/`` into a new folder that you can make changes to without affecting others' work. 
-Copy all of the directories in the ``/project/3010000.05/raw/`` folder (the keyboard shortcut is Ctrl + A). 
-Now, navigate to the ``/project/3010000.05/1234567.89/raw/`` folder and create a new folder with your DCCN username. 
-Open the ``/project/3010000.05/1234567.89/raw/firlas/`` folder and paste the contents of the ``/project/3010000.05/raw/`` folder.
+Copy the ``raw`` directory from of the directories in the ``/project/3010000.05/`` folder (the keyboard shortcut is Ctrl + A). 
+Now, we assigned you a project number called ``XXXXXXX.XX``: use this number to create a folder called ``/project/3010000.05/XXXXXXX.XX/``. 
+Open this folder paste ``/project/3010000.05/raw/`` into it.
 
 
 1. Check for data loss between subjects number 1 to 10
 
 * Open ``Applications`` and go to ``File Explorer`` in the dropdown menu
-* At the file directory where it says ``/home/groupname/firlas/``, replace it with ``/project/3010000.05/1234567.89/raw/firlas/``
+* At the file directory where it says ``/home/groupname/firlas/``, replace it with ``/project/3010000.05/XXXXXXX.XX/raw/``
 * Notice that there are no folders for ``sub-002``, ``sub-005``, and ``sub-006`` - this data has been accidentally deleted
+
+.. Note::
+
+    If you are attempting to follow these instructions for your own project, just delete ``/XXXXXXX.XX`` from ``/project/3010000.05/XXXXXXX.XX/raw/``
 
 2. Establish a Network Connection to Trigon (either eduVPN or hardwired)
 
@@ -42,9 +46,8 @@ Open the ``/project/3010000.05/1234567.89/raw/firlas/`` folder and paste the con
 6. Select the Project Storage directory to download the data into
 
 * Double-click on the ``3010000.05/`` directory on the Project Storage side 
-* Double-click on the ``1234567.89`` directory on the Project Storage side
+* Double-click on the ``XXXXXXX.XX`` directory on the Project Storage side
 * Double-click on the ``raw`` directory on the Project Storage side
-* Check the box next to your ``firlas`` directory on the Project Storage side
 
 7. Press the ``Download`` button
 
@@ -54,7 +57,7 @@ Practice Restoring Data with Repocli
 1. Check for data loss between subjects number 1 to 10
 
 * Open ``Applications`` and go to ``File Explorer`` in the dropdown menu
-* At the file directory where it says ``/home/groupname/firlas/``, replace it with ``/project/3010000.05/1234567.89/raw/firlas/``
+* At the file directory where it says ``/home/groupname/firlas/``, replace it with ``/project/3010000.05/XXXXXXX.XX/raw/``
 * Notice that there are no folders for ``sub-002``, ``sub-005``, and ``sub-006`` - this data has been accidentally deleted
 
 2. Establish a Network Connection to Trigon (either eduVPN or hardwired)
@@ -72,9 +75,9 @@ Practice Restoring Data with Repocli
 
 5. Download the Data Sharing Collection to Your Home Directory
 
-* Type ``get dccn/DAC_3010000.05_873/raw/sub-002 /project/3010000.05/1234567.89/raw/firlas/`` and then push ``enter``
-* Type ``get dccn/DAC_3010000.05_873/raw/sub-005 /project/3010000.05/1234567.89/raw/firlas/`` and then push ``enter``
-* Type ``get dccn/DAC_3010000.05_873/raw/sub-006 /project/3010000.05/1234567.89/raw/firlas/`` and then push ``enter``
+* Type ``get dccn/DAC_3010000.05_873/raw/sub-002 /project/3010000.05/XXXXXXX.XX/raw/`` and then push ``enter``
+* Type ``get dccn/DAC_3010000.05_873/raw/sub-005 /project/3010000.05/XXXXXXX.XX/raw/`` and then push ``enter``
+* Type ``get dccn/DAC_3010000.05_873/raw/sub-006 /project/3010000.05/XXXXXXX.XX/raw/`` and then push ``enter``
 
 Snapshot
 ======
@@ -85,45 +88,38 @@ If you accidentally delete 1 or more files, you may be able to retreive them wit
 :bdg-dark:`Snapshots` are sporadic captures of the state of a computer system at a point in time. 
 To read more about :bdg-dark:`snapshots` and how you can restore deleted data, visit `this link`_ on the intranet.
 
-Advanced Example
+Advanced Example: Restoring All Missing Subject Directories
 =======
 
 In the above excercise, we saw how we can restore data from a :bdg-primary:`DAC` to your :bdg-primary:`Project Folder`. 
 However, with many folders and subfolders to check, this can be tedious, inefficient, and prone to user error. 
 So in this advanced example we will automate this process by creating a Bash script which runs on the :bdg-primary:`HPC cluster`.
 
-Restoring All Missing Subject Directores
-----------
-
 1. Start a TigerVNC session
-2. Run ``/project/3010000.05/1234567.89/scripts/makeMissing.sh`` 
+2. Run ``/project/3010000.05/scripts/makeMissing.sh`` 
 
 Open the terminal emulator and run the following code
 
 ::
 
-    cd /project/3010000.05/1234567.89/scripts/
+    cd /project/3010000.05/scripts/
     chmod +x makeMissing.sh
-    ./makeMissing.sh
+    ./makeMissing.sh /project/3010000.05/XXXXXXX.XX/raw/
 
-3. Create ``/project/3010000.05/1234567.89/scripts/firlas/restoreMissng.sh``
+3. Create ``/project/3010000.05/XXXXXXX.XX/scripts/restoreMissing.sh``
 
-Open the text editor and write code that compares all :bdg-primary:`DAC` files to :bdg-primary:`Project Folder` files, 
-restoring files that are in the :bdg-primary:`DAC` but not the :bdg-primary:`Project Folder`. 
-Save the file as ``/project/3010000.05/1234567.89/scripts/firlas/restoreMissng.sh``
+Open the text editor and write code that compares all :bdg-primary:`DAC` folders to :bdg-primary:`Project Folder` folders, 
+restoring folders that are in the :bdg-primary:`DAC` but not the :bdg-primary:`Project Folder`. 
+Save the file as ``/project/3010000.05/XXXXXXX.XX/scripts/restoreMissing.sh``
 
-.. dropdown:: Hint 1
-
-    You will need to enumerate all of the files in each folder in the :bdg-primary:`DAC`, which can be done in bash in the following way
+.. dropdown:: Hint 1: Enumerate all folders in the :bdg-primary:`DAC`
 
     :: 
         
         #!/bin/bash
         repocli ls dccn/DAC_3010000.05_873/raw/
 
-.. dropdown:: Hint 2
-    
-    You will need to go through all of the folders, which can be done in the following way:
+.. dropdown:: Hint 2: Go through each in the :bdg-primary:`DAC`
 
     ::
 
@@ -140,15 +136,15 @@ Save the file as ``/project/3010000.05/1234567.89/scripts/firlas/restoreMissng.s
 
         #!/bin/bash
         for sub_dir in $(repocli ls dccn/DAC_3010000.05_873/raw/); do 
-            if [ ! -d "/project/3010000.05/1234567.89/raw/firlas/"$sub_dir ]; then
-                repocli get "dccn/DAC_3010000.05_873/raw/"$sub_dir "/project/3010000.05/1234567.89/raw/firlas/"$sub_dir
+            if [ ! -d "/project/3010000.05/XXXXXXX.XX/raw/"$sub_dir ]; then
+                repocli get "dccn/DAC_3010000.05_873/raw/"$sub_dir "/project/3010000.05/XXXXXXX.XX/raw/"$sub_dir
             fi
         done
 
-4. Run ``/project/3010000.05/1234567.89/scripts/firlas/restoreMissng.sh``
+4. Run ``/project/3010000.05/XXXXXXX.XX/scripts/restoreMissing.sh``
 
 ::
 
-    cd /project/3010000.05/1234567.89/scripts/firlas
-    chmod +x restoreMissng.sh
-    ./restoreMissng.sh
+    cd /project/3010000.05/XXXXXXX.XX/scripts/
+    chmod +x restoreMissing.sh
+    ./restoreMissing.sh

@@ -35,17 +35,18 @@ Open your Downloads folder and unzip the file you've just downloaded.
 * In the ``Password`` field, insert your DCCN password
 * When prompted with the unknown fingerprint warning, click ``Allow``
 
-3. Navigate to the project folder (if you are not following the workshop, you can request access to this or do the same in your home directory: instead of ``/project/3010000.05/firlas/materials/`` you use ``/home/groupname/firlas/materials/``)
+3. Navigate to the project folder (if you are not following the workshop, you can request access to this or do the same in your home directory: instead of ``/project/3010000.05/XXXXXXX.XX/materials/`` you use ``/project/XXXXXXX.XX/materials/``)
 
 * At the top, click the dropdown menu to change the current directory to ``/``
 * Click on ``project``
 * Click on ``3010000.05``
 * Right click below the last entry and choose ``New Folder``
+* Type ``XXXXXXX.XX`` (this will be your project folder)
+* Right click below the last entry and choose ``New Folder``
+* Type ``materials``
 
 4. Upload the files
 
-* Make a new folder with your DCCN username
-* Open the folder, and make a new folder called ``materials``
 * Click the ``Upload`` button
 * Upload the three files from the folder you just downloaded and unzipped
 

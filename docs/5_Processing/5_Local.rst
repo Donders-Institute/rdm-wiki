@@ -25,8 +25,10 @@ We've saved our workspace to ``RDM_Workshop_Analysis.RData`` and now we can down
 
 3. Locate the ``RDM_Workshop_Analysis.RData`` file
 
+* Double-click on the ``project`` directory
+* Double-click on the ``3010000.05`` directory
+* Double-click on the ``XXXXXXX.XX`` directory
 * Double-click on the ``results`` directory
-* Double-click on the ``firlas`` directory where firlas is your DCCN username
 * Single-click on the ``RDM_Workshop_Analysis.RData`` file
 
 4. Download the ``RDM_Workshop_Analysis.RData`` file onto your DCCN or RU Managed device

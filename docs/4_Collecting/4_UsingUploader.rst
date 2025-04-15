@@ -15,7 +15,7 @@ Practice Using Uploader
 .. Note::
 
     Lab Accounts ensure that participants cannot access project storage while left alone. 
-    This is very useful as it ensures data integrity. 
+    This is very useful as it ensures data integrity, and privacy for your personal files.  
     Lab Accounts last for 7 days but can be refreshed at any time.
 
 * On your laptop, log into https://portal.dccn.nl

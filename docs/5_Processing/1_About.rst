@@ -9,7 +9,8 @@ In this section, we'll inform you of the relevant :bdg-success:`RDM` practices i
    :maxdepth: 1
    
    Restoring Lost Data <2_Restoring.rst>
-   Analyzing Data with the HPC Cluster <3_Analyzing.rst>
-   Using Local Storage <4_Local.rst>
-   The Purposes of RDCs <5_RDC.rst>
-   Best Practices for FAIR Research Data <6_FAIR.rst>
+   Checking Data Integrity <3_Integrity.rst>
+   Analyzing Data with the HPC Cluster <4_Analyzing.rst>
+   Using Local Storage <5_Local.rst>
+   The Purposes of RDCs <6_RDC.rst>
+   Best Practices for FAIR Research Data <7_FAIR.rst>
