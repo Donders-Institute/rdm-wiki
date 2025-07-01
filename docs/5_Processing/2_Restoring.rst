@@ -56,6 +56,7 @@ Practice Restoring Data with Repocli
 
 1. Check for data loss between subjects number 1 to 10
 
+* Open a session in TigerVNC
 * Open ``Applications`` and go to ``File Explorer`` in the dropdown menu
 * At the file directory where it says ``/home/groupname/firlas/``, replace it with ``/project/3010000.05/XXXXXXX.XX/raw/``
 * Notice that there are no folders for ``sub-002``, ``sub-005``, and ``sub-006`` - this data has been accidentally deleted
@@ -66,7 +67,6 @@ Practice Restoring Data with Repocli
 
 4. Login to the :bdg-primary:`Radboud Data Repository`
 
-* Open TigerVNC
 * Open the terminal application
 * Type ``repocli shell`` and then push ``enter``
 * Type ``config`` and then push ``enter``

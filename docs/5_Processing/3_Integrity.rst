@@ -28,19 +28,25 @@ Practice Checking Data Integrity
 
 Let's first see a demonstration of how the SHA-256 algorithm works. 
 To do this, we will need a file to check. 
-To illustrate how the :bdg-warning:`hash algorithm` works, let's use ``/project/3010000.05/raw/longData.csv``.
+To illustrate how the :bdg-warning:`hash algorithm` works, let's create a new file which contains all of our raw behavioral data: ``/project/3010000.05/XXXXXXX.XX/raw/longData.csv``.
+
+::
+
+    cd /project/3010000.05/XXXXXXX.XX/scripts
+    Rscript combineData.R /project/3010000.05/XXXXXXX.XX/raw/
+
 If you open this file, you will see that it has many rows of data - one for each trial, per subject in our "experiment". 
 
-1. Compute the hash/digest for ``/project/3010000.05/raw/longData.csv``
+1. Compute the hash/digest for ``/project/3010000.05/XXXXXXX.XX/raw/longData.csv``
 
 * Open the terminal emulator in TigerVNC
-* Type ``sha256sum /project/3010000.05/raw/longData.csv``
+* Type ``sha256sum /project/3010000.05/XXXXXXX.XX/raw/longData.csv``
 
 2. Check if the hash/digest changes depending on the file name and location
 
-* Duplicate ``/project/3010000.05/raw/longData.csv`` as ``/project/3010000.05/XXXXXXX.XX/raw/copyLongData.csv``
+* Duplicate ``/project/3010000.05/XXXXXXX.XX/raw/longData.csv`` as ``/project/3010000.05/XXXXXXX.XX/raw/copyLongData.csv``
 * Type ``sha256sum /project/3010000.05/XXXXXXX.XX/raw/copyLongData.csv``
-* Compare the hash/digest from ``/project/3010000.05/raw/longData.csv`` to ``/project/3010000.05/XXXXXXX.XX/raw/longData.csv``: these should be identical
+* Compare the hash/digest from ``/project/3010000.05/XXXXXXX.XX/raw/longData.csv`` to ``/project/3010000.05/XXXXXXX.XX/raw/longData.csv``: these should be identical
 
 3. Check if the hash/digest catches data falsification
 
@@ -58,7 +64,7 @@ If you open this file, you will see that it has many rows of data - one for each
         if [ "$(sha256sum /project/3010000.05/XXXXXXX.XX/raw/copyLongData.csv | awk '{print $1}')" = "$(sha256sum /project/3010000.05/XXXXXXX.XX/raw/longData.csv | awk '{print $1}')" ]; then
             echo "Files are identical."
         else
-            echo "A file is corrupted"
+            echo "One of the Files is corrupted"
         fi
 
 Advanced Example: Replacing Corrupted Files
@@ -83,11 +89,9 @@ Open the terminal emulator and run the following code
     chmod +x deleteAndCorrupt.sh
     ./deleteAndCorrupt.sh /project/3010000.05/XXXXXXX.XX/raw/
 
-3. Edit ``/project/3010000.05/XXXXXXX.XX/scripts/restoreMissing.sh``
+3. Create ``/project/3010000.05/XXXXXXX.XX/scripts/restoreCorrupted.sh`` 
 
-Open ``/project/3010000.05/XXXXXXX.XX/scripts/restoreMissing.sh`` in your text editor. 
-Add a statement which goes through each file in each folder of the :bdg-primary:`Project Folder`, comparing its hash/digest to that of the corresponding :bdg-primary:`DAC` folder.
-Make sure to save the file upon completion. 
+4. Write a script which restores the corrupted files recursively
 
 .. dropdown:: Hint 1: Recursively Enumerate Files in a Subject's Folder
 
@@ -109,18 +113,29 @@ Make sure to save the file upon completion.
     ::
 
         #!/bin/bash
-        for sub_dir in $(repocli ls dccn/DAC_3010000.05_873/raw/); do 
-            if [ ! -d "/project/3010000.05/XXXXXXX.XX/raw/"$sub_dir ]; then
-                repocli get "dccn/DAC_3010000.05_873/raw/"$sub_dir "/project/3010000.05/XXXXXXX.XX/raw/"$sub_dir
+        if [ -z "$1" ]; then
+            echo "Usage: $0 /project/3010000.05/XXXXXXX.XX"
+            exit 1
+        fi
+        BASE_PATH="$1"
+        RAW_PATH="$BASE_PATH/raw"
+        TEMP_PATH="$BASE_PATH/temp"
+        mkdir -p "$TEMP_PATH"
+
+        for sub_dir in $(repocli ls dccn/DAC_3010000.05_873/raw/); do
+            if [ ! -d "$RAW_PATH/$sub_dir" ]; then
+                repocli get "dccn/DAC_3010000.05_873/raw/$sub_dir" "$RAW_PATH/$sub_dir"
             fi
-            repocli get "dccn/DAC_3010000.05_873/raw/"$sub_dir "/project/3010000.05/XXXXXXX.XX/temp/"
-            for file in $(find "/project/3010000.05/XXXXXXX.XX/raw/$sub_dir" -type f); do 
-                tempfile="${file/raw/temp}"
-                if [ "$(sha256sum file | awk '{print $1}')" != "$(sha256sum tempfile | awk '{print $1}')" ]; then
-                    rm -f "$file"
-                    cp "$temp_file" "$file"
-                fi
+            repocli get "dccn/DAC_3010000.05_873/raw/$sub_dir" "$TEMP_PATH/"
+            tempfile="$TEMP_PATH/ses-01/beh/MadeUpData.csv"
+            for file in $(find "$RAW_PATH/$sub_dir" -type f); do
+                if [ "$(sha256sum "$file" | awk '{print $1}')" != "$(sha256sum "$tempfile" | awk '{print $1}')" ]; then
+                echo "Corruption detected in: $file"
+                rm -f "$file"
+                cp "$tempfile" "$file"
+                echo "Replaced with clean version from temp."
+            fi
+
             done
         done
-
-        rm -rf /project/3010000.05/XXXXXXX.XX/temp/
+        rm -rf "$TEMP_PATH"
