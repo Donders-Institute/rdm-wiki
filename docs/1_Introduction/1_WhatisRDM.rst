@@ -3,7 +3,7 @@ Introduction to Research Data Management
 
 .. _DCCN level: https://intranet.donders.ru.nl/index.php?id=6467
 
-.. _University level: https://www.ru.nl/rdm/
+.. _University level: https://www.ru.nl/en/staff/researchers/research-data
 
 Defining Research Data Management
 ========
@@ -21,9 +21,9 @@ Purpose of this Handbook
 
 We created this handbook to teach you everything you need to know about :bdg-success:`RDM` within the :bdg-danger:`DCCN`. 
 :bdg-danger:`DCCN` support staff continuously works on streamlining the :bdg-success:`RDM` procedures so that you can focus your time and energy on your research! 
-However, in order to benefit from this streamlining, you have to learn about our :bdg-primary:`facilities`, :bdg-info:`policies`, :bdg-dark:`tools`, :bdg-warning:`Workflows`, and :bdg-warning:`Standard Operating Procedures`.
+However, in order to benefit from this streamlining, you have to learn about our :bdg-primary:`facilities`, :bdg-dark:`tools`, :bdg-warning:`Workflows`, and :bdg-warning:`Standard Operating Procedures`.
 
-**This handbook contains tutorials which will teach you how to navigate the** :bdg-success:`RDM` **infrastructure in the** :bdg-danger:`DCCN` **so that you can run your project efficiently and in compliance with our policies.**
+**This handbook contains tutorials and practical guidelines which will teach you how to navigate the** :bdg-success:`RDM` **infrastructure in the** :bdg-danger:`DCCN` **so that you can run your project efficiently and in compliance with relevant policies.**
 
 Other Research Data Management Resources
 ===========
