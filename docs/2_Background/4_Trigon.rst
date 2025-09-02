@@ -3,14 +3,14 @@ Trigon Network Access
 
 .. _this link for instructions: https://intranet.donders.ru.nl/index.php?id=eduvpn&no_cache=1&sword_list%5B%5D=eduvpn
 
-In order to use many services offered by the :bdg-danger:`DCCN`, you must have access to the Trigon Network. 
-Of course the most obvious way to do this is to use a PC with a hard-wired connection from within the building, such as the PC's in the Trainee or Instruction Rooms. 
-However, this is also possible to do remotely. 
+In order to use the :bdg-success:`RDM` infrastructure and many other services offered by the :bdg-danger:`DCCN`, you must have access to the Trigon Network. 
+Of course the most obvious way to do this is to use a PC with a hard-wired connection from within the building, such as the PC's in the Trainee or Instruction Rooms or a DCCN-issued laptop connected to a docking station within the building. 
+However, it is also possible to access the network remotely through VPN. 
 
-How to Access Trigon Network Remotely via EduVPN
+How to Access Trigon Network Remotely via eduVPN
 =====
-In order to access Trigon Network remotely, you will need a login token which has been authenticated by the Technical Group of the :bdg-danger:`DCCN`. 
-Click `this link for instructions`_ on what to install, how to get your token authenticated, and how to use your token to gain access to the Trigon Network.
+In order to access the Trigon Network remotely, you will need a Radboud account and the eduVPN application. 
+Click `this link for instructions`_ on how to set up and use eduVPN to gain access to the Trigon Network.
 
 Key DCCN Services Which Require Trigon Network Access
 ====
@@ -21,5 +21,4 @@ Key DCCN Services Which Require Trigon Network Access
 
 .. dropdown:: Take Home Messages
 
-    * To use many :bdg-danger:`DCCN` services while outside of Trigon, you will need remote access
-    * Receiving remote access to Trigon may take some time since you must be vetted by the Technical Group of the :bdg-danger:`DCCN`
+    * To use many :bdg-danger:`DCCN` services while outside of Trigon, you will need remote access through VPN.
