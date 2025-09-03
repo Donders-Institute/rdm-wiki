@@ -1,7 +1,6 @@
 HPC Cluster
 **************
 
-.. _TIQR: https://tiqr.org/download/
 .. _EduVPN: https://www.eduvpn.org/client-apps/
 .. _TigerVNC: https://sourceforge.net/projects/tigervnc/
 .. _PuTTY: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
@@ -11,14 +10,14 @@ HPC Cluster
 .. _software center: https://intranet.donders.ru.nl/index.php?id=softwarecenter&no_cache=1&sword_list%5B%5D=center
 .. _HPC wiki: https://hpc.dccn.nl/
 
-The :bdg-primary:`High Performance Computing Cluster` (or HPC Cluster) is essentially a large cluster of computers which we use here at the :bdg-danger:`DCCN` to do analyses. 
+The :bdg-primary:`High Performance Computing Cluster` (or :bdg-primary:`HPC Cluster`) is essentially a large cluster of computers which we use here at the :bdg-danger:`DCCN` to do analyses. 
 
 How to Access the HPC Cluster
 =======
 
 If you are using a DCCN-issued PC, the necessary softwares should already be downloaded, or can be downloaded from the `software center`_.
-If you haven't already done so, you will first need to download `EduVPN`_, `PuTTY`_, and `TigerVNC`_ on the computer you are using and `TIQR`_ on your phone. 
-You will also need to have received the Trigon Access token from the Technical Group at the :bdg-danger:`DCCN`.
+If you haven't already done so, you will first need to download `EduVPN`_, `PuTTY`_, and `TigerVNC`_ on the computer you are using. 
+You will also need VPN access to the Trigon Network if you are not using a hard-wired connection.
 
 1. Establish Access to Trigon either via hard-wired connection or `via EduVPN`_ (instructions begin under 'What do i need')
 2. Use PuTTY to `open a VNC Server`_
