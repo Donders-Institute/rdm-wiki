@@ -9,11 +9,11 @@ Defining Data Transfer Tools
 .. Warning::
 
       You may be wondering, *Why can't I just use a removable thumb drive or just email data to myself?* 
-      Using either of these approaches increases the likelihood of losing or misplacing data, breaches data security, and risks introducing malware into our systems. 
-      Besides, these tools are much more efficient when moving large amounts of data from place to place. 
+      Using either of these approaches increases the likelihood of losing or misplacing data, data breaches, and security risks (e.g. introducing malware into our systems). 
+      Besides, the tools introduced below are much more efficient when moving large amounts of data from place to place. 
       Therefore, these :bdg-dark:`Data Transfer Tools` are necessary for data security and are beneficial for user efficiency.
 
-      Using alternative methods to transfer data is only possible when there are no other alternatives available and should only be done in consultation with the DCCN support staff.
+      Using alternative methods to transfer data is only possible when there are no other alternatives available and should only be done in consultation with the DCCN data steward and DCCN IT helpdesk.
 
 Supported Tools
 ======
@@ -23,7 +23,6 @@ Each of these four :bdg-dark:`tools` have their advantages and disadvantages: :b
 
 There is no need to memorize the specifics of each of these :bdg-dark:`tools` - just know that there are multiple tools which have different forms and different function!
 
-
 .. _Cyberduck: http://cyberduck.io
 .. _Repocli: https://github.com/Donders-Institute/dr-tools/tree/main/cmd/repocli
 .. _Stager: https://stager.dccn.nl
@@ -32,12 +31,12 @@ There is no need to memorize the specifics of each of these :bdg-dark:`tools` - 
 Tools at a Glance
 ========
 
-:bdg-dark:`Cyberduck` and :bdg-dark:`Repocli` are both generic tools which support the transfer of data to-and-from all of our :bdg-primary:`Storage Facilities`. 
+:bdg-dark:`Cyberduck` and :bdg-dark:`Repocli` are both generic tools which support the transfer of data to-and-from all of our main :bdg-primary:`Storage Facilities`. 
 :bdg-dark:`Cyberduck` is easier to use while :bdg-dark:`Repocli` offers more scriptability.
 
 In contrast, :bdg-dark:`Stager` and :bdg-dark:`Uploader` are :bdg-danger:`DCCN` specific :bdg-dark:`tools` which serve very case-specific functions. 
-:bdg-dark:`Uploader` is used to simultaneously move raw data into the :bdg-primary:`Project Folder` and the :bdg-primary:`Data Acquisition Collection` 
-(this is an :bdg-primary:`RDR` collection that saves raw data, but more on this in a second) 
+:bdg-dark:`Uploader` is used to simultaneously move raw data from :bdg-primary:`Local storage` into the :bdg-primary:`Project Folder` and the :bdg-primary:`Data Acquisition Collection` 
+(the :bdg-primary:`RDR` collection that saves raw data) 
 which automatically saves these data in a standardized, easy-to-use format (this is called :bdg-info:`BIDS format`, more on this in a second as well).
 :bdg-dark:`Stager` moves data between the :bdg-primary:`Project Folder` and the :bdg-primary:`RDR`, enabling researchers to efficiently restore lost data (or use existing data) or archive data.
 
@@ -61,11 +60,6 @@ which automatically saves these data in a standardized, easy-to-use format (this
    +-------------------+-----------------+-----------------+--------------------------+--------------------------------+
    | *Key Feature*     | Ease-of-use     | Scriptable      | Efficient                | Data Organization              |
    +-------------------+-----------------+-----------------+--------------------------+--------------------------------+
-
-.. Note::
-
-      Other :bdg-dark:`tools` are also supported by the :bdg-danger:`DCCN` such as :bdg-dark:`FileZilla`, though this has been phased out to some degree in favor of :bdg-dark:`Cyberduck`. 
-      There are also :bdg-dark:`tools` which are supported by the :bdg-dark:`RU` such as :bdg-dark:`Teams` and :bdg-dark:`SURFfilesender`, though the :bdg-danger:`DCCN` does not utilize these so they are not discussed in depth here.
 
 .. dropdown:: Take Home Messages
 
