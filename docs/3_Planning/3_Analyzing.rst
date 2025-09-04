@@ -1,27 +1,32 @@
 Analyzing Data
 ********
 
-When dealing with any data (real or simulated) during the :bdg-info:`Planning Research` stage, you will most often want to store it in your :bdg-primary:`Home Drive`. 
+During the :bdg-info:`Planning Research` stage, a :gbd-primary:`Project folder` for storing research data is not yet available.
+Therefore, when dealing with any data (real or simulated) during the :bdg-info:`Planning Research` stage, you will most often want to store it in your :bdg-primary:`Home Drive`. 
 This is because, since the :bdg-primary:`Home Drive` is mounted on :bdg-primary:`High Performance Storage`, you will be able to work with the :bdg-primary:`HPC Cluster` which can speed up your analysis time. 
 Otherwise, you would use the :bdg-primary:`local storage` on your DCCN-issued PC. 
 
+.. Note::
+
+      It is essential that data generated in the :bdg-info:`Planning Research` stage that is eventually relevant for the project
+      is moved to the :gbd-primary:`Project folder` once this is created after PPM approval.
+
 Let's see how we would download existing data.
 
-Private Collection with Repocli
+Closed Access Collection with Repocli
 ==========
 
 .. _Radboud Data Repository: https://data.ru.nl/collections/di/dccn/DSC_3010000.05_519
 .. _read how to do that here: https://intranet.donders.ru.nl/index.php?id=vnc00&no_cache=1&sword_list%5B%5D=tigerVNC
 
 Once you have been added to a collection, you will receive an email to the email account you used when you signed up to the Radboud Data Repository stating that you have been added. 
-Workshop attendees will be added to our workshop's :bdg-primary:`DAC` which is :bdg-warning:`Closed Access`
-However, to make this tutorial accessible, non-workshop attendees can access our workshop's :bdg-warning:`Open Access` :bdg-primary:`DSC` in the `Radboud Data Repository`_ to do this exercise. 
-You should never download private collections onto your personal computer to ensure that - if the researchers made a mistake - there are no chances of data leakages. 
+Workshop attendees will be added to our workshop's :bdg-primary:`DAC` in the :bdg-primary:`RDR` which is :bdg-warning:`Closed Access`
+Others can access our workshop's :bdg-warning:`Open Access` :bdg-primary:`DSC` in the `Radboud Data Repository`_ to do this exercise. 
 We will practice downloading this DSC onto your Home Drive (replace groupname with your lab group's name and firlas with your DCCN username)
 
 1. Establish a Network Connection to Trigon (either eduVPN or hardwired)
 
-2. Find your Radboud Data Repository Password
+2. Log in on the Radboud Data Repostory
 
 * Go to https://data.ru.nl/ and click ``LOG IN``
 
@@ -29,13 +34,13 @@ We will practice downloading this DSC onto your Home Drive (replace groupname wi
     :figwidth: 50%
     :align: center
 
-* Click ``Login with your SURFcontext account`` 
+* Click ``Login with your SURFconext account`` 
 
 .. figure:: RDR_login2.png
     :figwidth: 50%
     :align: center
 
-* Login with the USEZ credentials that have been added to the our workshop's :bdg-primary:`DAC`
+* Login with the USEZ credentials of the account that has been added to the our workshop's :bdg-primary:`DAC`
 * After loggin in, click on the dropdown with your name, then click ``Data access credentials``
 
 .. figure:: RDR_access.png
