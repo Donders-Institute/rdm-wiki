@@ -9,14 +9,14 @@ Location on Local Storage
 ==========
 
 First, you need to know where you are allowed to store your stimulus materials on the :bdg-primary:`local storage` of the lab PCs.
-Your on all lab PCs, you should create a folder within the users folder in the :bdg-primary:`Data` drive (``D:\Users\``) that corresponds to your DCCN username (i.e. firlas). 
+On all lab PCs, you should create a folder within the users folder in the :bdg-primary:`Data` drive (``D:\Users\``) that corresponds to your DCCN username (i.e. firlas). 
 Then you can create a folder for your project within your user folder(``D:\Users\firlas\project\``). 
 The stimulus script and materials can now be transferred into this folder. 
 
 Transferring to the Project Folder with Cyberduck
 ==========
 
-Using thumb drives to transfer files onto lap PCs is strongly, strongly discouraged due to potential security risks. 
+Using thumb drives to transfer files onto lab PCs is not allowed due to potential security risks. 
 Therefore, you will have to use data transfer :bdg-dark:`Tools` to achieve this: let's go through an example using Cyberduck.
 
 .. _this link: https://github.com/Donders-Institute/rdm-wiki/blob/main/RDM_Workshop_Materials.zip
