@@ -4,7 +4,7 @@ Checking Data Integrity
 Along with ensuring that we have all data files - and restoring the ones which we do not have - it is also useful to check the integrity of our data. 
 In the :bdg-warning:`file transfer process` it is possible that files become corrupted: that they do not contain the complete and accurate data. 
 
-At the :bdg-danger:`DCCN`, we it is typically recommended to use :bdg-dark:`Uploader` and the automatic upload protocol for the MEG and MRI. 
+At the :bdg-danger:`DCCN`, it is typically recommended to use :bdg-dark:`Uploader` and the automatic upload protocol for the MEG and MRI. 
 These processes transfer directly to the :bdg-primary:`RDR` and :bdg-primary:`Project Folder` - however, after this process you may unintentionally change some files. 
 If you use another tool, such as :bdg-dark:`Cyberduck`, :bdg-dark:`FileZilla`, or something else you may even unintentionally upload the wrong file. 
 Thus, we will want to ensure that we use the correct, uncorrupted files in our analyses: we check the integrity of our data. 
