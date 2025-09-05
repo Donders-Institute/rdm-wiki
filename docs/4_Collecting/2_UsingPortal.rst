@@ -38,4 +38,4 @@ In addition, adopting the subject-session numbers facilitates pseudonymization o
 .. Warning::
 
     A key file linking the subject numbers to administrative information of participants (identifiable information) should always be stored separate from research data.
-    These key files must be kept in a secure location that can only be accessed by the responsible researcher on the project.
+    These key files must be kept in a secure location that can only be accessed by project members who need to use it.
