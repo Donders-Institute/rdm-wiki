@@ -2,8 +2,8 @@ Archiving Data
 **********
 
 :bdg-secondary:`Archiving Data` is the fourth and final stage in the Research Life Cycle. 
-During this stage, you will :bdg-warning:`inactivate` your project, making the :bdg-primary:`RDR Collections` finalized and deleting data. 
-In this section, we'll inform you of the relevant :bdg-success:`RDM` practices in the :bdg-danger:`DCCN` when you are performing your analyses.
+During this stage, you will finalize the (closed or open) archiving of :bdg-primary:`RDR Collections`, delete data from in-progress storage locations, and :bdg-warning:`inactivate` your project.
+In this section, we'll inform you of the relevant :bdg-success:`RDM` practices in the :bdg-danger:`DCCN` when you are archiving your data.
 
 .. toctree::
    :maxdepth: 1
