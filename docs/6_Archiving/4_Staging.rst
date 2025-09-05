@@ -14,11 +14,8 @@ Using Stager to Transfer files
 2. Login to Stager
 
 * Go to https://stager.dccn.nl
-* In the Project Storage side, enter your DCCN username (for Firstname Lastname this is ``firlas@dccn.nl``) and password, and push ``Login``
-* In the Radboud Data Repository side, enter your RU username (``u1234567@ru.nl``) and your Radoud Data Repository password, and push ``Login`` 
-
-* Input your DCCN username in the following format ``firlas@dccn.nl`` and your DCCN password in the fields under the ``Project Storage`` section
-* Input your RU username in the following format ``u1234567@ru.nl`` and your Radboud Data Repository password in the fields under the ``Radboud Data Repository`` section (revist `this page`_ if you don't remember how to get your password)
+* After login, the folders in the DCCN Project Storage are displayed on the left side of the screen.
+* Input your RDR data access credentials in the fields under the ``Radboud Data Repository`` section (revist `this page`_ if you don't remember where to find these)
 
 3. Select the Directories to Upload 
 
