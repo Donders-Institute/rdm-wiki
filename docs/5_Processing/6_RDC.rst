@@ -2,17 +2,17 @@ The Purposes of Research Documentation Collections
 **********
 
 You may be wondering, if :bdg-primary:`DACs` are for backing up raw data and :bdg-primary:`DSCs` are for sharing results, what do I need an :bdg-primary:`RDC` for?
-Well, :bdg-primary:`RDCs` are intended to house the documentation of the analysis process as well as any analyses that you conducted which are not a part of the final manuscript (and therefore not in the :bdg-primary:`DSC` ).
-Thus, :bdg-primary:`RDCs` should contain (a) in-progress analysis files, (b) in-progress results, (c) documentation files, and (d) in-progress manuscripts.
+Well, :bdg-primary:`RDCs` are intended to internally archive documentation of the research process as well as intermediate data representations that are not directly relevant for the published manuscript (and therefore not made publicly available through the :bdg-primary:`DSC`).
+Thus, :bdg-primary:`RDCs` may contain (a) intermediate analysis files, (b) in-progress results, (c) documentation files, and (d) preliminary manuscript versions.
 
 Documentation Files
 =========
 
-Beyond the unused analyses, :bdg-primary:`RDCs` should contain information about:
+In addition to intermediate and processed data, :bdg-primary:`RDCs` should ideally contain information about:
 
-1. How these may have changed over time
-2. What you learned through changing these over time
-3. Why you each version is the way that it is
+1. How analyses may have changed over time
+2. What you learned through changing analyses over time
+3. Why each version is the way that it is
 
 Therefore, each time you tinker with your script to try something new out, you should save the version of that script as something new and add to your logs about:
 
@@ -32,7 +32,7 @@ Documentation files should be put in a folder called ``docs``, which is in your 
 Manuscript Files
 ======
 
-:bdg-primary:`RDCs` can also be used to house the various versions of your manuscript to ensure that these are recorded and traceable after you finish the project. 
+:bdg-primary:`RDCs` can also be used to house the various versions of your manuscript to ensure that these are recorded and traceable after you finish the project. Note that final published versions of manuscripts should not be archived in the RDR, because these are usually copyrighted by a journal.
 
 Using Stager to Upload Documentation
 ============
