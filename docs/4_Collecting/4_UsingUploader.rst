@@ -1,9 +1,10 @@
 Using Uploader
 ********
+.. _required steps: https://intranet.donders.ru.nl/index.php?id=archiving-autotransfer
 
-For your MRI and MEG data, files will be automatically transferred to both your :bdg-primary:`Project Folder` and its :bdg-primary:`Data Acquisition Collection`. 
+For your MRI and MEG data, files will be automatically transferred to both your :bdg-primary:`Project Folder` and :bdg-primary:`Data Acquisition Collection` in the :bdg-primary:`Radboud Data Repository` (provided that the `required steps`_ to initiate the data acquisition session are followed).
 However, for all other modalities, you will have to upload your data to these locations manually: the best way to do this is with :bdg-dark:`Uploader`. 
-Just like the automatic data transfer protocol, :bdg-dark:`Uploader` saves data in :bdg-info:`BIDS format`. 
+Just like the automatic data transfer protocol, :bdg-dark:`Uploader` facilitates storing data in :bdg-info:`BIDS format`. 
 
 In order to demonstrate how to use :bdg-dark:`Uploader`, let's do an example that mimics what you will have to do in the laboratory after your participant has completed the experiment.
 
