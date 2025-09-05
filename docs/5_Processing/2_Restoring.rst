@@ -33,8 +33,8 @@ Open this folder paste ``/project/3010000.05/raw/`` into it.
 .. _this page: https://rdm.dccn.nl/docs/3_Planning/3_Analyzing.html#private-collection-with-repocli
 .. _read how to do that here: https://intranet.donders.ru.nl/index.php?id=vnc00&no_cache=1&sword_list%5B%5D=tigerVNC
 
-* Input your DCCN username in the following format ``firlas@dccn.nl`` and your DCCN password in the fields under the ``Project Storage`` section
-* Input your RU username in the following format ``u1234567@ru.nl`` and your Radboud Data Repository password in the fields under the ``Radboud Data Repository`` section (revist `this page`_ if you don't remember how to do this)
+* After login, the folders in the DCCN Project Storage are displayed on the left side of the screen.
+* Input your RDR data access credentials in the fields under the ``Radboud Data Repository`` section (revist `this page`_ if you don't remember where to find these)
 
 5. Select the Radboud Data Repository directories to download
 
@@ -70,8 +70,8 @@ Practice Restoring Data with Repocli
 * Open the terminal application
 * Type ``repocli shell`` and then push ``enter``
 * Type ``config`` and then push ``enter``
-* Enter your RU username (u1234567@ru.nl) and then push ``enter``
-* Enter the RDR password you retreived in step 2, then push ``enter``
+* Enter the username of the RDR data access credentials (u1234567@ru.nl) and then push ``enter``
+* Enter the password of the RDR data access credentials you retreived in step 2, then push ``enter``
 
 5. Download the Data Sharing Collection to Your Home Directory
 
