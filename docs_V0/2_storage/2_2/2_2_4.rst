@@ -1,8 +1,0 @@
-Scientific Datasets
-***************
-
-.. _`Scientific datasets`: https://intranet.donders.ru.nl/index.php?id=5933
-
-`Scientific datasets` are large research datasets which are either managed by a Principal Investigator or the DCCN Data Steward. 
-The reason that the DCCN offers this service is because these datasets are very big, very costly, and are cutting-edge research projects. 
-Thus, since many researchers at the DCCN have interest in these project datasets, it is far more time-efficient to have these datasets already saved on site.

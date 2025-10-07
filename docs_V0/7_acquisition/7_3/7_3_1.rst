@@ -1,4 +1,0 @@
-What is CasterEDC and why do I have to use it?
-====================================
-
-{}

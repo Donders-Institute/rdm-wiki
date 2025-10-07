@@ -1,4 +1,0 @@
-How to Publish to the Donders Public Repository
-**********
-
-{}
