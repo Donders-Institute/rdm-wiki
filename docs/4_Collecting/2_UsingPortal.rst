@@ -14,7 +14,7 @@ Managing Your Project
 .. _command-line tools: https://hpc.dccn.nl/docs/project_storage/access_management.html
 
 .. Note::
-    Data-access roles modified in the :bdg-warning:`DCCN Portal` will not be applied recursivly on existing files/directories within the :bdg-primary:`Project Folder`. For applying the changes to existing files/directories, use the command-line tools on the :bdg-primary:`HPC Cluster`.
+    Data-access roles modified in the :bdg-warning:`DCCN Portal` will not be applied recursivly on existing files/directories within the :bdg-primary:`Project Folder`. For applying the changes to existing files/directories, use the `command-line tools`_ on the :bdg-primary:`HPC Cluster`.
 
 Making a Calendar Booking
 ========

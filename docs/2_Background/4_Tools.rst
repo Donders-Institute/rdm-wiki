@@ -56,7 +56,7 @@ which automatically saves these data in a standardized, easy-to-use format (this
    +-------------------+-----------------+-----------------+--------------------------+--------------------------------+
    | *OS Support*      | | Windows       | | Windows       | | Windows                | | Windows                      |
    |                   | | MacOSX        | | MacOSX        | | MacOSX                 | | MacOSX                       |
-   |                   |                 | | Linux         | | Linux                  | | Linux                        |
+   |                   | | Linux         | | Linux         | | Linux                  | | Linux                        |
    +-------------------+-----------------+-----------------+--------------------------+--------------------------------+
    | *Key Feature*     | Ease-of-use     | Scriptable      | Efficient                | Data Organization              |
    +-------------------+-----------------+-----------------+--------------------------+--------------------------------+

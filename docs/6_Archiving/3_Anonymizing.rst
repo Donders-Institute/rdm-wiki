@@ -17,7 +17,7 @@ Some common algorithms used to do this include `Quickshear`_, `MRI_Deface`_, `FS
 
 here are some other important ways that you can anonymize your data:
 
-* :bdg-warning:`Pseudonymization Key` deletion - eleting the pseudonymization key removed the link between research data and personal administrative data.
+* :bdg-warning:`Pseudonymization Key` deletion - deleting the pseudonymization key removed the link between research data and personal administrative data.
 * :bdg-warning:`Data Minimization` - not :bdg-warning:`collecting`, :bdg-warning:`archiving`, or :bdg-warning:`publishing` more personal data than necessary to achieve research goals or support research results
 * :bdg-warning:`Data generalization` - reduces the level of detail in the data for variables that (in combination with others) are potentially identifiable, for instance by changing date of birth to birth year
 

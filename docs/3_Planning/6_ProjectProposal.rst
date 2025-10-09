@@ -1,19 +1,11 @@
 Project Proposal Procedure
 **********
 
-.. _blanket approval: https://intranet.donders.ru.nl/index.php?id=6771
 .. _presentation: https://intranet.donders.ru.nl/index.php?id=research-ppm&no_cache=1&sword_list%5B%5D=proposal
 .. _project proposal form: https://project-proposal.dccn.nl/
 
 At the :bdg-danger:`DCCN`, we have a very streamlined project approval process for most studies. 
 From the moment you have solidified your project plans, the next step is to create a presentation for the :bdg-warning:`Project Proposal Meeting` (PPM). 
-
-Blanket Approval
-==========
-
-For studies that fall under *blanket approval*, this process will provide ethical approval, budget, laboratory access, and quota for data. 
-For studies that do not, you have to get bespoke ethical approval, but everything else is granted by completing this procedure. 
-Visit the intranet to see if you are eligible for `blanket approval`_. 
 
 Project Proposal Meeting
 =======

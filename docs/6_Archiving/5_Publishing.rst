@@ -2,33 +2,29 @@ Publishing Your DSC
 ********
 
 .. _how to publish your: https://data.ru.nl/doc/help/helppages/user-manual/archive-publish/publish-dsc.html
+.. _read how to check data integrity here: https://rdm.dccn.nl/docs/5_Processing/3_Integrity.html
+.. _various access roles here: https://rdr.tutorials.ru.nl/a/1945331-access-levels-and-licences
+.. _various collection states here: https://rdr.tutorials.ru.nl/a/1944249-publishing-a-dsc
 
 Once you are sure that you have completed :bdg-secondary:`Collecting Data` and :bdg-secondary:`Processing Data`, you should :bdg-warning:`publish` the project's :bdg-primary:`DSC`. 
 The purpose of a :bdg-primary:`DSC` is to supports the final results that have made it to a publication, so you should :bdg-warning:`publish`` data when the results of the project are final - no sooner and no later. 
 This is because :bdg-warning:`publishing` these collections means that no more data will be added: this process is final, meaning no further changes can be made. 
-Read about `how to publish your`_ :bdg-primary:`DSC` if you haven't already done so before.
+Read about `how to publish your`_ :bdg-primary:`DSC` if you haven't already done so before. 
+
+Prior to archiving data, it is **crucial** to first :bdg-warning:`check data integrity`. You can `read how to check data integrity here`_.
 
 Access
 =====
 
 The purpose of saving data in a :bdg-primary:`DSC` is to make the data available for sharing. 
-However, you will have the option to determining the :bdg-warning:`access` restrictions on your :bdg-primary:`DSC` between 3 options: 
-
-1. :bdg-info:`Open Access` - data is accessible to anyone, without credentials
-2. :bdg-info:`Open Access for Registered Users` - data is accessible to anyone who (a) has either an ORCID or SURFcontext account, (b) has created an RDR account using their ORCID or SURFcontext credentials, and (c) agrees to the :bdg-warning:`access procedure` as set out by the collection manager. 
-3. :bdg-info:`Restricted Access` - collection is viewable to anyone who (a) has either an ORCID or SURFcontext account, (b) has created an RDR account using their ORCID or SURFcontext credentials, and (c) is granted access by the manager of the collection after completing the :bdg-warning:`access procedure` as set out by the collection manager. 
+However, you will have the option to determining the :bdg-warning:`access` restrictions on your :bdg-primary:`DSC`. 
+Read about `various access roles here`_.
 
 State
 =====
 
-At various points in the :bdg-secondary:`Archiving Data` stage, your :bdg-primary:`DSC` can be in different :bdg-warning:`states`:
-
-1. :bdg-info:`Editable` - data can be freely uploaded into the :bdg-primary:`DSC` and can be deleted as well
-2. :bdg-info:`Internal Review` - the collection can be viewed by those with access to affirm its completeness and data can no longer be uploaded though managers can freely change the state back to :bdg-info:`Editable`
-3. :bdg-info:`FAIR Review` - within 5 business days, an :bdg-success:`RDM` expert will assess the :bdg-info:`FAIR`-ness of your :bdg-primary:`DSC` and will set your collection either to :bdg-info:`Editable` (if changes are needed) or :bdg-info:`External Review` (if changes are not needed)
-4. :bdg-info:`External Review` - the collection can be shared via a URL link to Editors and the state can be freely changed back to :bdg-info:`Internal Review`
-5. :bdg-info:`Published` - the :bdg-warning:`state` of the :bdg-primary:`DSC` can not be changed and therefore the contents of the :bdg-primary:`DSC` cannot be changed
-
+At different points in the :bdg-secondary:`Archiving Data` stage, your :bdg-primary:`DSC` can be in different :bdg-warning:`states`:
+Read about `various collection states here`_.
 In all :bdg-warning:`states` it is possible to download from the :bdg-primary:`DSC`
 
 .. Note::

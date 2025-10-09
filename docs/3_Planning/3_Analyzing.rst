@@ -11,7 +11,7 @@ Otherwise, you would use the :bdg-primary:`local storage` on your DCCN-issued PC
       It is essential that data generated in the :bdg-info:`Planning Research` stage that is eventually relevant for the project
       is moved to the :gbd-primary:`Project folder` once this is created after PPM approval.
 
-Let's see how we would download existing data.
+Let's see how we would download existing data. Below, we will show three examples of downloading existing data from the :bdg-primary:`RDR` or an :bdg-primary:`External Repository`.
 
 Closed Access Collection with Repocli
 ==========

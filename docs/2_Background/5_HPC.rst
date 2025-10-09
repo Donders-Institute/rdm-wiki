@@ -23,6 +23,12 @@ You will also need VPN access to the Trigon Network if you are not using a hard-
 2. Use PuTTY to `open a VNC Server`_
 3. Use PuTTY and TigerVNC to `open a remote desktop`_
 
+.. Note::
+
+    You can also access the :bdg-primary:`HPC Cluster` by simply using the command line without the remote desktop. 
+    Namely, this is possible via a terminal emulator such as PuTTY, or any other terminal app. 
+    For the sake of brevity we will not demonstrate how to do this. 
+
 Key Benefits of Using the HPC Cluster
 ==========
 

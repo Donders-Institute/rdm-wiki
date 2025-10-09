@@ -9,8 +9,8 @@ and some other relevant information.
 .. toctree::
    :maxdepth: 1
 
-   Data Transfer Tools <2_Tools.rst>
+   Trigon Access <2_Trigon.rst>
    Data Storage Facilities <3_Storage.rst>
-   Trigon Access <4_Trigon.rst>
+   Data Transfer Tools <4_Tools.rst>
    HPC Cluster <5_HPC.rst>
    BIDS Format <6_BIDS.rst>

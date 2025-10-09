@@ -14,5 +14,8 @@ Unlike many other research centers, at the :bdg-danger:`DCCN` you will find that
 However, proper preparation during the :bdg-secondary:`Planning Research` stage is still imperative, as it helps to prevent delays in the project's timeeline.  
 We will talk specifically about:
 
-1. The Project Proposal Procedure
-2. Castor EDC
+1. Analyzing Existing Data Sets
+2. Transferring Stimulus Scripts to Lab PCs
+3. Running Pilots
+4. The Project Proposal Procedure
+5. Castor EDC

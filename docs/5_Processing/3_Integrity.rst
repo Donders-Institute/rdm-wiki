@@ -6,7 +6,7 @@ In the :bdg-warning:`file transfer process` it is possible that files become cor
 
 At the :bdg-danger:`DCCN`, it is typically recommended to use :bdg-dark:`Uploader` and the automatic upload protocol for the MEG and MRI. 
 These processes transfer directly to the :bdg-primary:`RDR` and :bdg-primary:`Project Folder` - however, after this process you may unintentionally change some files. 
-If you use another tool, such as :bdg-dark:`Cyberduck`, :bdg-dark:`FileZilla`, or something else you may even unintentionally upload the wrong file. 
+If you use another tool, such as :bdg-dark:`Cyberduck` or something else, you may even unintentionally upload the wrong file. 
 Thus, we will want to ensure that we use the correct, uncorrupted files in our analyses: we check the integrity of our data. 
 To do this, we will use a :bdg-warning:`hash algorithm`.
 
@@ -99,7 +99,8 @@ Open the terminal emulator and run the following code
 
         find "/project/3010000.05/XXXXXXX.XX/raw/$sub_dir" -type f
 
-.. dropdown:: Hint 2: Check the SHA-256 sum of a file in the :bdg-primary:`DAC`
+.. dropdown:: Hint 2: Check the SHA-256 sum of a file in the :bdg-primary:`DAC` 
+    .. ### need to fix with manifest file
 
     We cannot compute the SHA-256 (or any other hash/digest) for a file in the :bdg-primary:`RDR`. 
     Thus, we will need to get all of the files in each :bdg-primary:`RDR` subject folder, so that we can do this comparison. 
@@ -108,7 +109,8 @@ Open the terminal emulator and run the following code
 
         repocli get "dccn/DAC_3010000.05_873/raw/"$sub_dir "/project/3010000.05/XXXXXXX.XX/temp/
 
-.. dropdown:: Answer
+.. dropdown:: Answer 
+    .. ### need to fix with manifest file
 
     ::
 
