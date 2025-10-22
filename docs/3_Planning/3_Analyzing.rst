@@ -1,7 +1,7 @@
 Analyzing Data
 ********
 
-During the :bdg-info:`Planning Research` stage, a :gbd-primary:`Project folder` for storing research data is not yet available.
+During the :bdg-info:`Planning Research` stage, a :bdg-primary:`Project folder` for storing research data is not yet available.
 Therefore, when dealing with any data (real or simulated) during the :bdg-info:`Planning Research` stage, you will most often want to store it in your :bdg-primary:`Home Drive`. 
 This is because, since the :bdg-primary:`Home Drive` is mounted on :bdg-primary:`High Performance Storage`, you will be able to work with the :bdg-primary:`HPC Cluster` which can speed up your analysis time. 
 Otherwise, you would use the :bdg-primary:`local storage` on your DCCN-issued PC. 
@@ -9,7 +9,7 @@ Otherwise, you would use the :bdg-primary:`local storage` on your DCCN-issued PC
 .. Note::
 
       It is essential that data generated in the :bdg-info:`Planning Research` stage that is eventually relevant for the project
-      is moved to the :gbd-primary:`Project folder` once this is created after PPM approval.
+      is moved to the :bdg-primary:`Project folder` once this is created after PPM approval.
 
 Let's see how we would download existing data. Below, we will show three examples of downloading existing data from the :bdg-primary:`RDR` or an :bdg-primary:`External Repository`.
 

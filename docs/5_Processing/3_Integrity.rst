@@ -89,7 +89,7 @@ Open the terminal emulator and run the following code
     chmod +x deleteAndCorrupt.sh
     ./deleteAndCorrupt.sh /project/3010000.05/XXXXXXX.XX/raw/
 
-3. Create ``/project/3010000.05/XXXXXXX.XX/scripts/restoreCorrupted.sh`` 
+3. Create ``/project/3010000.05/XXXXXXX.XX/scripts/checkIntegrity.sh`` 
 
 4. Write a script which restores the corrupted files recursively
 
@@ -100,17 +100,18 @@ Open the terminal emulator and run the following code
         find "/project/3010000.05/XXXXXXX.XX/raw/$sub_dir" -type f
 
 .. dropdown:: Hint 2: Check the SHA-256 sum of a file in the :bdg-primary:`DAC` 
-    .. ### need to fix with manifest file
 
     We cannot compute the SHA-256 (or any other hash/digest) for a file in the :bdg-primary:`RDR`. 
-    Thus, we will need to get all of the files in each :bdg-primary:`RDR` subject folder, so that we can do this comparison. 
-
-    ::
-
-        repocli get "dccn/DAC_3010000.05_873/raw/"$sub_dir "/project/3010000.05/XXXXXXX.XX/temp/
+    Luckily, you can download a manifest file from the :bdg-primary:`RDR` which contains the SHA-256 for **each** file within a collection. 
+    
+    1. Log in to https://data.ru.nl
+    2. Go to ``My Collections``
+    3. Open ``di.dccn.DAC_3010000.05_873``
+    4. Navigate to the ``Manifest`` tab
+    5. Click ``Generate manifest file``
+    6. Move the ``MANIFEST.txt`` file to ``/project/3010000.05/XXXXXXX.XX/docs``
 
 .. dropdown:: Answer 
-    .. ### need to fix with manifest file
 
     ::
 
@@ -120,24 +121,29 @@ Open the terminal emulator and run the following code
             exit 1
         fi
         BASE_PATH="$1"
+        REPO_PATH="$2"
         RAW_PATH="$BASE_PATH/raw"
-        TEMP_PATH="$BASE_PATH/temp"
-        mkdir -p "$TEMP_PATH"
+        MANIFEST="$BASE_PATH/docs/MANIFEST.txt"
 
-        for sub_dir in $(repocli ls dccn/DAC_3010000.05_873/raw/); do
-            if [ ! -d "$RAW_PATH/$sub_dir" ]; then
-                repocli get "dccn/DAC_3010000.05_873/raw/$sub_dir" "$RAW_PATH/$sub_dir"
-            fi
-            repocli get "dccn/DAC_3010000.05_873/raw/$sub_dir" "$TEMP_PATH/"
-            tempfile="$TEMP_PATH/ses-01/beh/MadeUpData.csv"
-            for file in $(find "$RAW_PATH/$sub_dir" -type f); do
-                if [ "$(sha256sum "$file" | awk '{print $1}')" != "$(sha256sum "$tempfile" | awk '{print $1}')" ]; then
-                echo "Corruption detected in: $file"
-                rm -f "$file"
-                cp "$tempfile" "$file"
-                echo "Replaced with clean version from temp."
-            fi
+        while read -r sha path; do
 
-            done
-        done
-        rm -rf "$TEMP_PATH"
+            local_path="$RAW_PATH/${path#raw/}"  
+            dir_path=$(dirname "$local_path")
+
+            if [ ! -f "$local_path" ]; then
+                repocli get "$REPO_PATH/$path" "$dir_path"
+                continue
+            fi
+            local_sha=$(sha256sum "$local_path" | awk '{print $1}')
+            if [ "$sha" != "$local_sha" ]; then
+                repocli get "$REPO_PATH/$path" "$dir_path"
+            fi
+        done < "$MANIFEST"
+
+Now save this file and run it in the terminal by typing the following:
+
+::
+
+    cd /project/3010000.05/XXXXXXX.XX/scripts
+    chmod +x checkIntegrity.sh
+    ./checkIntegrity.sh "/project/3010000.05/XXXXXXX.XX" "dccn/DAC_3010000.05_873"

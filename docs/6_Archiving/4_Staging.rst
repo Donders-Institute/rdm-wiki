@@ -67,3 +67,39 @@ Using Repocli to Transfer files
 * Type ``put /project/3010000.05/XXXXXXX.XX/data/ dccn/DAC_3010000.05_873/XXXXXXX.XX/data/`` 
 * Type ``put /project/3010000.05/XXXXXXX.XX/materials/ dccn/DAC_3010000.05_873/XXXXXXX.XX/materials/`` 
 * Type ``put /project/3010000.05/XXXXXXX.XX/scripts/ dccn/DAC_3010000.05_873/XXXXXXX.XX/scripts/`` 
+
+Advanced Example: Scripting Uploads of Select files
+=============
+
+If your analyses involve T1 images, journals may request that you share this data in raw form. 
+However, this data is identifiable which is why we defaced the images. 
+Thus, we need to be sure that we **only** upload the defaced images. 
+The most efficient way to do this is with repocli, by scripting the uploads.
+Create a file in ``/project/3010000.05/XXXXXXX.XX/scripts/`` called ``stageT1.sh``. 
+Open this file and write a script which stages all T1 images with repocli.
+
+.. dropdown:: Answer
+
+    :: 
+
+        #!/bin/bash
+
+        RAW_PATH="$1"
+        REPO_PATH="$2"
+
+        for subject in "$RAW_PATH"/sub-*; do
+            find "$subject/ses-mri01" -type f -path "*/mprage*/*.nii" -name "defaced*.nii" | while read -r nii_file; do
+                rel_path="${nii_file#$RAW_PATH/}"
+                remote_path="$REPO_PATH/$rel_path"
+
+                repocli put "$nii_file" "$remote_path"
+            done
+        done
+
+Now save this file and run it in the terminal by typing the following:
+
+::
+
+    cd /project/3010000.05/XXXXXXX.XX/scripts
+    chmod +x stageT1.sh
+    ./stageT1.sh "/project/3010000.05/XXXXXXX.XX" "dccn/DAC_3010000.05_873"
