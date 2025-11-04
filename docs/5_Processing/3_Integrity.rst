@@ -93,11 +93,20 @@ Open the terminal emulator and run the following code
 
 4. Write a script which restores the corrupted files recursively
 
-.. dropdown:: Hint 1: Recursively Enumerate Files in a Subject's Folder
+.. dropdown:: Hint 1: Find the Folder Each File Should Be In
 
     ::
 
-        find "/project/3010000.05/XXXXXXX.XX/raw/$sub_dir" -type f
+        #!/bin/bash
+        BASE_PATH="/project/3010000.05/XXXXXXX.XX"
+        MANIFEST="$BASE_PATH/docs/MANIFEST.txt"
+
+        while read -r sha path; do
+
+            local_path="$BASE_PATH/$path"
+            dir_path=$(dirname "$local_path")
+
+        done < "$MANIFEST"
 
 .. dropdown:: Hint 2: Check the SHA-256 sum of a file in the :bdg-primary:`DAC` 
 
@@ -122,22 +131,37 @@ Open the terminal emulator and run the following code
         fi
         BASE_PATH="$1"
         REPO_PATH="$2"
-        RAW_PATH="$BASE_PATH/raw"
         MANIFEST="$BASE_PATH/docs/MANIFEST.txt"
 
         while read -r sha path; do
 
-            local_path="$RAW_PATH/${path#raw/}"  
+            local_path="$BASE_PATH/$path"
             dir_path=$(dirname "$local_path")
 
-            if [ ! -f "$local_path" ]; then
-                repocli get "$REPO_PATH/$path" "$dir_path"
+            if [[ "$path" == *old* ]]; then
                 continue
+            else
+                echo "$dir_path/"
             fi
-            local_sha=$(sha256sum "$local_path" | awk '{print $1}')
-            if [ "$sha" != "$local_sha" ]; then
+
+            if [ ! -d "$dir_path" ]; then
+                mkdir -p "$dir_path/"
+                echo "Made folder $dir_path"
+                continue
+                
+            fi
+
+            if [ -d "$local_path" ]; then
+                local_sha=$(sha256sum "$local_path" | awk '{print $1}')
+                if [ "$sha" != "$local_sha" ]; then
+                    repocli get "$REPO_PATH/$path" "$dir_path"
+                    echo "Replaced corrupted file $dir_path"
+                fi
+            else
                 repocli get "$REPO_PATH/$path" "$dir_path"
+                echo "Restored repository file $REPO_PATH/$path to $dir_path"		
             fi
+
         done < "$MANIFEST"
 
 Now save this file and run it in the terminal by typing the following:

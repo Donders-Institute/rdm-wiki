@@ -21,7 +21,7 @@ Using Stager to Transfer files
 
 * On the Project Storage side, double click ``/3010000.05/`` 
 * On the Project Storage side, double click ``/XXXXXXX.XX/`` 
-* On the Project Storage side, check the boxes next to the ``data``, ``results``, ``scripts`` and ``materials`` directories: these are all of the folders we want to share to our :bdg-primary:`DSC`
+* On the Project Storage side, check the boxes next to the ``results``, ``scripts`` and ``materials`` directories: these are all of the folders we want to share to our :bdg-primary:`DSC`
 
 .. Warning::
 
@@ -64,7 +64,6 @@ Using Repocli to Transfer files
 5. Upload to the Data Sharing Collection 
 
 * Type ``put /project/3010000.05/XXXXXXX.XX/results/ dccn/DAC_3010000.05_873/XXXXXXX.XX/results/`` 
-* Type ``put /project/3010000.05/XXXXXXX.XX/data/ dccn/DAC_3010000.05_873/XXXXXXX.XX/data/`` 
 * Type ``put /project/3010000.05/XXXXXXX.XX/materials/ dccn/DAC_3010000.05_873/XXXXXXX.XX/materials/`` 
 * Type ``put /project/3010000.05/XXXXXXX.XX/scripts/ dccn/DAC_3010000.05_873/XXXXXXX.XX/scripts/`` 
 
@@ -88,7 +87,7 @@ Open this file and write a script which stages all T1 images with repocli.
         REPO_PATH="$2"
 
         for subject in "$RAW_PATH"/sub-*; do
-            find "$subject/ses-mri01" -type f -path "*/mprage*/*.nii" -name "defaced*.nii" | while read -r nii_file; do
+            find "$subject/ses-mri01/" -type f -path "*mprage*/defaced*.nii" | while read -r nii_file; do
                 rel_path="${nii_file#$RAW_PATH/}"
                 remote_path="$REPO_PATH/$rel_path"
 
@@ -102,4 +101,4 @@ Now save this file and run it in the terminal by typing the following:
 
     cd /project/3010000.05/XXXXXXX.XX/scripts
     chmod +x stageT1.sh
-    ./stageT1.sh "/project/3010000.05/XXXXXXX.XX" "dccn/DAC_3010000.05_873"
+    ./stageT1.sh "/project/3010000.05/XXXXXXX.XX/raw" "dccn/DAC_3010000.05_873/raw"

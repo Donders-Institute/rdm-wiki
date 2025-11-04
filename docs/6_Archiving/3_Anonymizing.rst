@@ -71,7 +71,7 @@ Open this file and write a script which defaces all T1 images.
         raw ="/project/3010000.05/XXXXXXX.XX/raw"
 
         for subject in "$raw"/sub-*; do
-            find "$subject/ses-mri01" -type f -path "*/mprage*/*.nii" | while read -r nii_file; do
+            find "$subject/ses-mri01" -type f -path "/*mprage*/*.nii" | while read -r nii_file; do
                 if [[ $(basename "$nii_file") == defaced_* ]]; then
                     continue
                 fi
@@ -84,3 +84,11 @@ Open this file and write a script which defaces all T1 images.
                 gunzip -f "${output}.gz"
             done
         done
+
+Now save this file and run it in the terminal by typing the following:
+
+::
+
+    cd /project/3010000.05/XXXXXXX.XX/scripts
+    chmod +x defaceAllT1.sh
+    ./defaceAllT1.sh "/project/3010000.05/XXXXXXX.XX/raw/"
