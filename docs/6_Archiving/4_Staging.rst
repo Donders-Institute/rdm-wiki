@@ -102,3 +102,62 @@ Now save this file and run it in the terminal by typing the following:
     cd /project/3010000.05/XXXXXXX.XX/scripts
     chmod +x stageT1.sh
     ./stageT1.sh "/project/3010000.05/XXXXXXX.XX/raw" "dccn/DAC_3010000.05_873/raw"
+
+Advanced Example: Ensure Data Integrity
+===========
+
+You already know how to compare the SHA-256 sum of one file to another and to use this to automate data restoration. 
+Let's make sure that all of the files we just uploaded are correct and, if not, restore the data. 
+Create and open ``/project/3010000.05/XXXXXXX.XX/scripts/ensureIntegrity.sh``.
+
+.. dropdown:: Answer
+
+    :: 
+
+        #!/bin/bash
+        if [ -z "$1" ]; then
+            echo "Usage: $0 /project/3010000.05/XXXXXXX.XX"
+            exit 1
+        fi
+        BASE_PATH="$1"
+        REPO_PATH="$2"
+        MANIFEST="$BASE_PATH/docs/MANIFEST.txt"
+
+        while read -r sha path; do
+
+            local_path="$BASE_PATH/$path"
+            dir_path=$(dirname "$local_path")
+
+            if [[ "$path" == *old* ]]; then
+                continue
+            else
+                echo "$dir_path/"
+            fi
+
+            if [ ! -d "$dir_path" ]; then
+                mkdir -p "$dir_path/"
+                echo "Made folder $dir_path"
+                continue
+                
+            fi
+
+            if [ -d "$dir_path" ]; then
+                local_sha=$(sha256sum "$local_path" | awk '{print $1}')
+                if [ "$sha" != "$local_sha" ]; then
+                    repocli get "$REPO_PATH/$path" "$dir_path"
+                    echo "Replaced corrupted file $dir_path"
+                fi
+            else
+                repocli get "$REPO_PATH/$path" "$dir_path"
+                echo "Restored repository file $REPO_PATH/$path to $dir_path"		
+            fi
+
+        done < "$MANIFEST"
+
+Now save this file and run it in the terminal by typing the following:
+
+::
+
+    cd /project/3010000.05/XXXXXXX.XX/scripts
+    chmod +x ensureIntegrity.sh
+    ./ensureIntegrity.sh "/project/3010000.05" "dccn/DSC_3010000.05_519"

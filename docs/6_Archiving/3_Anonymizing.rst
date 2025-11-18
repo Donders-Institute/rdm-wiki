@@ -60,7 +60,7 @@ Open this file and write a script which defaces all T1 images.
     ::
 
         #!/bin/bash
-        raw ="/project/3010000.05/XXXXXXX.XX/raw"
+        raw="/project/3010000.05/XXXXXXX.XX/raw"
         find "$subject/ses-mri01" -type f -path "*/mprage*/*.nii"
 
 .. dropdown:: Answer
@@ -68,7 +68,7 @@ Open this file and write a script which defaces all T1 images.
     ::
 
         #!/bin/bash
-        raw ="/project/3010000.05/XXXXXXX.XX/raw"
+        raw="/project/3010000.05/XXXXXXX.XX/raw"
 
         for subject in "$raw"/sub-*; do
             find "$subject/ses-mri01" -type f -path "/*mprage*/*.nii" | while read -r nii_file; do

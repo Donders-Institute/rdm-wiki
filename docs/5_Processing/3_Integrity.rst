@@ -151,7 +151,7 @@ Open the terminal emulator and run the following code
                 
             fi
 
-            if [ -d "$local_path" ]; then
+            if [ -d "$dir_path" ]; then
                 local_sha=$(sha256sum "$local_path" | awk '{print $1}')
                 if [ "$sha" != "$local_sha" ]; then
                     repocli get "$REPO_PATH/$path" "$dir_path"
