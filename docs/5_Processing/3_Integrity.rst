@@ -32,7 +32,7 @@ To illustrate how the :bdg-warning:`hash algorithm` works, let's create a new fi
 
 ::
 
-    cd /project/3010000.05/XXXXXXX.XX/scripts
+    cd /project/3010000.05/scripts
     Rscript combineData.R /project/3010000.05/XXXXXXX.XX/raw/
 
 If you open this file, you will see that it has many rows of data - one for each trial, per subject in our "experiment". 

@@ -25,8 +25,7 @@ Now that we have all of the data, we will run an analysis script.
 * Push Control and o together once RStudio has loaded
 * Double-click ``project`` on the left panel
 * Type ``3010000.05`` and push enter
-* Type ``XXXXXXX.XX`` and push enter
-* Double-click ``results``
+* Double-click ``scripts``
 * Double-click on the ``analysis.R`` file you uploaded
 * At the top of the script, change the ``outfile`` variable to ``/project/3010000.05/XXXXXXX.XX/results``
 
