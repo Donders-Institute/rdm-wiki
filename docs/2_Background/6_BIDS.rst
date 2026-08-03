@@ -1,7 +1,7 @@
 BIDS Format
 ******
 
-The :bdg-info:`Brain Imaging Data Structure format` (or BIDS format for short) is a standardized format for storing research data. 
+The :bdg-info:`Brain Imaging Data Structure` (or BIDS) format is a standardized format for storing research data.
 
 Benefits of Using BIDS
 =========
