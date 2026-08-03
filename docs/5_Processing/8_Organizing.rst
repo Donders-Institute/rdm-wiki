@@ -275,7 +275,7 @@ They answer the question: *What is this study and its data about?*
 
 Good practices include:
 
-* Completing all the metadata fields of the data repository you use for archiving and publication. Trusted repositories use metadata standards. For example, the :bdg-primary:`RDR` uses :bdg-info:`MetaCite` and :bdg-info:`DublinCore` standards. These standards contribute to the findability of your dataset.
+* Completing all the metadata fields of the data repository you use for archiving and publication. Trusted repositories use metadata standards. For example, the :bdg-primary:`RDR` uses :bdg-info:`DataCite` and :bdg-info:`Dublin Core` standards. These standards contribute to the findability of your dataset.
 * Providing enough information to allow others to understand the purpose and scope of the study without accessing the data themselves.
 * Adding supplementary contextual information when repository metadata fields are insufficient.
 
