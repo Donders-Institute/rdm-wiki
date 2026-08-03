@@ -6,7 +6,7 @@ Introduction to Research Data Management
 .. _University level: https://www.ru.nl/en/staff/researchers/research-data
 
 What is RDM?
-========
+============
 
 :bdg-success:`Research Data Management` (RDM) is the practice of managing your research data: 
 :bdg-primary-line:`where` :bdg-primary-line:`what` data is stored,
