@@ -1,7 +1,7 @@
 Key Background Information
 ********
 
-In order to be able to complete this Handbook, you'll need to know a bit about the :bdg-dark:`tools` which are used to move data, 
+In order to be able to complete this Wiki, you'll need to know a bit about the :bdg-dark:`tools` which are used to move data, 
 the :bdg-primary:`facilities` which can be used to store and analyze data, 
 and some other relevant information.
 
