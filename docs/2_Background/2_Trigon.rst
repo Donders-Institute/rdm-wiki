@@ -13,7 +13,7 @@ In order to access the Trigon Network remotely, you will need a Radboud account 
 Click `this link for instructions`_ on how to set up and use eduVPN to gain access to the Trigon Network.
 
 DCCN Services Which Require Trigon Network Access
-====
+====================================================
 
 * Interacting with :bdg-primary:`High Performance Storage` via all :bdg-dark:`Data Transfer Tools`
 * Using the :bdg-primary:`HPC Cluster`
