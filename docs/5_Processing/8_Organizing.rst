@@ -30,7 +30,7 @@ Examples of questions that you can ask yourself to optimize data organization an
 * What essential processing and cleaning steps are needed to make the data suitable for testing your study's hypothesis?
 * How do you keep track of different versions of data that may arise during the research?
 * Does all the generated data need to remain on the available (active) project storage for the entire study lifetime, or can certain raw and intermediate data be stored on archive storage after processing?
-* What parts of the data directly underly the research results and need to be preserved? What (intermediate) parts can be deleted, because they become obsolete or can easily be regenerated?
+* What parts of the data directly underlie the research results and need to be preserved? What (intermediate) parts can be deleted, because they become obsolete or can easily be regenerated?
 
 .. figure:: topdown.png
     :figwidth: 100%
