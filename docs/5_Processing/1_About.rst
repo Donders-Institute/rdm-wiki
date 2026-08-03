@@ -14,3 +14,4 @@ In this section, we'll inform you of the relevant :bdg-success:`RDM` practices i
    Using Local Storage <5_Local.rst>
    The Purposes of RDCs <6_RDC.rst>
    Best Practices for FAIR Research Data <7_FAIR.rst>
+   Efficient Storage Use <8_Organizing.rst>

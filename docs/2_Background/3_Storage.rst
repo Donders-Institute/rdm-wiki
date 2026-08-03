@@ -1,7 +1,7 @@
 Data Storage Facilities
 ********
 
-Typical data flow at :bdg-danger:`DCCN` uses three main types of :bdg-primary:`data storage facilities` - each with their own functionality, advantages and disadvantages. 
+The typical data flow at :bdg-danger:`DCCN` uses three main types of :bdg-primary:`data storage facilities` - each with their own functionality, advantages and disadvantages. 
 Knowing :bdg-primary-line:`where` data can and should be stored, as well as :bdg-warning-line:`when` it should be stored in certain locations is 
 crucial for being an effective and efficient researcher.
 
@@ -100,7 +100,7 @@ Radboud Data Repository
 
     * (Basically) unlimited storage
     * Secure 
-    * Facilitates compliance with Findable and Accessible principles of :bdg-info:`FAIR`, thereby meeting :bdg-info:`funder requirements`, many :bdg-info:`journal requirements`, and :bdg-info:`University policy`
+    * Facilitates compliance with Findable and Accessible principles of :bdg-info:`FAIR`, thereby meeting :bdg-info:`funder requirements`, many :bdg-info:`journal requirements`, and :bdg-info:`Radboud University policy`
     * Data for publication is reviewed for compliance with :bdg-info:`FAIR principles` and privacy risks by a data steward
 
 .. dropdown:: Disadvantages

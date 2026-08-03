@@ -1,9 +1,6 @@
 Data Transfer Tools
 ******
 
-Defining Data Transfer Tools
-==========
-
 :bdg-dark:`Data Transfer Tools` are computer programs which support moving data from :bdg-primary:`Storage Facility` to :bdg-primary:`Storage Facility`. 
 
 .. Warning::
@@ -15,8 +12,8 @@ Defining Data Transfer Tools
 
       Using alternative methods to transfer data is only possible when there are no other alternatives available and should only be done in consultation with the DCCN data steward and DCCN IT helpdesk.
 
-Supported Tools
-======
+Supported Tools at the DCCN
+==============================
 
 At the :bdg-danger:`DCCN`, we primarily support four :bdg-dark:`Data Transfer Tools`. 
 Each of these four :bdg-dark:`tools` have their advantages and disadvantages: :bdg-danger:`DCCN` :bdg-warning:`procedures` are shaped around these to maximize ease-of-use and efficiency.

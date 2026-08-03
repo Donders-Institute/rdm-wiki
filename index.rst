@@ -1,4 +1,4 @@
-The RDM Handbook
+The RDM Wiki
 ************
 
 Our Mission
